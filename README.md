@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/header/graph.svg?title=openfeed&subtitle=Everything+worth+reading,+gathered+by+date&logo=rss&align=left&mode=dark" />
-    <img alt="openfeed" src="https://shieldcn.dev/header/graph.svg?title=openfeed&subtitle=Everything+worth+reading,+gathered+by+date&logo=rss&align=left&mode=light" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/header/graph.svg?title=openfeed&subtitle=Everything+worth+reading,+gathered+by+date&align=left&mode=dark" />
+    <img alt="openfeed" src="https://shieldcn.dev/header/graph.svg?title=openfeed&subtitle=Everything+worth+reading,+gathered+by+date&align=left&mode=light" />
   </picture>
 </p>
 
@@ -20,7 +20,9 @@
   </picture>
 </p>
 
-**openfeed** is a personal reading feed. Everything worth reading from the sources you keep is gathered and laid out one day at a time — a calm, static page for each date instead of an infinite scroll.
+**openfeed** is a personalized reading feed. Everything worth reading from the sources you keep is gathered and laid out one day at a time — a calm, static page for each date instead of an infinite scroll.
+
+> You know *what* to read, *where* to read, and *how much* to read. But the amount of content piling up — especially in this AI race — is a lot. So why not hand all the hard work to **openfeed** and **FeedX**?
 
 The site is built with [Astro](https://astro.build) and follows an **island architecture**: every day and every tag is a fully pre-rendered static HTML page, and only the small interactive pieces (theme, calendar, owner tools) ship as client-side React. No feed content is fetched or re-rendered in the browser.
 
