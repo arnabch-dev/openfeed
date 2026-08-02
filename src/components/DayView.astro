@@ -1,0 +1,122 @@
+---
+import ThemeToggle from './ThemeToggle.jsx';
+import Calendar from './Calendar.jsx';
+import OwnerTools from './OwnerTools.jsx';
+import { DOW, MONTHS, muted, titleOf, fmtStamp, domainOf, slugify, groupByDomain } from '../lib/format.js';
+
+const { day, dates } = Astro.props;
+const items = day.items || [];
+const latest = dates.length ? dates[dates.length - 1] : day.date;
+
+const d = new Date(day.date + 'T00:00:00');
+const kicker = `${DOW[d.getDay()]}, ${d.getDate()} ${MONTHS[d.getMonth()]} ${d.getFullYear()}`;
+const heading = day.date === latest ? "Today's reading." : "That day's reading.";
+const groups = groupByDomain(items);
+const metaBase = `${items.length} ${items.length === 1 ? 'piece' : 'pieces'} · ${groups.length} ${groups.length === 1 ? 'source' : 'sources'}`;
+
+const idx = dates.indexOf(day.date);
+const earlierDate = idx > 0 ? dates[idx - 1] : null;
+const laterDate = idx >= 0 && idx < dates.length - 1 ? dates[idx + 1] : null;
+---
+
+<div
+	id="feed-root"
+	data-date={day.date}
+	data-meta-base={metaBase}
+	style={`min-height: 100vh; background: var(--color-bg); color: var(--color-text); font-family: var(--font-body); padding-bottom: 120px; transition: background .25s ease, color .25s ease`}
+>
+	<header style="max-width: 860px; margin: 0 auto; padding: 40px 28px 0; display: flex; align-items: flex-start; justify-content: space-between; gap: 24px">
+		<div>
+			<a href="/" style="font-family: var(--font-heading); font-size: 27px; letter-spacing: -0.025em; line-height: 1; text-decoration: none; color: var(--color-text)">open<span style="color: var(--color-accent-700)">feed</span></a>
+			<p style={`margin: 10px 0 0; max-width: 42ch; font-size: 14px; color: ${muted(58)}`}>Everything worth reading from the sources you keep, gathered and waiting for you.</p>
+		</div>
+		<div style="display: flex; align-items: center; gap: 10px">
+			<ThemeToggle client:idle />
+			<OwnerTools client:idle />
+		</div>
+	</header>
+
+	<main style="max-width: 860px; margin: 0 auto; padding: 0 28px">
+		<section style="padding-top: 44px">
+			<div style="position: relative; display: flex; align-items: center; gap: 14px; flex-wrap: wrap; margin-bottom: 10px">
+				<p style="margin: 0; font-size: 12px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--color-accent-700)">{kicker}</p>
+				<Calendar client:idle dates={dates} current={day.date} latest={latest} />
+				<span id="meta-line" style={`font-size: 12.5px; color: ${muted(45)}`}>{metaBase}</span>
+				<button id="hidden-toggle" hidden style={`background: transparent; border: 0; padding: 0; cursor: pointer; font-family: var(--font-body); font-size: 12.5px; text-decoration: underline; text-underline-offset: 3px; color: ${muted(45)}`}></button>
+			</div>
+
+			<h1 style="font-size: 48px; margin: 0; max-width: 16ch">{heading}</h1>
+			{day.summary && (
+				<p style={`margin: 16px 0 0; max-width: 54ch; font-size: 16px; line-height: 1.6; color: ${muted(68)}`}>{day.summary}</p>
+			)}
+
+			<div style="height: 1px; background: var(--color-divider); margin: 36px 0 0"></div>
+
+			<div style="display: flex; flex-direction: column; gap: 8px">
+				{groups.map((g) => (
+					<section class="group" data-domain={g.domain} style="padding: 34px 0 6px">
+						<div style="display: flex; align-items: center; gap: 12px; margin-bottom: 22px">
+							<span style="width: 9px; height: 9px; border-radius: 999px; background: var(--color-accent-2-500); flex: none"></span>
+							<h2 style="font-size: 19px; margin: 0">{g.domain}</h2>
+							<span style={`font-size: 12px; color: ${muted(48)}`}>{g.countLabel}</span>
+							<span style="flex: 1; height: 1px; background: var(--color-divider)"></span>
+						</div>
+
+						<div style="display: flex; flex-direction: column; gap: 26px; padding-left: 21px">
+							{g.items.map((it) => (
+								<article
+									data-id={it.id}
+									data-domain={g.domain}
+									style="animation: fl-rise .3s ease-out both; transition: opacity .2s"
+								>
+									<a class="feed-link article-link" href={it.url} target="_blank" rel="noopener" data-id={it.id} style="font-family: var(--font-heading); font-size: 22px; line-height: 1.28; letter-spacing: -0.01em; color: var(--color-text); text-decoration: none; display: block; text-wrap: pretty">{titleOf(it)}</a>
+									<p style={`margin: 8px 0 0; font-size: 15px; line-height: 1.6; color: ${muted(70)}; max-width: 62ch; text-wrap: pretty`}>{it.summary}</p>
+									<div style="display: flex; gap: 8px; flex-wrap: wrap; align-items: center; margin-top: 14px">
+										{it.tags.slice(0, 6).map((t) => (
+											<a class="tag tag-outline" href={`/tag/${slugify(t)}`} style="border-radius: 999px; cursor: pointer; font-size: 11.5px; background: transparent; text-decoration: none">{t}</a>
+										))}
+										<span style={`font-size: 11.5px; color: ${muted(45)}; margin-left: 4px`}>{fmtStamp(it.scraped_at)}</span>
+									</div>
+									<div class="owner-actions">
+										<button class="like-btn" data-id={it.id} title="Like"><span style="font-size: 13px">&#9829;</span><span class="like-label">Like</span></button>
+										<button class="btn btn-ghost hide-btn" data-id={it.id} style="border-radius: 999px; font-size: 12px; padding: 5px 14px; border: 1px solid var(--color-divider)">Hide</button>
+									</div>
+								</article>
+							))}
+						</div>
+					</section>
+				))}
+			</div>
+
+			{items.length === 0 && (
+				<div style="padding: 60px 0; max-width: 46ch">
+					<h2 style="font-size: 26px; margin: 0 0 10px">A quiet day.</h2>
+					<p style={`font-size: 15px; color: ${muted(62)}`}>Nothing was gathered for this date. Pick another day — there's plenty saved up.</p>
+				</div>
+			)}
+
+			<footer style="margin-top: 60px; padding-top: 28px; border-top: 1px solid var(--color-divider); display: flex; justify-content: space-between; gap: 16px; flex-wrap: wrap">
+				{earlierDate
+					? <a class="btn btn-secondary" href={`/${earlierDate}`} style="border-radius: 999px; font-size: 13px">&larr; Earlier</a>
+					: <span class="btn btn-secondary" style="border-radius: 999px; font-size: 13px; opacity: .45; cursor: not-allowed">&larr; Earlier</span>}
+				{laterDate
+					? <a class="btn btn-secondary" href={`/${laterDate}`} style="border-radius: 999px; font-size: 13px">Later &rarr;</a>
+					: <span class="btn btn-secondary" style="border-radius: 999px; font-size: 13px; opacity: .45; cursor: not-allowed">Later &rarr;</span>}
+			</footer>
+		</section>
+	</main>
+
+	<footer style="max-width: 860px; margin: 80px auto 0; padding: 28px 28px 0; border-top: 1px solid var(--color-divider); display: flex; align-items: baseline; justify-content: space-between; gap: 18px; flex-wrap: wrap">
+		<p style={`margin: 0; font-size: 13.5px; color: ${muted(55)}`}>Kept and maintained by <span style="color: var(--color-text)">Arnab Chatterjee</span>.</p>
+		<div style="display: flex; align-items: center; gap: 18px; font-size: 13.5px">
+			<a class="footer-link" href="https://github.com/ArnabChatterjee20k/FeedX" target="_blank" rel="noopener" style="display: inline-flex; align-items: center; gap: 7px; text-decoration: none; color: var(--color-accent-700)">
+				<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round"><path d="M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0-3 1.5-2.64-.5-5.36-.5-8 0C6 2 5 2 5 2c-.3 1.15-.3 2.35 0 3.5A5.4 5.4 0 0 0 4 9c0 3.5 3 5.5 6 5.5-.4.5-.7 1.1-.8 1.7-.1.6-.1 1.3 0 1.9v4"></path><path d="M9 18c-4.51 2-5-2-7-2"></path></svg>
+				<span>FeedX</span>
+			</a>
+			<a class="footer-link" href="https://twitter.com/arnabch20k" target="_blank" rel="noopener" style="display: inline-flex; align-items: center; gap: 7px; text-decoration: none; color: var(--color-accent-700)">
+				<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round"><path d="M22 4.5a8.4 8.4 0 0 1-2.4.7 4.2 4.2 0 0 0 1.8-2.3 8.3 8.3 0 0 1-2.6 1A4.1 4.1 0 0 0 11.7 7a11.7 11.7 0 0 1-8.5-4.3 4.1 4.1 0 0 0 1.3 5.5A4 4 0 0 1 2.6 7.7a4.1 4.1 0 0 0 3.3 4 4.2 4.2 0 0 1-1.9.1 4.1 4.1 0 0 0 3.8 2.9A8.3 8.3 0 0 1 2 16.4a11.7 11.7 0 0 0 6.3 1.9c7.6 0 11.8-6.3 11.8-11.8v-.6A8.3 8.3 0 0 0 22 4.5Z"></path></svg>
+				<span>@arnabch20k</span>
+			</a>
+		</div>
+	</footer>
+</div>
