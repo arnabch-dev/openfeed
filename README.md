@@ -88,6 +88,8 @@ Content comes from JSON files in `feeds/`, one per day:
 
 At build time, `getStaticPaths` reads every file and emits one static page per date and per tag. Drop a new `YYYY-MM-DD.json` into `feeds/` and it becomes its own page on the next build — the number of days can grow without adding any client-side cost.
 
+These `feeds/` files are **auto-populated**: this repo is the public template, while the actual daily feeds live in a separate **private fork** where [FeedX](https://github.com/ArnabChatterjee20k/FeedX) writes a fresh JSON file on a schedule and rebuilds. The public repo stays clean; the real reading lives privately.
+
 ### Interaction islands
 
 Only three small React components hydrate, and none of them carry feed content:
