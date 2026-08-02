@@ -1,0 +1,178 @@
+{
+  "date": "2026-07-25",
+  "generated_at": "2026-07-25T17:40:02.148503+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6a53b068397fe94a8582",
+      "url": "https://browser.engineering/#part-1-loading-pages",
+      "title": null,
+      "summary": "Web browser engineering book available from Oxford University Press",
+      "tags": [
+        "web browser engineering",
+        "python",
+        "javascript",
+        "networking",
+        "browsers",
+        "web",
+        "programming",
+        "bookshop"
+      ],
+      "score": 0.018275678918015296,
+      "scraped_at": "2026-07-12T15:19:02.607000+00:00"
+    },
+    {
+      "id": "6a53765dafd92ab833d8",
+      "url": "https://github.com/ArnabChatterjee20k/scout",
+      "title": null,
+      "summary": "GitHub repository for scout project",
+      "tags": [
+        "scout",
+        "github",
+        "repository",
+        "project"
+      ],
+      "score": 0.018275678918015296,
+      "scraped_at": "2026-07-12T11:11:25.049000+00:00"
+    },
+    {
+      "id": "6a53b06839847e065d17",
+      "url": "https://browser.engineering/http.html",
+      "title": null,
+      "summary": "A web browser downloads a web page from a server using a URL.",
+      "tags": [
+        "http",
+        "url",
+        "download",
+        "web",
+        "browser",
+        "server",
+        "socket",
+        "connection"
+      ],
+      "score": 0.018275678918015296,
+      "scraped_at": "2026-07-12T15:19:02.607000+00:00"
+    },
+    {
+      "id": "6a53b0683982deacfa5b",
+      "url": "https://browser.engineering/preface.html",
+      "title": null,
+      "summary": "A modern web browser book that explains its components and architecture.",
+      "tags": [
+        "modern web browser",
+        "browser book",
+        "html",
+        "css",
+        "javascript",
+        "programming",
+        "web development",
+        "browser architecture"
+      ],
+      "score": 0.018275678918015296,
+      "scraped_at": "2026-07-12T15:19:02.607000+00:00"
+    },
+    {
+      "id": "6a53b06839836af50996",
+      "url": "https://browser.engineering/intro.html",
+      "title": null,
+      "summary": "Browsers implement web's core functionality, including rendering, networking, and security, while web developers specify rendering parameters and content.",
+      "tags": [
+        "browser",
+        "web",
+        "rendering",
+        "networking",
+        "security",
+        "web development",
+        "browser engineering",
+        "algorithmic design"
+      ],
+      "score": 0.018275678918015296,
+      "scraped_at": "2026-07-12T15:19:02.607000+00:00"
+    },
+    {
+      "id": "6a53b0683983e4c33af8",
+      "url": "https://browser.engineering/history.html",
+      "title": null,
+      "summary": "The web's history is not exhaustive, but it begins with the World Wide Web's emergence from academic culture at CERN.",
+      "tags": [
+        "web",
+        "history",
+        "browser"
+      ],
+      "score": 0.018275678918015296,
+      "scraped_at": "2026-07-12T15:19:02.607000+00:00"
+    },
+    {
+      "id": "6a53b068398256535ddd",
+      "url": "https://browser.engineering/#part-4-modern-browsers",
+      "title": null,
+      "summary": "Web browser engineering book available from various sources",
+      "tags": [
+        "web browser engineering",
+        "python",
+        "book",
+        "bookshop",
+        "barnes and noble",
+        "discussion forum",
+        "github",
+        "part 4: modern browsers"
+      ],
+      "score": 0.018275678918015296,
+      "scraped_at": "2026-07-12T15:19:02.607000+00:00"
+    },
+    {
+      "id": "6a53b0683980babc8d95",
+      "url": "https://browser.engineering/#introduction",
+      "title": null,
+      "summary": "Web browser engineering book",
+      "tags": [
+        "web browser engineering",
+        "python",
+        "javascript",
+        "networking",
+        "browsers",
+        "ubiquity",
+        "oxford university press",
+        "bookshop"
+      ],
+      "score": 0.018275678918015296,
+      "scraped_at": "2026-07-12T15:19:02.607000+00:00"
+    },
+    {
+      "id": "6a53b06839814ab829b1",
+      "url": "https://browser.engineering/#part-2-viewing-documents",
+      "title": null,
+      "summary": "Web Browser Engineering book available from various sources",
+      "tags": [
+        "web browser engineering",
+        "book",
+        "python",
+        "programming",
+        "browsers",
+        "javascript",
+        "networking",
+        "oxford university press"
+      ],
+      "score": 0.018275678918015296,
+      "scraped_at": "2026-07-12T15:19:02.607000+00:00"
+    },
+    {
+      "id": "6a53b0683981de613266",
+      "url": "https://browser.engineering/#part-3-running-applications",
+      "title": null,
+      "summary": "Web browser engineering book available from various sources",
+      "tags": [
+        "web browser engineering",
+        "python",
+        "book",
+        "programming",
+        "browsers",
+        "javascript",
+        "networking",
+        "oxford university press"
+      ],
+      "score": 0.018275678918015296,
+      "scraped_at": "2026-07-12T15:19:02.607000+00:00"
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "date": "2026-07-26",
+  "generated_at": "2026-07-26T18:12:09.899156+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6a664aab3edb6b326863",
+      "url": "https://planetscale.com/blog?page=11",
+      "title": "Blog — PlanetScale",
+      "summary": "PlanetScale is now GA, offering better scalability and developer workflow.",
+      "tags": [
+        "planetscale",
+        "managed",
+        "aws",
+        "gcp",
+        "scalability",
+        "developer",
+        "workflow",
+        "rds"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-07-26T17:58:02.591000+00:00"
+    },
+    {
+      "id": "6a664a76125aaf019f34",
+      "url": "https://browser.engineering/preface.html",
+      "title": "Preface | Web Browser Engineering",
+      "summary": "This book explains the major components of a modern web browser, handling only a sliver of HTML, CSS, and JavaScript languages, and mishandling errors and being slow.",
+      "tags": [
+        "web browser",
+        "browser engineering",
+        "python",
+        "programming",
+        "html",
+        "css",
+        "javascript",
+        "standards"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-07-26T17:57:09.464000+00:00"
+    },
+    {
+      "id": "6a664a4a854e631959eb",
+      "url": "https://planetscale.com/blog/deadlocks-and-downtime",
+      "title": "Deadlocks and downtime — PlanetScale",
+      "summary": "Deadlocks occur when two or more transactions are blocked indefinitely, waiting for each other to release locks.",
+      "tags": [
+        "deadlock",
+        "latency",
+        "database",
+        "transactions",
+        "lock",
+        "lockout",
+        "insights",
+        "errors"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-07-26T17:56:25.912000+00:00"
+    },
+    {
+      "id": "6a664a19cf87454db089",
+      "url": "https://browser.engineering/change.html",
+      "title": "A Changing Landscape | Web Browser Engineering",
+      "summary": "The web is evolving, with new technologies and features emerging.",
+      "tags": [
+        "web",
+        "browser",
+        "engineering",
+        "future",
+        "computing",
+        "lives",
+        "changing",
+        "landscape"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-07-26T17:55:37.221000+00:00"
+    },
+    {
+      "id": "6a664865d795467e6dd9",
+      "url": "https://browser.engineering/text.html",
+      "title": "Formatting Text | Web Browser Engineering",
+      "summary": "The chapter discusses styling text in web pages, including support for bold and italic tags.",
+      "tags": [
+        "web browser engineering",
+        "styling text",
+        "bold",
+        "italic",
+        "text",
+        "tags",
+        "engines",
+        "text.html"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-07-26T17:48:21.062000+00:00"
+    },
+    {
+      "id": "6a66495a20b9c5b8ca58",
+      "url": "https://browser.engineering/forms.html",
+      "title": "Sending Information to Servers | Web Browser Engineering",
+      "summary": "The browser and server interact over HTTP to send and receive information, with the browser making GET and POST requests to the server to update the message board state.",
+      "tags": [
+        "async python",
+        "programming",
+        "web browser engineering",
+        "forms",
+        "server side",
+        "request response",
+        "http requests",
+        "client server interaction"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-07-26T17:52:25.484000+00:00"
+    },
+    {
+      "id": "6a6648dd5fd0bda679d9",
+      "url": "https://browser.engineering/graphics.html",
+      "title": "Drawing to the Screen | Web Browser Engineering",
+      "summary": "Browser will draw web page text to a canvas, allowing for drawing shapes on the canvas.",
+      "tags": [
+        "graphics",
+        "web browser",
+        "engineering",
+        "canvas",
+        "tkinter",
+        "drawing",
+        "web page",
+        "screen"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-07-26T17:50:20.716000+00:00"
+    },
+    {
+      "id": "6a66489c1979b0e82917",
+      "url": "https://planetscale.com/blog?page=10",
+      "title": "Blog — PlanetScale",
+      "summary": "Getting started with the PlanetScale CLI",
+      "tags": [
+        "getting started",
+        "planetscale cli",
+        "cli",
+        "command line interface",
+        "planetscale",
+        "database",
+        "cloud",
+        "serverless"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-07-26T17:49:15.492000+00:00"
+    },
+    {
+      "id": "6a6646b739881d6ba311",
+      "url": "https://planetscale.com/vitess",
+      "title": "Vitess — PlanetScale",
+      "summary": "Vitess is an open source technology for deploying, scaling, and managing large database clusters.",
+      "tags": [
+        "vitess",
+        "open source",
+        "database",
+        "cluster management",
+        "youtube",
+        "planet scale",
+        "battle hardened",
+        "large sites"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-07-26T17:41:10.625000+00:00"
+    },
+    {
+      "id": "6a664687d42cc8e60de4",
+      "url": "https://browser.engineering/skipped.html",
+      "title": "What Wasn’t Covered | Web Browser Engineering",
+      "summary": "Modern web browsers have complex browser UIs, but also extend the UI with HTML and WebAssembly.",
+      "tags": [
+        "browser ui",
+        "html",
+        "webassembly",
+        "browser extension",
+        "skia",
+        "chromium",
+        "graphics engine",
+        "compositing systems"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-07-26T17:40:23.198000+00:00"
+    }
+  ]
+}
