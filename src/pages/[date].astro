@@ -1,0 +1,19 @@
+---
+import Layout from '../layouts/Layout.astro';
+import DayView from '../components/DayView.astro';
+import { getFeed, getDates } from '../lib/feeds.js';
+
+export function getStaticPaths() {
+	const dates = getDates();
+	return getFeed().map((day) => ({
+		params: { date: day.date },
+		props: { day, dates },
+	}));
+}
+
+const { day, dates } = Astro.props;
+---
+
+<Layout title={`openfeed · ${day.date}`}>
+	<DayView day={day} dates={dates} />
+</Layout>

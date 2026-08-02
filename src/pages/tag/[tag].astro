@@ -1,0 +1,56 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import ThemeToggle from '../../components/ThemeToggle.jsx';
+import { getTagIndex } from '../../lib/feeds.js';
+import { titleOf, domainOf, dayLabel, muted } from '../../lib/format.js';
+
+export function getStaticPaths() {
+	return Array.from(getTagIndex().values()).map((t) => ({
+		params: { tag: t.slug },
+		props: { name: t.name, results: t.results },
+	}));
+}
+
+const { name, results } = Astro.props;
+const count = results.length;
+const blurb = `${count} ${count === 1 ? 'piece' : 'pieces'} tagged this way, across every day in the feed.`;
+---
+
+<Layout title={`openfeed · ${name}`}>
+	<div style={`min-height: 100vh; background: var(--color-bg); color: var(--color-text); font-family: var(--font-body); padding-bottom: 120px`}>
+		<header style="max-width: 860px; margin: 0 auto; padding: 40px 28px 0; display: flex; align-items: flex-start; justify-content: space-between; gap: 24px">
+			<div>
+				<a href="/" style="font-family: var(--font-heading); font-size: 27px; letter-spacing: -0.025em; line-height: 1; text-decoration: none; color: var(--color-text)">open<span style="color: var(--color-accent-700)">feed</span></a>
+				<p style={`margin: 10px 0 0; max-width: 42ch; font-size: 14px; color: ${muted(58)}`}>Everything worth reading from the sources you keep, gathered and waiting for you.</p>
+			</div>
+			<ThemeToggle client:idle />
+		</header>
+
+		<main style="max-width: 860px; margin: 0 auto; padding: 0 28px">
+			<section style="padding-top: 40px">
+				<div style="display: flex; align-items: baseline; gap: 12px; flex-wrap: wrap">
+					<h1 style="font-size: 38px; margin: 0">{name}</h1>
+					<a class="btn btn-ghost" href="/" style="border-radius: 999px; font-size: 13px; text-decoration: underline">back to the day</a>
+				</div>
+				<p style={`margin: 10px 0 0; font-size: 14.5px; color: ${muted(60)}`}>{blurb}</p>
+
+				<div style="margin-top: 34px; display: flex; flex-direction: column; gap: 30px">
+					{results.map(({ date, item }) => (
+						<article style="display: flex; gap: 18px; align-items: flex-start">
+							<a href={`/${date}`} style="flex: none; margin-top: 4px; font-size: 11px; letter-spacing: 0.06em; text-transform: uppercase; color: var(--color-accent-2-700); width: 74px; text-decoration: none">{dayLabel(date)}</a>
+							<div style="flex: 1; min-width: 0">
+								<a class="feed-link" href={item.url} target="_blank" rel="noopener" style="font-family: var(--font-heading); font-size: 20px; line-height: 1.25; text-decoration: none; color: var(--color-text); display: block">{titleOf(item)}</a>
+								<p style={`margin: 6px 0 0; font-size: 14.5px; color: ${muted(68)}`}>{item.summary}</p>
+								<span style={`display: block; margin-top: 8px; font-size: 12px; color: ${muted(50)}`}>{domainOf(item.url)}</span>
+							</div>
+						</article>
+					))}
+				</div>
+
+				{count === 0 && (
+					<p style={`margin-top: 30px; font-size: 15px; color: ${muted(60)}`}>Nothing under that one yet. It'll turn up.</p>
+				)}
+			</section>
+		</main>
+	</div>
+</Layout>
