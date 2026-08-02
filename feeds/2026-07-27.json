@@ -1,0 +1,183 @@
+{
+  "date": "2026-07-27",
+  "generated_at": "2026-07-27T08:22:46.726498+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6a66f80ae7097ab95448",
+      "url": "https://browser.engineering/glossary.html",
+      "title": "Glossary | Web Browser Engineering",
+      "summary": "A web page's conceptual object, analogous to physical documents.",
+      "tags": [
+        "glossary",
+        "web browser",
+        "engines",
+        "khronos group",
+        "webgl",
+        "webgpu",
+        "browser",
+        "software"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-07-27T06:17:46.254000+00:00"
+    },
+    {
+      "id": "6a66f7c9e4ac7d252603",
+      "url": "https://planetscale.com/blog/transparency-in-benchmarking",
+      "title": "Transparency in benchmarking — PlanetScale",
+      "summary": "PlanetScale emphasizes transparency in benchmarking, encouraging best practices and fair methodology.",
+      "tags": [
+        "transparency",
+        "benchmarking",
+        "planetscale",
+        "benchmarking best practices",
+        "on benchmarking",
+        "benchmarking guide",
+        "database benchmarks",
+        "benchmarking language"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-07-27T06:16:41.804000+00:00"
+    },
+    {
+      "id": "6a66f79dde0ce2efa9b9",
+      "url": "https://browser.engineering/bibliography.html",
+      "title": "More Resources | Web Browser Engineering",
+      "summary": "Modern web browsers are complex systems that rely on various technologies and architectures to function. This article provides a reference architecture for web browsers and explores how browsers work.",
+      "tags": [
+        "web browser engineering",
+        "browser architecture",
+        "modern web browsers",
+        "javascript",
+        "ajax",
+        "web development",
+        "browser networking",
+        "high-performance computing"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-07-27T06:15:56.630000+00:00"
+    },
+    {
+      "id": "6a66f6dc1742ce8666cb",
+      "url": "https://browser.engineering/visual-effects.html",
+      "title": "Adding Visual Effects | Web Browser Engineering",
+      "summary": "The chapter discusses the need for improved visual effects in web browsers, which currently lack support for complex effects such as blending and color mixing.",
+      "tags": [
+        "visual effects",
+        "browser engineering",
+        "skia graphics library",
+        "blending",
+        "color mixing",
+        "surface management",
+        "fast scrolling",
+        "animations"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-07-27T06:12:43.312000+00:00"
+    },
+    {
+      "id": "6a66f5ad9e77a08ed308",
+      "url": "https://planetscale.com/case-studies/barstool-sports",
+      "title": "How Barstool Sports eliminated outages after migrating from Amazon Aurora to PlanetScale — PlanetScale",
+      "summary": "Barstool Sports eliminated outages after migrating from Amazon Aurora to PlanetScale, saving millions in outage avoidance.",
+      "tags": [
+        "barstool sports",
+        "planet scale",
+        "cloud database",
+        "mysql",
+        "outage avoidance",
+        "cloud-native",
+        "fail-over",
+        "cloud migration"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-07-27T06:07:40.998000+00:00"
+    },
+    {
+      "id": "6a66f412ac4ec182a0c0",
+      "url": "https://browser.engineering/security.html",
+      "title": "Keeping Data Private | Web Browser Engineering",
+      "summary": "The guest book is more secure than before due to browser security measures, but there's more to web application security than this book covers.",
+      "tags": [
+        "browser security",
+        "web application security",
+        "security measures",
+        "nonce",
+        "cross-site scripting"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-07-27T06:00:50.053000+00:00"
+    },
+    {
+      "id": "6a66f3581bc7362c8e79",
+      "url": "https://planetscale.com/blog/high-memory-usage-in-postgres-is-good-actually",
+      "title": "High memory usage in Postgres is good, actually — PlanetScale",
+      "summary": "Postgres uses spare RAM to avoid expensive disk reads, improving performance. A healthy Postgres server uses most of available RAM.",
+      "tags": [
+        "postgres",
+        "memory usage",
+        "database performance",
+        "ram",
+        "disk reads",
+        "cpu",
+        "disk speed"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-07-27T05:57:43.480000+00:00"
+    },
+    {
+      "id": "6a66f5ad9e771bb6b3da",
+      "url": "https://planetscale.com/case-studies/cash-app",
+      "title": "Cash App: Scaling to 400TiB and 4 million QPS on PlanetScale — PlanetScale",
+      "summary": "Cash App scales to 400TiB and 4 million QPS on PlanetScale, leveraging Vitess expertise and support.",
+      "tags": [
+        "cash app",
+        "planetscale",
+        "vitess",
+        "aws",
+        "database",
+        "scalability",
+        "cloud",
+        "managed database"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-07-27T06:07:40.998000+00:00"
+    },
+    {
+      "id": "6a66f5ad9e7a6b035474",
+      "url": "https://planetscale.com/case-studies/dub",
+      "title": "How Dub uses PlanetScale to power massive growth without database bottlenecks — PlanetScale",
+      "summary": "Dub uses PlanetScale to power massive growth without database bottlenecks, leveraging high development velocity and unmatched development velocity.",
+      "tags": [
+        "dub",
+        "planetscale",
+        "massive growth",
+        "database bottlenecks",
+        "development velocity",
+        "innovative improvements",
+        "rock-solid foundation",
+        "unmatched development velocity"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-07-27T06:07:40.998000+00:00"
+    },
+    {
+      "id": "6a664735a4dd24ddcd32",
+      "url": "https://browser.engineering/http.html",
+      "title": "Downloading Web Pages | Web Browser Engineering",
+      "summary": "A web browser downloads a web page from a server by connecting to the host and using sockets.",
+      "tags": [
+        "web browser",
+        "eng",
+        "engineering",
+        "http",
+        "socket",
+        "server",
+        "download",
+        "url"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-07-26T17:43:17.161000+00:00"
+    }
+  ]
+}

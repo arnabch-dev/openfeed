@@ -1,0 +1,175 @@
+{
+  "date": "2026-08-02",
+  "generated_at": "2026-08-02T07:28:04.020519+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6a6edb47d190db703f69",
+      "url": "https://arpitbhayani.me/blogs/okr",
+      "title": "How to Write Effective OKRs",
+      "summary": "OKRs are a goal-setting framework used to define measurable goals and track progress. They consist of two key things: Objectives and Key Results. OKRs are tools to drive focus and alignment, and should evolve with the organization. A common mistake is treating OKRs as a checklist of tasks. Index OKRs using labels like O1, KR1, KR2, KR3, etc.",
+      "tags": [
+        "okr",
+        "goal-setting",
+        "productivity",
+        "teamwork",
+        "organization"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-02T05:53:11.505000+00:00"
+    },
+    {
+      "id": "6a6edb0ca2ce6a5218f3",
+      "url": "https://www.tigerdata.com/energy-utilities",
+      "title": "Postgres for Energy & Utilities | Tiger Data",
+      "summary": "Tiger Cloud is a managed PostgreSQL time-series database for energy & utilities.",
+      "tags": [
+        "energy utilities",
+        "postgresql",
+        "time-series",
+        "telemetry",
+        "ev charging",
+        "battery storage",
+        "renewable assets",
+        "grid platforms"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-02T05:52:12.094000+00:00"
+    },
+    {
+      "id": "6a6edaa3afbb7f9f0303",
+      "url": "https://planetscale.com/blog/massively-parallel-postgres-backups",
+      "title": "Massively parallel Postgres backups — PlanetScale",
+      "summary": "PlanetScale demonstrates massively parallel Postgres backups using sharding and object storage",
+      "tags": [
+        "massively parallel",
+        "postgres",
+        "sharding",
+        "object storage",
+        "backups",
+        "petabyte-scale",
+        "database",
+        "petabytes"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-02T05:50:26.835000+00:00"
+    },
+    {
+      "id": "6a6ed8f8397f61b560fb",
+      "url": "https://arpitbhayani.me/blogs/lead-projects-that-land",
+      "title": "Lead Projects That Land, Execution Over Everything",
+      "summary": "Lead projects that land, execution over everything",
+      "tags": [
+        "lead",
+        "projects",
+        "land",
+        "execution",
+        "everything"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-02T05:43:20.057000+00:00"
+    },
+    {
+      "id": "6a6ed8c4b8b631e521d7",
+      "url": "https://www.tigerdata.com/security",
+      "title": "Tiger Data Security | Tiger Data",
+      "summary": "Tiger Data requires industry-standard Transport Layer Security for all connections.",
+      "tags": [
+        "tiger data",
+        "security",
+        "transport layer security",
+        "encryption"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-02T05:42:28.131000+00:00"
+    },
+    {
+      "id": "6a6ed80a26ea4e9b1e41",
+      "url": "https://arpitbhayani.me/blogs/shiny-object-syndrome-in-tech",
+      "title": "Shiny Obect Syndrome in Tech",
+      "summary": "Evaluating work vs world in tech, avoiding widening gap between innovation and industry progress. Importance of informed decision-making.",
+      "tags": [
+        "tech",
+        "innovation",
+        "progress",
+        "decision-making",
+        "informed",
+        "evaluation",
+        "gap",
+        "innovation vs industry"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-02T05:39:21.514000+00:00"
+    },
+    {
+      "id": "6a6ed7339dfcc0d54ce4",
+      "url": "https://arpitbhayani.me/blogs/qkv-matrices",
+      "title": "The Q, K, V Matrices",
+      "summary": "The Q, K, V matrices are used in the self-attention mechanism of a neural network to compute the weighted sum of the input features.",
+      "tags": [
+        "self-attention",
+        "neural network",
+        "attention mechanism",
+        "q, k, v matrices",
+        "neural networks",
+        "machine learning",
+        "deep learning",
+        "ai"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-02T05:35:47.446000+00:00"
+    },
+    {
+      "id": "6a6ed93ce76597175387",
+      "url": "https://planetscale.com/blog/patterns-for-postgres-traffic-control",
+      "title": "Patterns for Postgres Traffic Control — PlanetScale",
+      "summary": "Traffic Control in Postgres allows attaching budgets to slices of traffic, enabling resource management.",
+      "tags": [
+        "postgres",
+        "traffic control",
+        "budget management",
+        "resource allocation",
+        "traffic optimization",
+        "pgx/v5",
+        "custom tags",
+        "query optimization"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-02T05:44:28.676000+00:00"
+    },
+    {
+      "id": "6a6ed763d4f25f2d94f6",
+      "url": "https://planetscale.com/blog/when-the-postgres-query-planner-goes-rogue",
+      "title": "When the Postgres query planner goes rogue — PlanetScale",
+      "summary": "A customer of PlanetScale reported a rogue Postgres query planner, causing issues with their database.",
+      "tags": [
+        "async python",
+        "postgresql",
+        "query planner",
+        "database",
+        "traffic control",
+        "budget",
+        "resource",
+        "enforce mode"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-02T05:36:35.707000+00:00"
+    },
+    {
+      "id": "6a6eda5f41d9bfbcf0f3",
+      "url": "https://arpitbhayani.me/blogs/arrogant-people-at-work",
+      "title": "How to Handle Arrogant Colleagues at Work",
+      "summary": "Handling arrogant colleagues at work requires respect, humility, and effective communication.",
+      "tags": [
+        "arrogance",
+        "workplace",
+        "teamwork",
+        "communication",
+        "respect",
+        "humility"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-02T05:49:18.447000+00:00"
+    }
+  ]
+}

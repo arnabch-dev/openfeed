@@ -1,0 +1,180 @@
+{
+  "date": "2026-08-01",
+  "generated_at": "2026-08-01T08:50:55.402536+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6a6da4958c6cb2790e26",
+      "url": "https://www.tigerdata.com/cloud",
+      "title": "Tiger Cloud — Production Postgres at Scale | Tiger Data",
+      "summary": "Tiger Cloud Postgres for production use with preferred cloud provider and Postgres ecosystem.",
+      "tags": [
+        "tiger cloud",
+        "postgres",
+        "production",
+        "cloud",
+        "timescaledb",
+        "timescale",
+        "enterprise",
+        "self-managed"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-01T07:47:33.420000+00:00"
+    },
+    {
+      "id": "6a6da3cb883a4162553e",
+      "url": "https://arpitbhayani.me/system-design-for-beginners",
+      "title": "System Design for Beginners | Arpit Bhayani",
+      "summary": "System Design for Beginners: A course for engineers to learn system design fundamentals and build systems from scratch.",
+      "tags": [
+        "system design",
+        "beginners",
+        "engineering",
+        "design",
+        "course",
+        "fundamentals",
+        "building",
+        "systems"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-01T07:44:10.593000+00:00"
+    },
+    {
+      "id": "6a6da380e6d78826efa2",
+      "url": "https://browser.engineering/forms.html",
+      "title": "Sending Information to Servers | Web Browser Engineering",
+      "summary": "A browser transforms into a platform for web applications by supporting HTML forms, allowing for data to be sent to and received from servers via HTTP requests.",
+      "tags": [
+        "browser",
+        "web",
+        "application",
+        "forms",
+        "server",
+        "client"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-01T07:42:56.596000+00:00"
+    },
+    {
+      "id": "6a6da222ef351d821ede",
+      "url": "https://browser.engineering/html.html",
+      "title": "Constructing an HTML Tree | Web Browser Engineering",
+      "summary": "HTML tree construction from source code",
+      "tags": [
+        "constructing html tree",
+        "web browser engineering",
+        "html parsing",
+        "tree structure",
+        "visual complex web pages"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-01T07:37:06.064000+00:00"
+    },
+    {
+      "id": "6a6da119d2447428e41c",
+      "url": "https://arpitbhayani.me/blogs/string-interning-python",
+      "title": "How Python Uses String Interning to Keep Runtime Efficient",
+      "summary": "Python's string interning process is a compiler/interpreter optimization method that reduces memory footprint by making common string processing tasks efficient.",
+      "tags": [
+        "python",
+        "interning",
+        "string",
+        "optimization",
+        "memory",
+        "efficiency",
+        "string intern",
+        "interned strings"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-01T07:32:41.739000+00:00"
+    },
+    {
+      "id": "6a6da0dfe80d3bb36b5d",
+      "url": "https://browser.engineering/invalidation.html",
+      "title": "Reusing Previous Computations | Web Browser Engineering",
+      "summary": "Browser engineers focus on reusing previous computations to improve performance, leveraging principles like incremental performance and caching.",
+      "tags": [
+        "browser engineering",
+        "web development",
+        "performance optimization",
+        "incremental performance",
+        "caching",
+        "layout tree",
+        "incremental rendering"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-01T07:31:43.034000+00:00"
+    },
+    {
+      "id": "6a6da3fd7e45bd4b3c7a",
+      "url": "https://planetscale.com/migrate",
+      "title": "Migrate to PlanetScale Postgres — Simplified database migration — PlanetScale",
+      "summary": "Migrate to PlanetScale Postgres for a managed database solution.",
+      "tags": [
+        "planetscale",
+        "postgres",
+        "migrate",
+        "database",
+        "migration",
+        "managed",
+        "solution",
+        "aws rds"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-01T07:45:00.641000+00:00"
+    },
+    {
+      "id": "6a6da3cb883d0cce3550",
+      "url": "https://arpitbhayani.me/system-design-for-beginners/payrec",
+      "title": "Pay for System Design for Beginners | Arpit Bhayani",
+      "summary": "Pay for system design for beginners, a system design masterclass, and more.",
+      "tags": [
+        "system design",
+        "beginners",
+        "masterclass",
+        "payrec",
+        "system design for beginners",
+        "system design masterclass",
+        "weekly essays",
+        "distributed systems"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-01T07:44:10.593000+00:00"
+    },
+    {
+      "id": "6a6da252de49a27169a3",
+      "url": "https://arpitbhayani.me/blogs/mistaken-beliefs-of-distributed-systems",
+      "title": "Fallacies of Distributed Computing Every Engineer Should Know",
+      "summary": "Distributed computing has several fallacies, including the assumption of a single, reliable network, the misconception of infinite scalability, and the neglect of hardware and maintenance costs.",
+      "tags": [
+        "distributed systems",
+        "fallacies",
+        "engineering",
+        "system design",
+        "scalability",
+        "cost",
+        "maintenance",
+        "network reliability"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-01T07:37:54.024000+00:00"
+    },
+    {
+      "id": "6a6da30a666d53387648",
+      "url": "https://www.tigerdata.com/crypto",
+      "title": "Postgres Built for 24/7 Crypto Markets | Tiger Data",
+      "summary": "Fully managed Postgres + TimescaleDB for 24/7 crypto markets.",
+      "tags": [
+        "postgres",
+        "timescaledb",
+        "crypto",
+        "cloud",
+        "tigerdata",
+        "tigercloud",
+        "selfmanaged"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-01T07:40:57.749000+00:00"
+    }
+  ]
+}
