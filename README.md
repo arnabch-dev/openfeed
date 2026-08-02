@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/header/graph.svg?title=openfeed&subtitle=Everything+worth+reading,+gathered+by+date&align=left&mode=dark" />
-    <img alt="openfeed" src="https://shieldcn.dev/header/graph.svg?title=openfeed&subtitle=Everything+worth+reading,+gathered+by+date&align=left&mode=light" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/header/graph.svg?title=openfeed&subtitle=Everything+worth+reading,+gathered+by+date&align=left&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZS13aWR0aD0iMS44IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xMiAydjMuNSIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iOCIgcj0iMS43Ii8%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMyIgcj0iMy4zIi8%2BPHBhdGggZD0iTTkgMTEgTDMuOCA3LjUgTTkgMTIuNCBMMy4yIDExIE05IDEzLjggTDMuMiAxNSBNOS4yIDE1LjIgTDQuMiAxOC42Ii8%2BPHBhdGggZD0iTTE1IDExIEwyMC4yIDcuNSBNMTUgMTIuNCBMMjAuOCAxMSBNMTUgMTMuOCBMMjAuOCAxNSBNMTQuOCAxNS4yIEwxOS44IDE4LjYiLz48L3N2Zz4%3D&mode=dark" />
+    <img alt="openfeed" src="https://shieldcn.dev/header/graph.svg?title=openfeed&subtitle=Everything+worth+reading,+gathered+by+date&align=left&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZS13aWR0aD0iMS44IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xMiAydjMuNSIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iOCIgcj0iMS43Ii8%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMyIgcj0iMy4zIi8%2BPHBhdGggZD0iTTkgMTEgTDMuOCA3LjUgTTkgMTIuNCBMMy4yIDExIE05IDEzLjggTDMuMiAxNSBNOS4yIDE1LjIgTDQuMiAxOC42Ii8%2BPHBhdGggZD0iTTE1IDExIEwyMC4yIDcuNSBNMTUgMTIuNCBMMjAuOCAxMSBNMTUgMTMuOCBMMjAuOCAxNSBNMTQuOCAxNS4yIEwxOS44IDE4LjYiLz48L3N2Zz4%3D&mode=light" />
   </picture>
 </p>
 
