@@ -1,8 +1,5 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/header/graph.svg?title=openfeed&subtitle=Everything+worth+reading,+gathered+by+date&align=left&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZS13aWR0aD0iMS44IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xMiAydjMuNSIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iOCIgcj0iMS43Ii8%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMyIgcj0iMy4zIi8%2BPHBhdGggZD0iTTkgMTEgTDMuOCA3LjUgTTkgMTIuNCBMMy4yIDExIE05IDEzLjggTDMuMiAxNSBNOS4yIDE1LjIgTDQuMiAxOC42Ii8%2BPHBhdGggZD0iTTE1IDExIEwyMC4yIDcuNSBNMTUgMTIuNCBMMjAuOCAxMSBNMTUgMTMuOCBMMjAuOCAxNSBNMTQuOCAxNS4yIEwxOS44IDE4LjYiLz48L3N2Zz4%3D&mode=dark" />
-    <img alt="openfeed" src="https://shieldcn.dev/header/graph.svg?title=openfeed&subtitle=Everything+worth+reading,+gathered+by+date&align=left&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZS13aWR0aD0iMS44IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xMiAydjMuNSIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iOCIgcj0iMS43Ii8%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMyIgcj0iMy4zIi8%2BPHBhdGggZD0iTTkgMTEgTDMuOCA3LjUgTTkgMTIuNCBMMy4yIDExIE05IDEzLjggTDMuMiAxNSBNOS4yIDE1LjIgTDQuMiAxOC42Ii8%2BPHBhdGggZD0iTTE1IDExIEwyMC4yIDcuNSBNMTUgMTIuNCBMMjAuOCAxMSBNMTUgMTMuOCBMMjAuOCAxNSBNMTQuOCAxNS4yIEwxOS44IDE4LjYiLz48L3N2Zz4%3D&mode=light" />
-  </picture>
+  <img alt="openfeed — Everything worth reading, gathered by date" src="./.github/assets/header.svg" width="750" />
 </p>
 
 **openfeed** is a personalized reading feed — an archive of everything worth reading from the sources you keep, gathered and laid out one day at a time. Not a stream to keep up with, but a place your reading collects and stays.
@@ -16,20 +13,20 @@ openfeed is only the reading surface. All the real work — finding, gathering, 
 <p>
   <a href="https://github.com/ArnabChatterjee20k/FeedX">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/FeedX-core%20engine-8c491a.svg?logo=github&variant=ghost&size=xs&mode=dark" />
-      <img alt="FeedX — core engine" src="https://shieldcn.dev/badge/FeedX-core%20engine-8c491a.svg?logo=github&variant=ghost&size=xs&mode=light" />
+      <source media="(prefers-color-scheme: dark)" srcset="./.github/assets/badge-feedx-dark.svg" />
+      <img alt="FeedX — core engine" src="./.github/assets/badge-feedx-light.svg" />
     </picture>
   </a>
   <a href="https://github.com/ArnabChatterjee20k/Scout">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Scout-framework-56633f.svg?logo=github&variant=ghost&size=xs&mode=dark" />
-      <img alt="Scout — framework" src="https://shieldcn.dev/badge/Scout-framework-56633f.svg?logo=github&variant=ghost&size=xs&mode=light" />
+      <source media="(prefers-color-scheme: dark)" srcset="./.github/assets/badge-scout-dark.svg" />
+      <img alt="Scout — framework" src="./.github/assets/badge-scout-light.svg" />
     </picture>
   </a>
   <a href="https://github.com/ArnabChatterjee20k/domdistill">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/domdistill-framework-56633f.svg?logo=github&variant=ghost&size=xs&mode=dark" />
-      <img alt="domdistill — framework" src="https://shieldcn.dev/badge/domdistill-framework-56633f.svg?logo=github&variant=ghost&size=xs&mode=light" />
+      <source media="(prefers-color-scheme: dark)" srcset="./.github/assets/badge-domdistill-dark.svg" />
+      <img alt="domdistill — framework" src="./.github/assets/badge-domdistill-light.svg" />
     </picture>
   </a>
 </p>
