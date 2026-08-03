@@ -1,0 +1,183 @@
+{
+  "date": "2026-08-03",
+  "generated_at": "2026-08-03T17:35:24.929597+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6a70309c2234284e59c4",
+      "url": "https://arpitbhayani.me/blogs/handling-outages-master-replica",
+      "title": "What Happens When a Master or Replica Fails",
+      "summary": "A Master-Replica setup involves two nodes: Master and Replica. When a Replica crashes, it reconnects to the Master and resumes replication. If the Master crashes before propagating changes, Replica may lose data or cause conflicts. The first step is to identify the crashed Master. The process is similar for other nodes, including Replica. Master is the most critical component in a distributed data store, and its crash can result in business loss. A passive Master node is always in sync with the Master, making it a safe replacement. Once a new Master is set up, clients must be re-configured to send writes to the new Master. Writes during a Replica outage are handled by pulling updates through the proxy. In a Master-Replica setup, promoting an existing Replica as the new Master is the primary automation task.",
+      "tags": [
+        "master replica",
+        "distributed data store",
+        "automated failover",
+        "replication",
+        "data synchronization",
+        "business continuity",
+        "cluster management",
+        "orchestrator"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-03T06:09:31.971000+00:00"
+    },
+    {
+      "id": "6a703036f29fab978df6",
+      "url": "https://browser.engineering/chrome.html",
+      "title": "Handling Buttons and Links | Web Browser Engineering",
+      "summary": "Handling Buttons and Links in Chrome Browser",
+      "tags": [
+        "async python",
+        "programming",
+        "web browser engineering",
+        "chrome",
+        "hypertext",
+        "browser",
+        "labels and icons and buttons"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-03T06:07:50.838000+00:00"
+    },
+    {
+      "id": "6a702fb03a7255410163",
+      "url": "https://arpitbhayani.me/blogs/growth-is-not-about-doing-everything",
+      "title": "Growth Isn't About Doing Everything",
+      "summary": "Focus on doing the right things consistently, not trying to learn everything at once.",
+      "tags": [
+        "growth",
+        "consistency",
+        "doing the right things",
+        "focus",
+        "right niche",
+        "execution",
+        "improvement",
+        "engineering"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-03T06:05:36.091000+00:00"
+    },
+    {
+      "id": "6a702e7903e877c89fbe",
+      "url": "https://arpitbhayani.me/blogs/defensive-databases",
+      "title": "Databases Were Not Designed For This",
+      "summary": "Database design is often based on implicit assumptions that may not hold true in real-world scenarios.",
+      "tags": [
+        "database",
+        "architecture",
+        "defensive",
+        "design",
+        "failure modes",
+        "database tooling",
+        "text-to-sql",
+        "mcp server"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-03T06:00:24.838000+00:00"
+    },
+    {
+      "id": "6a702e3b0af7e27a77fe",
+      "url": "https://www.tigerdata.com/community",
+      "title": "TimescaleDB Community | Tiger Data",
+      "summary": "Talk about Tiger Data or TimescaleDB at an upcoming event.",
+      "tags": [
+        "timescale",
+        "tigerdata",
+        "event",
+        "talk",
+        "timescaledb",
+        "tigercloud"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-03T05:59:22.244000+00:00"
+    },
+    {
+      "id": "6a702e06a3add59e4ec3",
+      "url": "https://browser.engineering/http.html",
+      "title": "Downloading Web Pages | Web Browser Engineering",
+      "summary": "A web browser downloads a web page by connecting to the host and using sockets to send information back and forth.",
+      "tags": [
+        "web browser",
+        "enginesering",
+        "http",
+        "socket",
+        "server",
+        "dns",
+        "request",
+        "http request"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-03T05:58:30.493000+00:00"
+    },
+    {
+      "id": "6a702c92aeceaab42098",
+      "url": "https://arpitbhayani.me/blogs/saying-this-isnt-my-problem-is-a-problem",
+      "title": "Saying 'This isn't my problem' is actually the problem",
+      "summary": "high bias for action is crucial for solving problems effectively",
+      "tags": [
+        "action",
+        "problem",
+        "solution",
+        "bias",
+        "high-impact",
+        "teammate",
+        "slow processes"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-03T05:52:18.561000+00:00"
+    },
+    {
+      "id": "6a702c31dd57864ee83d",
+      "url": "https://browser.engineering/about.html",
+      "title": "About the Authors | Web Browser Engineering",
+      "summary": "Professor at University of Utah, researcher in web page layout and web browsers.",
+      "tags": [
+        "authors",
+        "professor",
+        "university of utah",
+        "web browsers",
+        "layout",
+        "research",
+        "phd",
+        "computing"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-03T05:50:41.764000+00:00"
+    },
+    {
+      "id": "6a702c0a971334f5045e",
+      "url": "https://arpitbhayani.me/blogs/join-algorithms",
+      "title": "JOIN Algorithms",
+      "summary": "Hash join is a widely used join algorithm in distributed systems that combines with other algorithms like nested loop join to address specific problems in joining two tables across many nodes.",
+      "tags": [
+        "hash join",
+        "join algorithms",
+        "distributed systems",
+        "database internals",
+        "debugging slow queries",
+        "designing schemas",
+        "evaluating distributed systems",
+        "presto"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-03T05:50:02.452000+00:00"
+    },
+    {
+      "id": "6a702d9ac724939ea246",
+      "url": "https://arpitbhayani.me/blogs/leaderless-replication",
+      "title": "Leaderless Replication",
+      "summary": "Leaderless replication is a fault-tolerant approach that eliminates the need for a single leader node, instead relying on quorum to ensure strong consistency across multiple nodes. This system can handle write operations even when a subset of nodes are down, making it a robust solution for multi-master setups.",
+      "tags": [
+        "leaderless replication",
+        "quorum",
+        "consistency",
+        "multi-master",
+        "fault-tolerance",
+        "write operations",
+        "read operations",
+        "replication"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-03T05:56:42.665000+00:00"
+    }
+  ]
+}
