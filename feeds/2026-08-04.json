@@ -1,0 +1,173 @@
+{
+  "date": "2026-08-04",
+  "generated_at": "2026-08-04T07:31:05.759222+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6a717b97bb760341781f",
+      "url": "https://arpitbhayani.me/blogs/masters",
+      "title": "Should You Do a Master's My Honest Take",
+      "summary": "Whether to pursue a master's degree depends on individual circumstances and goals.",
+      "tags": [
+        "master's",
+        "degrees",
+        "education",
+        "master",
+        "university",
+        "research",
+        "career choices"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-04T05:41:43.067000+00:00"
+    },
+    {
+      "id": "6a717b5f70cb61c703ce",
+      "url": "https://www.tigerdata.com/case-studies",
+      "title": "Explore Tiger Data Success Stories | Tiger Data",
+      "summary": "Tiger Cloud enables 99.3% data compression for Danish energy startup Float, powering real-time appliance-level energy analytics.",
+      "tags": [
+        "energy",
+        "float",
+        "tiger cloud",
+        "timescaledb",
+        "data compression",
+        "energy analytics"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-04T05:40:47.217000+00:00"
+    },
+    {
+      "id": "6a717b5f70d11c21a3eb",
+      "url": "https://www.tigerdata.com/case-studies/everactive",
+      "title": "How Everactive Monitors Battery-Free Industrial IoT Sensors at Scale with Tiger Data on AWS | Tiger Data",
+      "summary": "Everactive moves sensor data to Tiger Cloud on AWS for cost-effective, reliable operations.",
+      "tags": [
+        "async python",
+        "industrial iot",
+        "batteryless sensors",
+        "tiger data",
+        "aws",
+        "cloud platform",
+        "database",
+        "operational database"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-04T05:40:47.217000+00:00"
+    },
+    {
+      "id": "6a717a10ee9406ccf3b0",
+      "url": "https://arpitbhayani.me/blogs/rule-30-cellular-automata",
+      "title": "Rule 30 - Generating Random Numbers with Cellular Automata",
+      "summary": "Rule 30 is an elementary cellular automaton that exhibits aperiodic and chaotic behavior, producing complex patterns from simple rules.",
+      "tags": [
+        "cellular automaton",
+        "rule 30",
+        "chaos",
+        "aperiodic",
+        "discrete model",
+        "grid",
+        "neighborhood",
+        "cell transition"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-04T05:35:12.826000+00:00"
+    },
+    {
+      "id": "6a7179d9da54faf5ff91",
+      "url": "https://www.tigerdata.com/blog/hidden-cost-postgres-constraints-scale",
+      "title": "The Hidden Cost of Postgres Constraints at Scale | Tiger Data",
+      "summary": "Identify and fix stale statistics in Postgres metadata tables to improve query performance.",
+      "tags": [
+        "postgres",
+        "performance",
+        "stale statistics",
+        "metadata tables",
+        "query optimization",
+        "schema migration",
+        "schema level",
+        "partition key"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-04T05:34:17.573000+00:00"
+    },
+    {
+      "id": "6a71792f317f9a5b1aa3",
+      "url": "https://arpitbhayani.me/blogs/python-iterable-integers",
+      "title": "Making Integers Iterable in Python",
+      "summary": "Making integers iterable in Python allows for unpacking unpredictable behavior when assigning values to multiple variables.",
+      "tags": [
+        "python",
+        "iterable",
+        "integer",
+        "unpacking",
+        "assignment",
+        "pythonic"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-04T05:31:26.482000+00:00"
+    },
+    {
+      "id": "6a7178f1d641d072dfd5",
+      "url": "https://www.tigerdata.com/events/webinar-sizing-battery-storage-db-eso",
+      "title": "Sizing a Battery Storage Telemetry Database Before the Fleet Scales | Tiger Data",
+      "summary": "Calculating total data volume and five-year storage cost for a battery storage telemetry database",
+      "tags": [
+        "battery storage",
+        "telemetry database",
+        "storage",
+        "data volume",
+        "five-year storage cost",
+        "battery storage management",
+        "telemetry management"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-04T05:30:25.067000+00:00"
+    },
+    {
+      "id": "6a71778d7655f40c81b4",
+      "url": "https://arpitbhayani.me/blogs/out-of-vicious-interview-cycle",
+      "title": "Do This, Once You Are Out of the Interview Cycle",
+      "summary": "Pursue a fulfilling career as an engineer without the pressure of deadlines or deliverables.",
+      "tags": [
+        "engineering",
+        "growth",
+        "soul"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-04T05:24:28.751000+00:00"
+    },
+    {
+      "id": "6a7177240f47a4420a24",
+      "url": "https://arpitbhayani.me/blogs/product-quantization",
+      "title": "Product Quantization",
+      "summary": "Product Quantization decomposes a vector space into a set of representative vectors (centroids) to reduce storage requirements.",
+      "tags": [
+        "product quantization",
+        "vector quantization",
+        "compression",
+        "data reduction",
+        "dimensionality reduction"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-04T05:22:43.926000+00:00"
+    },
+    {
+      "id": "6a7176c04be0094a26a7",
+      "url": "https://arpitbhayani.me/blogs/lfu",
+      "title": "Implementing LFU in O(1)",
+      "summary": "LFU cache implementation using a doubly linked list and hash tables for O(1) complexity.",
+      "tags": [
+        "lfu",
+        "doubly linked list",
+        "hash tables",
+        "constant time",
+        "lfu cache eviction scheme",
+        "min-heap",
+        "least frequently used",
+        "constant time access"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-04T05:21:03.575000+00:00"
+    }
+  ]
+}
