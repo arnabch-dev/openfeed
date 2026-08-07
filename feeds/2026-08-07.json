@@ -1,0 +1,172 @@
+{
+  "date": "2026-08-07",
+  "generated_at": "2026-08-07T06:05:10.980892+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6a756434db7836c0dbfa",
+      "url": "https://upstash.com/blog/author/thomasCazade",
+      "title": "Thomas Cazade's Posts | Upstash Blog",
+      "summary": "Manage a quota-based SaaS application with Upstash and Next.js for efficient data management.",
+      "tags": [
+        "quota-based",
+        "saas",
+        "upstash",
+        "nextjs",
+        "data management",
+        "application management"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-07T04:51:00.059000+00:00"
+    },
+    {
+      "id": "6a7563d2efbb249f540f",
+      "url": "https://vercel.com/changelog",
+      "title": "Changelog - Vercel",
+      "summary": "Vercel Changelog",
+      "tags": [
+        "vercel",
+        "changelog",
+        "plugin",
+        "agent",
+        "setup",
+        "domain",
+        "new-project"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-07T04:49:22.131000+00:00"
+    },
+    {
+      "id": "6a7563d2efc241e9a84d",
+      "url": "https://vercel.com/changelog/project-avatars",
+      "title": "Set your own project avatars - Vercel",
+      "summary": "Set project avatar from dashboard",
+      "tags": [
+        "project avatar",
+        "vercel dashboard",
+        "project settings",
+        "avatar upload"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-07T04:49:22.131000+00:00"
+    },
+    {
+      "id": "6a7563d2efc4915073f2",
+      "url": "https://vercel.com/changelog/export-ai-gateway-traces-with-vercel-drains",
+      "title": "Export AI Gateway traces with Vercel Drains - Vercel",
+      "summary": "AI Gateway now exports OpenTelemetry traces to Vercel Drains for OTLP/HTTP-compatible endpoints",
+      "tags": [
+        "ai gateway",
+        "vercel drains",
+        "otlp",
+        "http",
+        "trace",
+        "export",
+        "ai gateway traces"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-07T04:49:22.131000+00:00"
+    },
+    {
+      "id": "6a7560ed31db4f9e6006",
+      "url": "https://vercel.com/ai-gateway/models",
+      "title": "Browse AI Gateway Models",
+      "summary": "AI Gateway models are listed on a webpage, providing information on various AI applications, models, and capabilities.",
+      "tags": [
+        "ai",
+        "ai-gateway",
+        "models",
+        "applications",
+        "ai-apps",
+        "model",
+        "context",
+        "latency"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-07T04:37:00.038000+00:00"
+    },
+    {
+      "id": "6a7560ed31d842a6c8d0",
+      "url": "https://vercel.com/ai-gateway",
+      "title": "AI Gateway - Vercel",
+      "summary": "AI Gateway is a Vercel service for integrating AI and machine learning capabilities into web applications.",
+      "tags": [
+        "ai gateway",
+        "vercel",
+        "ai",
+        "machine learning",
+        "coding agent",
+        "claude code",
+        "anthropic",
+        "coding agents"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-07T04:37:00.038000+00:00"
+    },
+    {
+      "id": "6a7564080dd4bec1d525",
+      "url": "https://upstash.com/blog/sidekiq-with-upstash-on-fly",
+      "title": "Get Started with Sidekiq and Upstash Redis on Fly.io | Upstash Blog",
+      "summary": "Create a sample app using Sidekiq on Fly.io using Upstash Redis for notification processing.",
+      "tags": [
+        "async ruby",
+        "upstash",
+        "redis",
+        "sidekiq",
+        "flyio",
+        "upstashblog",
+        "ruby on rails",
+        "ruby on rails sidekiq"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-07T04:50:15.876000+00:00"
+    },
+    {
+      "id": "6a7563d2efbd92280b50",
+      "url": "https://vercel.com/changelog/vercel-marketplace-agent-skills",
+      "title": "Marketplace integrations now install provider skills - Vercel",
+      "summary": "Vercel Marketplace integrations now install provider skills via skills.sh",
+      "tags": [
+        "integrations",
+        "provider",
+        "skills",
+        "vercel",
+        "cli",
+        "integration",
+        "documentation"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-07T04:49:22.131000+00:00"
+    },
+    {
+      "id": "6a741f14b55890d46a40",
+      "url": "https://planetscale.com/blog?page=9",
+      "title": "Blog — PlanetScale",
+      "summary": "PlanetScale replaces various technologies, including Vitess, in a database.",
+      "tags": [
+        "tech",
+        "database",
+        "replaces",
+        "vitess",
+        "planetscale"
+      ],
+      "score": 0.2799098974610422,
+      "scraped_at": "2026-08-06T05:43:48.591000+00:00"
+    },
+    {
+      "id": "6a72caf136e7db894f8e",
+      "url": "https://www.tigerdata.com/blog/author/damaso",
+      "title": "Damaso Sanoja - Blog | Tiger Data",
+      "summary": "Damaso Sanoja's blog about Tiger Data, including documentation and privacy policy.",
+      "tags": [
+        "tiger data",
+        "docs",
+        "tiger cloud",
+        "timescaledb",
+        "product updates"
+      ],
+      "score": 0.26116516898883724,
+      "scraped_at": "2026-08-05T05:32:33.043000+00:00"
+    }
+  ]
+}
