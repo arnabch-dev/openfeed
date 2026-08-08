@@ -1,10 +1,18 @@
 import { useEffect, useRef, useState } from "react";
+import { apiConfigured, getToken, ownerLogin, sendInteraction } from "../lib/feedx.js";
 
 function loadMap(k) {
   try { return JSON.parse(localStorage.getItem(k) || "{}"); } catch { return {}; }
 }
 function saveMap(k, v) {
   try { localStorage.setItem(k, JSON.stringify(v)); } catch {}
+}
+
+// Tags for a post are stamped on its <article data-tags="a|b|c"> by DayView, so the
+// interaction payload can be built from the prebuilt DOM without shipping feed data.
+function tagsForArticle(article) {
+  const raw = article && article.dataset ? article.dataset.tags || "" : "";
+  return raw ? raw.split("|").filter(Boolean) : [];
 }
 
 // Interaction-only island. It renders the owner toggle and, when owner mode is
@@ -16,6 +24,7 @@ function saveMap(k, v) {
 export default function OwnerTools() {
   const [owner, setOwner] = useState(false);
   const [showHidden, setShowHidden] = useState(false);
+  const [busy, setBusy] = useState(false);
 
   const ownerRef = useRef(false);
   const showHiddenRef = useRef(false);
@@ -29,6 +38,15 @@ export default function OwnerTools() {
       const date = root ? root.dataset.date : "";
       if (window.feedline && window.feedline[kind]) window.feedline[kind](id, date, value);
     } catch {}
+  };
+
+  // Record an interaction against FeedX. Owner-only by construction: every caller is
+  // reached only in owner mode, and sendInteraction additionally no-ops without a
+  // token. `kind` is a FeedX InteractionType (open | like | hide | ...).
+  const fireInteraction = (kind, id) => {
+    const root = document.getElementById("feed-root");
+    const article = root ? root.querySelector(`article[data-id="${id}"]`) : null;
+    sendInteraction(id, tagsForArticle(article), kind);
   };
 
   const recompute = () => {
@@ -121,7 +139,11 @@ export default function OwnerTools() {
     if (next[id]) delete next[id]; else next[id] = true;
     ref.current = next;
     saveMap(key, next);
-    signal(kind, id, !!next[id]);
+    const on = !!next[id];
+    signal(kind, id, on);
+    // Append-only log: only record like/hide when turning it ON (there's no
+    // "unlike" event type). kind maps directly to a FeedX InteractionType.
+    if (on) fireInteraction(kind, id);
     recompute();
   };
   const markRead = (id) => {
@@ -129,27 +151,40 @@ export default function OwnerTools() {
     read.current = { ...read.current, [id]: true };
     saveMap("feedline.read", read.current);
     signal("impression", id, true);
+    fireInteraction("open", id); // a click-through to read is an "open"
     recompute();
   };
 
   useEffect(() => { ownerRef.current = owner; recompute(); }, [owner]);
   useEffect(() => { showHiddenRef.current = showHidden; recompute(); }, [showHidden]);
 
-  const toggleOwner = () => {
+  const toggleOwner = async () => {
     if (owner) {
       try { sessionStorage.removeItem("feedline.owner"); } catch {}
       setShowHidden(false); setOwner(false);
-    } else {
-      try { sessionStorage.setItem("feedline.owner", "1"); } catch {}
-      setOwner(true);
+      return;
     }
+    // Gate owner mode behind the FeedX admin password (verified against the API,
+    // which returns a Bearer token stored for the session). If the API isn't
+    // configured, fall back to the old unguarded local-only owner mode.
+    if (apiConfigured() && !getToken()) {
+      const password = typeof window !== "undefined" ? window.prompt("FeedX admin password") : "";
+      if (!password) return;
+      setBusy(true);
+      let ok = false;
+      try { ok = await ownerLogin(password); } catch { ok = false; }
+      setBusy(false);
+      if (!ok) { try { window.alert("Wrong password or FeedX unreachable."); } catch {} return; }
+    }
+    try { sessionStorage.setItem("feedline.owner", "1"); } catch {}
+    setOwner(true);
   };
 
   return (
     <>
-      <button className="btn btn-secondary" onClick={toggleOwner} style={{ borderRadius: 999, fontSize: 13, whiteSpace: "nowrap", gap: 9, paddingLeft: 8 }} title="Owner tools">
+      <button className="btn btn-secondary" onClick={toggleOwner} disabled={busy} style={{ borderRadius: 999, fontSize: 13, whiteSpace: "nowrap", gap: 9, paddingLeft: 8, opacity: busy ? 0.6 : 1, cursor: busy ? "wait" : "pointer" }} title="Owner tools">
         <span style={{ width: 22, height: 22, borderRadius: 999, flex: "none", transition: "all .2s", background: owner ? "var(--color-accent)" : "var(--color-neutral-300)", boxShadow: "inset -5px -5px 0 0 " + (owner ? "var(--color-accent-2)" : "var(--color-neutral-400)") }} />
-        <span>{owner ? "Owner mode on" : "It's me"}</span>
+        <span>{busy ? "Checking…" : owner ? "Owner mode on" : "It's me"}</span>
       </button>
     </>
   );
