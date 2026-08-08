@@ -1,0 +1,175 @@
+{
+  "date": "2026-08-08",
+  "generated_at": "2026-08-08T05:35:47.335281+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6a76a739d0e4b85332d9",
+      "url": "https://upstash.com/blog/nextjs13-approuter-view-counter",
+      "title": "Adding a View Counter to your Next.js Blog | Upstash Blog",
+      "summary": "A Next.js blog post that adds a view counter to the page, using Upstash Redis for storage.",
+      "tags": [
+        "nextjs",
+        "view counter",
+        "upstash redis",
+        "redis",
+        "mongodb",
+        "mongodb redis"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-08T03:49:13.734000+00:00"
+    },
+    {
+      "id": "6a76a705620ecd13a44a",
+      "url": "https://vercel.com/fluid",
+      "title": "Fluid Compute - Vercel",
+      "summary": "Fluid Compute is a Vercel plugin that optimizes serverless computing by running many requests on a single instance and billing only the CPU used.",
+      "tags": [
+        "fluid",
+        "compute",
+        "vercel",
+        "plugin",
+        "serverless",
+        "optimization",
+        "cpu",
+        "billing"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-08T03:48:21.161000+00:00"
+    },
+    {
+      "id": "6a76a5d833c229bf940e",
+      "url": "https://vercel.com/enterprise",
+      "title": "Enterprise",
+      "summary": "Vercel Enterprise: A single control plane for enterprise management and governance.",
+      "tags": [
+        "enterprise",
+        "management",
+        "governance",
+        "single control plane",
+        "scale",
+        "account management",
+        "provisioning",
+        "mfa"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-08T03:43:19.495000+00:00"
+    },
+    {
+      "id": "6a76a54a22f505c261d8",
+      "url": "https://upstash.com/blog/multi-zone",
+      "title": "More Resilient and More Scalable: Upstash with Multi-Zone Replication | Upstash Blog",
+      "summary": "Upstash introduces Multi Zone Replication capability, enabling high availability and better scalability for databases.",
+      "tags": [
+        "async python",
+        "programming",
+        "database",
+        "replication",
+        "availability",
+        "scalability",
+        "high availability",
+        "multi zone"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-08T03:40:57.511000+00:00"
+    },
+    {
+      "id": "6a76a44f6968b447a428",
+      "url": "https://upstash.com/blog/context7-vs-web-search-benchmark",
+      "title": "Context7 vs Claude Code's Web Search: A Token and Cost Benchmark | Upstash Blog",
+      "summary": "Context7 and Claude Code's Web Search tools are compared for efficiency and cost in a blog post. Context7 reduces token and cost by 36.81% and 34.56% respectively.",
+      "tags": [
+        "context7",
+        "claud code",
+        "web search",
+        "efficiency",
+        "cost reduction",
+        "token usage",
+        "documentation",
+        "internal search tools"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-08T03:36:46.961000+00:00"
+    },
+    {
+      "id": "6a76a35b7d2dcdf047d0",
+      "url": "https://vercel.com/home",
+      "title": "Agentic Infrastructure - Vercel",
+      "summary": "Vercel Agent is a framework for building durable agents that ship apps and automate tasks.",
+      "tags": [
+        "vercel",
+        "agent",
+        "notion",
+        "agriculture",
+        "infrastructure",
+        "cloud",
+        "production",
+        "containers"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-08T03:32:43.274000+00:00"
+    },
+    {
+      "id": "6a76a63dea8a592108c5",
+      "url": "https://vercel.com/products/observability",
+      "title": "Observability",
+      "summary": "Observability is a service that provides real-time data on user experiences on Vercel.",
+      "tags": [
+        "observability",
+        "vercel",
+        "security",
+        "user experience",
+        "real data",
+        "threats",
+        "regressions"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-08T03:45:01.714000+00:00"
+    },
+    {
+      "id": "6a7562cea930d226cbea",
+      "url": "https://upstash.com/blog/author/asim",
+      "title": "Asim Hafeez's Posts | Upstash Blog",
+      "summary": "Efficient Multiplayer Game State Synchronization with Upstash Kafka and Node.js",
+      "tags": [
+        "kafka",
+        "game state synchronization",
+        "node.js",
+        "upstash",
+        "kafka gaming"
+      ],
+      "score": 0.2799098974610422,
+      "scraped_at": "2026-08-07T04:45:02.516000+00:00"
+    },
+    {
+      "id": "6a7560ed31dcdbdb6f0d",
+      "url": "https://vercel.com/ai-gateway/leaderboards/apps",
+      "title": "Top Apps — AI Model Leaderboards",
+      "summary": "Top AI apps showcase leaderboards and AI-related tools.",
+      "tags": [
+        "ai",
+        "apps",
+        "leaderboards",
+        "ai-sdk",
+        "ai-gateway",
+        "v0"
+      ],
+      "score": 0.2799098974610422,
+      "scraped_at": "2026-08-07T04:37:00.038000+00:00"
+    },
+    {
+      "id": "6a741e332f59aaba813c",
+      "url": "https://planetscale.com/brand",
+      "title": "Brand assets - PlanetScale",
+      "summary": "PlanetScale brand color palette includes black, white, and orange. Primary color is black.",
+      "tags": [
+        "brand",
+        "color",
+        "logo",
+        "planetscale"
+      ],
+      "score": 0.2799098974610422,
+      "scraped_at": "2026-08-06T05:40:02.546000+00:00"
+    }
+  ]
+}
