@@ -2,6 +2,7 @@
 import ThemeToggle from './ThemeToggle.jsx';
 import Calendar from './Calendar.jsx';
 import OwnerTools from './OwnerTools.jsx';
+import ReaderCount from './ReaderCount.jsx';
 import { DOW, MONTHS, muted, titleOf, fmtStamp, domainOf, slugify, groupByDomain } from '../lib/format.js';
 
 const { day, dates } = Astro.props;
@@ -27,7 +28,10 @@ const laterDate = idx >= 0 && idx < dates.length - 1 ? dates[idx + 1] : null;
 >
 	<header style="max-width: 860px; margin: 0 auto; padding: 40px 28px 0; display: flex; align-items: flex-start; justify-content: space-between; gap: 24px">
 		<div>
-			<a href="/" style="font-family: var(--font-heading); font-size: 27px; letter-spacing: -0.025em; line-height: 1; text-decoration: none; color: var(--color-text)">open<span style="color: var(--color-accent-700)">feed</span></a>
+			<div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap">
+				<a href="/" style="font-family: var(--font-heading); font-size: 27px; letter-spacing: -0.025em; line-height: 1; text-decoration: none; color: var(--color-text)">open<span style="color: var(--color-accent-700)">feed</span></a>
+				<ReaderCount client:idle />
+			</div>
 			<p style={`margin: 10px 0 0; max-width: 42ch; font-size: 14px; color: ${muted(58)}`}>Everything worth reading from the sources you keep, gathered and waiting for you.</p>
 		</div>
 		<div style="display: flex; align-items: center; gap: 10px">
@@ -67,6 +71,7 @@ const laterDate = idx >= 0 && idx < dates.length - 1 ? dates[idx + 1] : null;
 								<article
 									data-id={it.id}
 									data-domain={g.domain}
+									data-tags={(it.tags || []).join('|')}
 									style="animation: fl-rise .3s ease-out both; transition: opacity .2s"
 								>
 									<a class="feed-link article-link" href={it.url} target="_blank" rel="noopener" data-id={it.id} style="font-family: var(--font-heading); font-size: 22px; line-height: 1.28; letter-spacing: -0.01em; color: var(--color-text); text-decoration: none; display: block; text-wrap: pretty">{titleOf(it)}</a>
