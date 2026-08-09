@@ -1,0 +1,178 @@
+{
+  "date": "2026-08-09",
+  "generated_at": "2026-08-09T05:41:26.175144+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6a77fd55f0dc425ba566",
+      "url": "https://vercel.com/customers/how-sandstone-grew-40x-in-147-days-on-vercel",
+      "title": "How Sandstone grew 40x in 147 days on Vercel | Customers | Vercel",
+      "summary": "Sandstone grew 40x in 147 days on Vercel, leveraging the platform's automation and data centralization features.",
+      "tags": [
+        "sandstone",
+        "vercel",
+        "customers",
+        "growth",
+        "revenue",
+        "series a",
+        "lightspeed"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-09T04:08:53.861000+00:00"
+    },
+    {
+      "id": "6a77fbd20435078ce24c",
+      "url": "https://vercel.com/blog/deepsecbench-evaluating-model-performance-in-finding-cybersecurity-vulnerabilities",
+      "title": "DeepsecBench: evaluating model performance in finding cybersecurity vulnerabilities - Vercel",
+      "summary": "DeepsecBench evaluates model performance in finding cybersecurity vulnerabilities in application code.",
+      "tags": [
+        "deepsecbench",
+        "cybersecurity",
+        "vulnerability",
+        "model",
+        "performance",
+        "benchmark",
+        "security",
+        "scanning"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-09T04:02:25.897000+00:00"
+    },
+    {
+      "id": "6a77f94f51a73c4af3a8",
+      "url": "https://vercel.com/docs/ai-gateway",
+      "title": "AI Gateway",
+      "summary": "AI Gateway provides integration with various AI technologies and frameworks.",
+      "tags": [
+        "ai gateway",
+        "ai technologies",
+        "frameworks",
+        "ai integration"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-09T03:51:42.875000+00:00"
+    },
+    {
+      "id": "6a77f94f51a8562cf11d",
+      "url": "https://vercel.com/docs/ai-sdk",
+      "title": "AI SDK",
+      "summary": "The AI SDK provides a reference and guides for AI development.",
+      "tags": [
+        "ai",
+        "sdk",
+        "ai-sdk",
+        "ai development",
+        "reference",
+        "guides",
+        "ai tools",
+        "external systems"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-09T03:51:42.875000+00:00"
+    },
+    {
+      "id": "6a77f94f51ade550cfeb",
+      "url": "https://vercel.com/docs/mcp",
+      "title": "Model Context Protocol",
+      "summary": "Model Context Protocol (MCP) is a standard interface for large language models to communicate with external tools and data sources.",
+      "tags": [
+        "model context protocol",
+        "mcp",
+        "standard interface",
+        "llm",
+        "external tools",
+        "data sources",
+        "integration",
+        "interoperability"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-09T03:51:42.875000+00:00"
+    },
+    {
+      "id": "6a77f94f51a45e9f6c9f",
+      "url": "https://vercel.com/docs",
+      "title": "Vercel Documentation",
+      "summary": "Vercel documentation provides guides, videos, and tutorials on the Vercel Knowledge Base (kb) and Vercel's infrastructure.",
+      "tags": [
+        "vercel",
+        "documentation",
+        "kb",
+        "infrastructure",
+        "ai",
+        "agentic",
+        "firewall",
+        "vercel-firewall"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-09T03:51:42.875000+00:00"
+    },
+    {
+      "id": "6a77f838c161fde34e4f",
+      "url": "https://vercel.com/solutions/multi-tenant-saas",
+      "title": "Multi-tenant SaaS",
+      "summary": "Build a multi-tenant SaaS platform with Vercel, serving multiple customers across subdomains and custom domains.",
+      "tags": [
+        "multi-tenant",
+        "saas",
+        "vercel",
+        "platform",
+        "platforms",
+        "build",
+        "onboard",
+        "domains"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-09T03:47:04.310000+00:00"
+    },
+    {
+      "id": "6a77f94f51abe3f6d7ec",
+      "url": "https://vercel.com/docs/workflows",
+      "title": "Vercel Workflows",
+      "summary": "Vercel Workflows manage infrastructure for business logic, execute workflows, and provide reliability.",
+      "tags": [
+        "vercel",
+        "workflows",
+        "javascript",
+        "typescript",
+        "python",
+        "durable applications",
+        "ai agents"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-09T03:51:42.875000+00:00"
+    },
+    {
+      "id": "6a76a5a954e74542973c",
+      "url": "https://upstash.com/blog/cloudflare-workers-rate-limiting",
+      "title": "Rate Limiting at Edge with Cloudflare Workers and Serverless Redis | Upstash Blog",
+      "summary": "Cloudflare Workers and Upstash Redis rate-limiting tutorial",
+      "tags": [
+        "cloudflare",
+        "upstash",
+        "redis",
+        "rate-limiting",
+        "workers",
+        "serverless",
+        "upstashredis"
+      ],
+      "score": 0.2799098974610422,
+      "scraped_at": "2026-08-08T03:42:33.218000+00:00"
+    },
+    {
+      "id": "6a741e6a19c2822e565c",
+      "url": "https://planetscale.com/blog/making-768-servers-look-like-1",
+      "title": "Making 768 servers look like 1 — PlanetScale",
+      "summary": "PlanetScale's approach to scaling 768 servers into a single, cohesive database involves sharding data across multiple servers and using a Network Load Balancer to distribute queries.",
+      "tags": [
+        "database",
+        "sharding",
+        "network load balancer",
+        "database scaling",
+        "horizontal scaling",
+        "database sharding"
+      ],
+      "score": 0.24367571890687068,
+      "scraped_at": "2026-08-06T05:40:57.633000+00:00"
+    }
+  ]
+}
