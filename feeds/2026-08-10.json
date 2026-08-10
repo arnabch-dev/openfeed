@@ -1,0 +1,174 @@
+{
+  "date": "2026-08-10",
+  "generated_at": "2026-08-10T06:07:03.900263+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6a7951495122bbff549f",
+      "url": "https://browser.engineering/change.html",
+      "title": "A Changing Landscape | Web Browser Engineering",
+      "summary": "The web is evolving, with new technologies and features emerging to meet changing user needs.",
+      "tags": [
+        "web",
+        "browser",
+        "engineering",
+        "future",
+        "computing",
+        "lives",
+        "changing",
+        "landscape"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-10T04:19:21.197000+00:00"
+    },
+    {
+      "id": "6a79511f35389ac186e7",
+      "url": "https://browser.engineering/preface.html",
+      "title": "Preface | Web Browser Engineering",
+      "summary": "A modern web browser is explained through a systematic and irreverent approach, focusing on major components and architecture.",
+      "tags": [
+        "web browser",
+        "modern web browser",
+        "browser engineering",
+        "html",
+        "css",
+        "javascript",
+        "programming",
+        "standard compliance"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-10T04:18:38.971000+00:00"
+    },
+    {
+      "id": "6a794e31248ff4b63e91",
+      "url": "https://browser.engineering/security.html",
+      "title": "Keeping Data Private | Web Browser Engineering",
+      "summary": "The guest book is more secure than before due to browser security measures, but there's more to web application security than this book covers.",
+      "tags": [
+        "browser security",
+        "web application security",
+        "security measures",
+        "nonce",
+        "cross-site scripting"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-10T04:06:08.957000+00:00"
+    },
+    {
+      "id": "6a794fc2d010cdccff52",
+      "url": "https://browser.engineering/history.html",
+      "title": "History of the Web | Web Browser Engineering",
+      "summary": "The web's history begins with its emergence, influenced by academic culture at CERN, and later developed by Tim Berners-Lee in the first web browser and web server.",
+      "tags": [
+        "web",
+        "history",
+        "web browser",
+        "tim berners-lee",
+        "cern",
+        "academic culture",
+        "decentralized",
+        "web development"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-10T04:12:50.672000+00:00"
+    },
+    {
+      "id": "6a794f1a7f3d0aba0f48",
+      "url": "https://browser.engineering/glossary.html",
+      "title": "Glossary | Web Browser Engineering",
+      "summary": "A web page's conceptual object, analogous to physical documents.",
+      "tags": [
+        "glossary",
+        "web browser",
+        "engines",
+        "khronos group",
+        "webgl",
+        "webgpu",
+        "browser",
+        "software"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-10T04:10:01.757000+00:00"
+    },
+    {
+      "id": "6a794ec963b0342a8cd1",
+      "url": "https://browser.engineering/visual-effects.html",
+      "title": "Adding Visual Effects | Web Browser Engineering",
+      "summary": "The chapter discusses the need for improved visual effects in web browsers, which currently lack support for complex effects such as blending and color mixing.",
+      "tags": [
+        "visual effects",
+        "browser engineering",
+        "skia graphics library",
+        "blending",
+        "color mixing",
+        "surface management",
+        "fast scrolling",
+        "animations"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-10T04:08:40.422000+00:00"
+    },
+    {
+      "id": "6a77fcf526d9c67ba61b",
+      "url": "https://vercel.com/customers/how-searchable-ships-customer-requested-features-in-30-minutes-on-vercel",
+      "title": "How Searchable ships customer-requested features in 30 minutes on Vercel | Customers | Vercel",
+      "summary": "Searchable helps brands track and improve how they appear across AI search engines like ChatGPT, Perplexity, and Claude, pairing visibility analytics with an agent that guides users on what to do next.",
+      "tags": [
+        "async python",
+        "customers",
+        "vercel"
+      ],
+      "score": 0.2799098974610422,
+      "scraped_at": "2026-08-09T04:07:16.670000+00:00"
+    },
+    {
+      "id": "6a76a66a3f03f75a64de",
+      "url": "https://upstash.com/blog/track-ai-crawlers-with-upstash-agent-analytics",
+      "title": "Track AI Crawlers on Your Site with Upstash Agent Analytics | Upstash Blog",
+      "summary": "Upstash Agent Analytics tracks AI crawlers on a website by recording user-agent and referer headers, matching them against five known AI agents.",
+      "tags": [
+        "ai",
+        "crawlers",
+        "upstash",
+        "agent-analytics",
+        "nextjs",
+        "redis",
+        "redis-search",
+        "query-api"
+      ],
+      "score": 0.26116516898883724,
+      "scraped_at": "2026-08-08T03:45:45.614000+00:00"
+    },
+    {
+      "id": "6a7563d2efc241e9a84d",
+      "url": "https://vercel.com/changelog/project-avatars",
+      "title": "Set your own project avatars - Vercel",
+      "summary": "Set project avatar from dashboard",
+      "tags": [
+        "project avatar",
+        "vercel dashboard",
+        "project settings",
+        "avatar upload"
+      ],
+      "score": 0.24367571890687068,
+      "scraped_at": "2026-08-07T04:49:22.131000+00:00"
+    },
+    {
+      "id": "6a7563d2efc4915073f2",
+      "url": "https://vercel.com/changelog/export-ai-gateway-traces-with-vercel-drains",
+      "title": "Export AI Gateway traces with Vercel Drains - Vercel",
+      "summary": "AI Gateway now exports OpenTelemetry traces to Vercel Drains for OTLP/HTTP-compatible endpoints",
+      "tags": [
+        "ai gateway",
+        "vercel drains",
+        "otlp",
+        "http",
+        "trace",
+        "export",
+        "ai gateway traces"
+      ],
+      "score": 0.24367571890687068,
+      "scraped_at": "2026-08-07T04:49:22.131000+00:00"
+    }
+  ]
+}
