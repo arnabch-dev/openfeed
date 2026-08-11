@@ -1,0 +1,181 @@
+{
+  "date": "2026-08-11",
+  "generated_at": "2026-08-11T05:48:11.191421+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6a7aa0fa0df3efec7bcb",
+      "url": "https://arpitbhayani.me/blogs/replication-strategies",
+      "title": "Replication Strategies - Synchronous, Asynchronous, and Semi-Synchronous",
+      "summary": "Replication Strategies: Synchronous, Asynchronous, and Semi-Synchronous",
+      "tags": [
+        "replication",
+        "synchronous",
+        "asynchronous",
+        "semi-synchronous",
+        "distributed systems",
+        "data replication",
+        "throughput",
+        "durability"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-11T04:11:37.575000+00:00"
+    },
+    {
+      "id": "6a7aa0c981502b6cc19b",
+      "url": "https://arpitbhayani.me/blogs/how-indexes-work-on-partitioned-and-sharded-data",
+      "title": "Local vs Global Indexes in Partitioned Databases",
+      "summary": "Global Secondary Indexes vs Local Secondary Indexes in Partitioned Databases",
+      "tags": [
+        "partitioned databases",
+        "secondary indexes",
+        "local secondary indexes",
+        "global secondary indexes",
+        "partitioning",
+        "sharding",
+        "data indexing",
+        "query optimization"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-11T04:10:48.995000+00:00"
+    },
+    {
+      "id": "6a7aa095e8cc6e0e955c",
+      "url": "https://arpitbhayani.me/blogs/dns-udp-tcp",
+      "title": "Why does DNS use both UDP and TCP",
+      "summary": "DNS uses both UDP and TCP for different scenarios, with UDP preferred for routine queries and TCP for larger responses and tasks.",
+      "tags": [
+        "dns",
+        "udp",
+        "tcp",
+        "dns-server",
+        "query",
+        "response",
+        "latency",
+        "caching"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-11T04:09:57.246000+00:00"
+    },
+    {
+      "id": "6a7aa063680a67da0925",
+      "url": "https://arpitbhayani.me/blogs/hiring-is-unfair",
+      "title": "The Importance of Being Likeable in Interviews",
+      "summary": "Being likeable in interviews can make a significant difference in the hiring process, especially when it comes to subjective decisions.",
+      "tags": [
+        "interview tips",
+        "likeability",
+        "hiring process",
+        "subjectivity",
+        "interview skills",
+        "soft skills",
+        "team player",
+        "engineering"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-11T04:09:06.937000+00:00"
+    },
+    {
+      "id": "6a7aa006594cc3be0ed7",
+      "url": "https://arpitbhayani.me/blogs/cpu-cache-locality",
+      "title": "Why and How Cache Locality Can Make Your Code Faster",
+      "summary": "Understanding cache locality is crucial for performance optimization. It refers to the difference between linear scaling and performance walls. A simple change can result in 10x, 50x, or 100x performance differences.",
+      "tags": [
+        "cache locality",
+        "cpu performance",
+        "optimization",
+        "performance improvement",
+        "algorithm complexity",
+        "data structure",
+        "perf",
+        "cpu counters"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-11T04:07:33.668000+00:00"
+    },
+    {
+      "id": "6a7a9f9fae192a60f895",
+      "url": "https://arpitbhayani.me/blogs/abstract-thinking-skill-next-decade",
+      "title": "Abstract Thinking Will Define Your Next Decade",
+      "summary": "Abstract thinking will become crucial in the next decade as the world tackles complex problems.",
+      "tags": [
+        "abstract thinking",
+        "next decade",
+        "complex problems",
+        "solving",
+        "ambiguous problems"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-11T04:05:51.575000+00:00"
+    },
+    {
+      "id": "6a7a9f6f4a0721cd7ce7",
+      "url": "https://arpitbhayani.me/blogs/mongodb-cursor-skip-is-slow",
+      "title": "MongoDB Pagination - Skip is Slow",
+      "summary": "Skip in MongoDB pagination is expensive due to server walk",
+      "tags": [
+        "mongodb",
+        "pagination",
+        "skip",
+        "cursor",
+        "io",
+        "server",
+        "expensive",
+        "serverwalk"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-11T04:05:02.634000+00:00"
+    },
+    {
+      "id": "6a7a9f3fb80251d1815b",
+      "url": "https://arpitbhayani.me/blogs/fsm-python",
+      "title": "Modeling Finite State Machines with Python Coroutines",
+      "summary": "Implementing a Finite State Machine (FSM) using Python coroutines, diving into the concept of coroutine implementation and transition functions.",
+      "tags": [
+        "finite state machine",
+        "python coroutine",
+        "coroutine implementation",
+        "transition function",
+        "fsm",
+        "coroutines",
+        "python",
+        "computer science"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-11T04:04:15.597000+00:00"
+    },
+    {
+      "id": "6a7a9edb85cf00315ba3",
+      "url": "https://arpitbhayani.me/blogs/follow-up-without-annoying-people",
+      "title": "How to Follow Up Without Annoying People",
+      "summary": "To follow up with people without annoying them, acknowledge their contributions and show appreciation for their help.",
+      "tags": [
+        "follow up",
+        "appreciation",
+        "teamwork",
+        "communication",
+        "respect",
+        "priority",
+        "value"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-11T04:02:35.067000+00:00"
+    },
+    {
+      "id": "6a7a9e4d4cb7b22c421c",
+      "url": "https://arpitbhayani.me/masterclass",
+      "title": "The System Design Masterclass | Arpit Bhayani",
+      "summary": "System Design Masterclass by Arpit Bhayani: A practical guide for beginners",
+      "tags": [
+        "system design",
+        "masterclass",
+        "beginners",
+        "practical",
+        "prototyping",
+        "system design for beginners"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-11T04:00:13.146000+00:00"
+    }
+  ]
+}
