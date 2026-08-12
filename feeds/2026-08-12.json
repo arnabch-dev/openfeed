@@ -1,0 +1,177 @@
+{
+  "date": "2026-08-12",
+  "generated_at": "2026-08-12T06:08:04.549180+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6a7bf7aff07e7ba4e659",
+      "url": "https://blog.cloudflare.com/author/lai-yi-ohlsen/",
+      "title": "Lai Yi Ohlsen - Cloudflare Blog",
+      "summary": "Cloudflare Radar Researcher is an AI-powered tool for exploring global Internet trends and traffic data.",
+      "tags": [
+        "cloudflare",
+        "radar",
+        "researcher",
+        "internet",
+        "trends",
+        "traffic",
+        "data",
+        "internet measurement"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-12T04:33:51.480000+00:00"
+    },
+    {
+      "id": "6a7bf77c0b7a9a905077",
+      "url": "https://blog.cloudflare.com/id-id/",
+      "title": "Blog Cloudflare",
+      "summary": "Cloudflare: Mengelola Jaringan dan Portofolio untuk Pengembang, Tim Keamanan, dan Pembuat Konten",
+      "tags": [
+        "cloudflare",
+        "life-at-cloudflare",
+        "cloudflare-radar",
+        "ai",
+        "security",
+        "productivity",
+        "solution",
+        "plan"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-12T04:32:59.222000+00:00"
+    },
+    {
+      "id": "6a7bf6001c6be2be943d",
+      "url": "https://blog.cloudflare.com/webmcp/",
+      "title": "Give any website a WebMCP interface | Cloudflare Blog",
+      "summary": "Cloudflare will soon offer WebMCP tools to sites on its platform. This preview allows developers to enable WebMCP on a site with a single switch, without code changes.",
+      "tags": [
+        "webmcp",
+        "cloudflare",
+        "developer preview",
+        "tools",
+        "interface",
+        "switch",
+        "developer tools",
+        "browser agents"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-12T04:26:39.296000+00:00"
+    },
+    {
+      "id": "6a7bf3fb4fbfa232e59f",
+      "url": "https://blog.cloudflare.com/mcp-portal-writeguard-private-beta/",
+      "title": "WriteGuard: Fine-grained controls for MCP Servers | Cloudflare Blog",
+      "summary": "WriteGuard is a fine-grained control system for MCP servers, allowing for private beta access and governance of AI agents.",
+      "tags": [
+        "writeguard",
+        "mcp",
+        "cloudflare",
+        "private beta",
+        "mcp portal",
+        "writeguard private beta",
+        "mcp server",
+        "agent governance"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-12T04:18:02.511000+00:00"
+    },
+    {
+      "id": "6a7aa0345c27e04fc905",
+      "url": "https://arpitbhayani.me/blogs/dont-wait-step-up",
+      "title": "Don't Wait. Step Up.",
+      "summary": "engineers should take initiative, not wait",
+      "tags": [
+        "engineering",
+        "leadership",
+        "responsibility",
+        "teamwork",
+        "problem-solving",
+        "creativity",
+        "innovation"
+      ],
+      "score": 0.2799098974610422,
+      "scraped_at": "2026-08-11T04:08:19.683000+00:00"
+    },
+    {
+      "id": "6a7a9fd4ab70ed316eaa",
+      "url": "https://arpitbhayani.me/blogs/genetic-knapsack",
+      "title": "Solving the Knapsack Problem with Evolutionary Algorithms",
+      "summary": "The Knapsack problem is a famous optimization problem in computer science that deals with filling up a knapsack with items to maximize value. The problem has been studied since 1897 and involves finding the optimal combination of items to maximize value while not exceeding the knapsack's maximum weight.",
+      "tags": [
+        "knapsack problem",
+        "optimization",
+        "computer science",
+        "algorithm",
+        "genetic algorithm",
+        "knapsack"
+      ],
+      "score": 0.2799098974610422,
+      "scraped_at": "2026-08-11T04:06:44.517000+00:00"
+    },
+    {
+      "id": "6a7a9f0c575576d41a79",
+      "url": "https://arpitbhayani.me/blogs/constant-folding-python",
+      "title": "Constant Folding in Python",
+      "summary": "Constant Folding in Python: Understanding the Basics and Implementation",
+      "tags": [
+        "constant folding",
+        "python",
+        "ast",
+        "astfold_expr",
+        "python source code",
+        "python dis module",
+        "python internals"
+      ],
+      "score": 0.2799098974610422,
+      "scraped_at": "2026-08-11T04:03:23.873000+00:00"
+    },
+    {
+      "id": "6a7a9ddd68844224de83",
+      "url": "https://arpitbhayani.me/terms-conditions",
+      "title": "Terms and Conditions | Arpit Bhayani",
+      "summary": "Terms and Conditions | Arpit Bhayani: A website outlining its rules and regulations for use, including intellectual property rights and cookie usage.",
+      "tags": [
+        "arpit bhayani",
+        "conditions",
+        "licensing"
+      ],
+      "score": 0.2799098974610422,
+      "scraped_at": "2026-08-11T03:58:20.933000+00:00"
+    },
+    {
+      "id": "6a7a9d52f3564f50b4f7",
+      "url": "https://arpitbhayani.me/blogs/isolation",
+      "title": "Decoding Isolation - The I in ACID",
+      "summary": "Isolation in database transactions: Understanding the 'I' in ACID",
+      "tags": [
+        "acid",
+        "isolation",
+        "database",
+        "transactions",
+        "micro-dive",
+        "microscope",
+        "thread-safe"
+      ],
+      "score": 0.2799098974610422,
+      "scraped_at": "2026-08-11T03:56:02.339000+00:00"
+    },
+    {
+      "id": "6a7a9d242d3e097c952b",
+      "url": "https://arpitbhayani.me/blogs/when-in-doubt-code-it-out",
+      "title": "When In Doubt, Code It Out",
+      "summary": "When in doubt, code it out. A blog post on the importance of prototyping and testing ideas.",
+      "tags": [
+        "when in doubt",
+        "code it out",
+        "prototyping",
+        "testing",
+        "idea validation",
+        "prototype",
+        "system design",
+        "distributed systems"
+      ],
+      "score": 0.2799098974610422,
+      "scraped_at": "2026-08-11T03:55:15.521000+00:00"
+    }
+  ]
+}
