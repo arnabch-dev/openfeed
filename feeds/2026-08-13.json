@@ -1,0 +1,182 @@
+{
+  "date": "2026-08-13",
+  "generated_at": "2026-08-13T06:10:17.418462+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6a7d496091cddf37cded",
+      "url": "https://www.tigerdata.com/blog/whats-new-in-tiger-cloud",
+      "title": "What's New in Tiger Cloud: Bigger Performance Gains, Wider Platform Reach, Better Visibility | Tiger Data",
+      "summary": "Tiger Cloud improves performance, platform reach, and visibility for better data management.",
+      "tags": [
+        "tiger cloud",
+        "performance gains",
+        "platform reach",
+        "better visibility",
+        "data management",
+        "timescaledb",
+        "tiger console",
+        "postgres"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-13T04:34:39.845000+00:00"
+    },
+    {
+      "id": "6a7d46eab5d933481c22",
+      "url": "https://www.tigerdata.com/blog/author/nhzcommunications",
+      "title": "NanoHertz Communications - Blog | Tiger Data",
+      "summary": "NanoHertz Communications provides updates on TimescaleDB Product Updates & Release Notes",
+      "tags": [
+        "timescalescale",
+        "productupdates",
+        "releasenotes",
+        "tigerdata",
+        "async python"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-13T04:24:10.589000+00:00"
+    },
+    {
+      "id": "6a7d450ba999c9e88d89",
+      "url": "https://www.tigerdata.com/blog/why-postgresql-partition-key-creating-write-bottleneck",
+      "title": "Why Your PostgreSQL Partition Key Is Creating a Write Bottleneck | Tiger Data",
+      "summary": "Identify partition key bottlenecks in PostgreSQL",
+      "tags": [
+        "postgresql",
+        "partitioning",
+        "bottleneck",
+        "write bottleneck",
+        "partition key",
+        "skewed partition key",
+        "partition hot spot",
+        "write load distribution"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-13T04:16:11.550000+00:00"
+    },
+    {
+      "id": "6a7d462003e826b10c35",
+      "url": "https://www.tigerdata.com/blog/great-models-arent-enough-for-physical-ai",
+      "title": "Great Models Aren't Enough for Physical AI | Tiger Data",
+      "summary": "Physical AI is constrained by the physical world, not just models. Safety, regulation, and operations are key problems.",
+      "tags": [
+        "physical ai",
+        "safety",
+        "regulation",
+        "operations",
+        "data",
+        "tiger data",
+        "tiger cloud",
+        "ai"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-13T04:20:47.843000+00:00"
+    },
+    {
+      "id": "6a7bf6b6b05c8966b930",
+      "url": "https://blog.cloudflare.com/workers-ai-gateway-unification/",
+      "title": "Unifying Workers AI and AI Gateway into a single AI control plane | Cloudflare Blog",
+      "summary": "Cloudflare is unifying Workers AI and AI Gateway into a single AI control plane, allowing users to access models from multiple providers through a unified interface.",
+      "tags": [
+        "ai",
+        "workers",
+        "cloudflare",
+        "unification",
+        "control plane",
+        "ai gateway",
+        "workers ai"
+      ],
+      "score": 0.2799098974610422,
+      "scraped_at": "2026-08-12T04:29:42.064000+00:00"
+    },
+    {
+      "id": "6a7a9ea9d1c8b1af5e2a",
+      "url": "https://arpitbhayani.me/blogs/10x-engineer",
+      "title": "10x Engineer DNA",
+      "summary": "10x engineers build complex systems, finding simple solutions to complex problems.",
+      "tags": [
+        "10x engineer",
+        "complex systems",
+        "simple solutions",
+        "engineering",
+        "business",
+        "product",
+        "databases"
+      ],
+      "score": 0.26116516898883724,
+      "scraped_at": "2026-08-11T04:01:45.192000+00:00"
+    },
+    {
+      "id": "6a7a9d831143f9deacb6",
+      "url": "https://arpitbhayani.me/blogs/rum",
+      "title": "The RUM Conjecture - Storage System Trade-offs",
+      "summary": "The RUM Conjecture states that designing an optimal access method for a storage system is impossible due to trade-offs between reads, updates, and memory. It proposes a competing triangle of optimal trade-offs.",
+      "tags": [
+        "rum conjecture",
+        "storage system trade-offs",
+        "reads",
+        "updates",
+        "memory",
+        "storage systems",
+        "access method",
+        "optimization"
+      ],
+      "score": 0.26116516898883724,
+      "scraped_at": "2026-08-11T03:56:50.561000+00:00"
+    },
+    {
+      "id": "6a7a9cf345ae14e9e492",
+      "url": "https://arpitbhayani.me/blogs/half-life",
+      "title": "Why Half Your Skills Expire Every Few Years",
+      "summary": "The half-life of knowledge is a concept that explains how quickly what you learn becomes outdated or replaced. It measures how quickly what you learned becomes outdated or replaced.",
+      "tags": [
+        "half-life of knowledge",
+        "software engineering",
+        "computer science",
+        "experience",
+        "reinvention",
+        "career stability",
+        "learning",
+        "upskilling"
+      ],
+      "score": 0.26116516898883724,
+      "scraped_at": "2026-08-11T03:54:27.064000+00:00"
+    },
+    {
+      "id": "6a7a9cc2a6c926e2461a",
+      "url": "https://arpitbhayani.me/blogs/dont-let-your-best-ideas-die-in-silence",
+      "title": "Don't Let Your Best Ideas Die in Silence",
+      "summary": "Sharing ideas can lead to social connections and career growth, but only if they have merit.",
+      "tags": [
+        "idea sharing",
+        "social connections",
+        "career growth",
+        "merit",
+        "system design",
+        "algorithm",
+        "distributed systems",
+        "engineering playbook"
+      ],
+      "score": 0.26116516898883724,
+      "scraped_at": "2026-08-11T03:53:38.032000+00:00"
+    },
+    {
+      "id": "6a7a9c5f01499f89b2be",
+      "url": "https://arpitbhayani.me/blogs/never-bad-mouth-your-ex-exployer",
+      "title": "Never Bad-Mouth Your Past Employers",
+      "summary": "Discussing past employers can damage reputation, but never badmouth current or former employers.",
+      "tags": [
+        "never badmouth",
+        "past employers",
+        "current employer",
+        "reputation",
+        "negativity",
+        "interview",
+        "debriefing",
+        "honesty"
+      ],
+      "score": 0.26116516898883724,
+      "scraped_at": "2026-08-11T03:51:58.324000+00:00"
+    }
+  ]
+}
