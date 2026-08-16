@@ -1,0 +1,177 @@
+{
+  "date": "2026-08-16",
+  "generated_at": "2026-08-16T05:19:18.560442+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6a812dd9c956c8544b78",
+      "url": "https://www.tigerdata.com/oil-and-gas",
+      "title": "Postgres for Oilfield services | Tiger Data",
+      "summary": "Tiger Data provides monitoring, drilling, and emissions applications on live telemetry for oilfield services. Supports SQL, joins, and time-series performance.",
+      "tags": [
+        "oilfield services",
+        "tiger data",
+        "postgres",
+        "timescaledb",
+        "cloud",
+        "managed infrastructure",
+        "timeseries",
+        "sql"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-16T03:26:17.334000+00:00"
+    },
+    {
+      "id": "6a812d37e4da656aed52",
+      "url": "https://arpitbhayani.me/blogs/monotonic-reads",
+      "title": "Monotonic Reads - How Asynchronous Replication Creates Wormholes",
+      "summary": "Asynchronous replication creates wormholes in a distributed datastore by allowing reads to hit different replicas with different replication lags, causing oscillations between old and new values.",
+      "tags": [
+        "async python",
+        "distributed datastore",
+        "wormhole",
+        "replication lag",
+        "monotonic reads",
+        "eventual consistency",
+        "strong consistency",
+        "weak guarantee"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-16T03:23:35.287000+00:00"
+    },
+    {
+      "id": "6a812d04c42dad9262d5",
+      "url": "https://browser.engineering/thanks",
+      "title": "Contributors | Web Browser Engineering",
+      "summary": "contributors thank readers for book publication",
+      "tags": [
+        "contributors",
+        "thank readers",
+        "book publication",
+        "web browser engineering",
+        "patreon",
+        "students",
+        "feedback",
+        "sanity checking"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-16T03:22:44.110000+00:00"
+    },
+    {
+      "id": "6a812c76541e07241478",
+      "url": "https://upstash.com/blog/using-cloudflare-ai-with-upstash-vector-and-expo-to-build-a-smartphone-sales-chatbot",
+      "title": "Build an AI Powered Mobile Chatbot with Expo and Cloudflare AI | Upstash Blog",
+      "summary": "Create a smartphone sales chatbot with Expo, Cloudflare AI, and Upstash Vector",
+      "tags": [
+        "smartphone sales chatbot",
+        "expo",
+        "cloudflare ai",
+        "upstash vector",
+        "vector embeddings",
+        "machine learning",
+        "ai-powered chatbot",
+        "mobile commerce"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-16T03:20:21.631000+00:00"
+    },
+    {
+      "id": "6a812b8a9f6cea91b796",
+      "url": "https://stripe.com/blog/how-stripe-uses-graph-search-and-state-machines-to-auto-remediate-a-global-database-fleet",
+      "title": "Page not found",
+      "summary": "Stripe uses graph search and state machines to auto-remediate a global database fleet.",
+      "tags": [
+        "stripe",
+        "graph search",
+        "state machines",
+        "auto-remediate",
+        "global database",
+        "database fleet",
+        "stripe blog",
+        "stripe newsroom"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-16T03:16:26.515000+00:00"
+    },
+    {
+      "id": "6a812b54ef29ba207717",
+      "url": "https://blog.cloudflare.com/author/kenny/",
+      "title": "Kenny Johnson - Cloudflare Blog",
+      "summary": "Kenny Johnson discusses life at Cloudflare.",
+      "tags": [
+        "cloudflare",
+        "life-at-cloudflare",
+        "kenny johnson",
+        "eduardo gomes"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-16T03:15:32.325000+00:00"
+    },
+    {
+      "id": "6a812b213048bbe47da6",
+      "url": "https://arpitbhayani.me/blogs/cassandra-writes",
+      "title": "How Writes Work in Apache Cassandra",
+      "summary": "Apache Cassandra is a distributed database designed for high availability and horizontal scalability. It has a write path that involves multiple stages, including writing to the CommitLog, distributing writes across partitions, and using last-write-wins conflict resolution.",
+      "tags": [
+        "cassandra",
+        "write",
+        "database",
+        "distributed",
+        "availability",
+        "scalability",
+        "horizontal"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-16T03:14:40.892000+00:00"
+    },
+    {
+      "id": "6a812ade96f1bf6b1790",
+      "url": "https://browser.engineering/skipped.html",
+      "title": "What Wasn’t Covered | Web Browser Engineering",
+      "summary": "Modern web browsers have complex browser UIs, but also extend the UI with HTML and WebAssembly.",
+      "tags": [
+        "browser ui",
+        "html",
+        "webassembly",
+        "browser extension",
+        "skia",
+        "chromium",
+        "graphics engine",
+        "compositing systems"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-16T03:13:33.915000+00:00"
+    },
+    {
+      "id": "6a812aaf32eed2a6b895",
+      "url": "https://vercel.com/open-source-program",
+      "title": "Open Source Program - Vercel",
+      "summary": "Vercel Open Source Program",
+      "tags": [
+        "open source",
+        "vercel",
+        "oss",
+        "program",
+        "credits",
+        "plugin"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-16T03:12:47.072000+00:00"
+    },
+    {
+      "id": "6a7fd87623da247e5891",
+      "url": "https://upstash.com/blog/author/max",
+      "title": "Maximilian Kaske's Posts | Upstash Blog",
+      "summary": "Discord post sharing NY Times articles with Upstash",
+      "tags": [
+        "discord",
+        "ny times",
+        "upstash",
+        "schedule-news",
+        "schedule"
+      ],
+      "score": 0.2799098974610422,
+      "scraped_at": "2026-08-15T03:09:41.463000+00:00"
+    }
+  ]
+}
