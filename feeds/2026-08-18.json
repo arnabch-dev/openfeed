@@ -1,0 +1,176 @@
+{
+  "date": "2026-08-18",
+  "generated_at": "2026-08-18T05:20:50.289398+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6a83cf76b3d38decf731",
+      "url": "https://upstash.com/blog/mcp-with-redis",
+      "title": "Fast, Cost-Effective MCPs with Redis | Upstash Blog",
+      "summary": "Upstash Redis is a serverless, fully managed Redis solution ideal for MCP implementations.",
+      "tags": [
+        "mcp",
+        "redis",
+        "serverless",
+        "eventstore"
+      ],
+      "score": 0.775,
+      "scraped_at": "2026-08-18T03:20:22.533000+00:00"
+    },
+    {
+      "id": "6a7fd8aa063addb44b8a",
+      "url": "https://upstash.com/blog/introducing-vector-database",
+      "title": "Upstash Vector: Serverless Vector Database for AI and LLMs | Upstash Blog",
+      "summary": "Upstash Vector is a serverless vector database for AI and LLMs, providing efficient storage and querying of high-dimensional vector embeddings. It eliminates hosting and management complexities, offering a flexible pricing model for startups and enterprises.",
+      "tags": [
+        "vector database",
+        "serverless",
+        "ai",
+        "llm",
+        "vector embeddings",
+        "infrastructure as a service",
+        "cloud computing",
+        "pioneer in serverless database model"
+      ],
+      "score": 0.6396487621305356,
+      "scraped_at": "2026-08-15T03:10:33.893000+00:00"
+    },
+    {
+      "id": "6a7fd96e4501b441b783",
+      "url": "https://upstash.com/blog/qstash-deno-deploy",
+      "title": "Serverless Messaging for Deno Deploy | Upstash Blog",
+      "summary": "Deno Deploy and QStash enable serverless messaging with minimal setup",
+      "tags": [
+        "deno",
+        "qstash",
+        "serverless",
+        "message",
+        "queue",
+        "scheduler",
+        "javascript",
+        "typescript"
+      ],
+      "score": 0.6091892972671766,
+      "scraped_at": "2026-08-15T03:13:50.164000+00:00"
+    },
+    {
+      "id": "6a7e97d365ecf9e62aaa",
+      "url": "https://planetscale.com/blog?page=10",
+      "title": "Blog — PlanetScale",
+      "summary": "Getting started with the PlanetScale CLI",
+      "tags": [
+        "getting started",
+        "planetscale cli",
+        "cli",
+        "command line interface",
+        "planetscale",
+        "database",
+        "cloud",
+        "serverless"
+      ],
+      "score": 0.5914001246116464,
+      "scraped_at": "2026-08-14T04:21:38.800000+00:00"
+    },
+    {
+      "id": "6a83cf0d97541c7fd5fb",
+      "url": "https://planetscale.com/blog/author/jan",
+      "title": "Posts by Jan Nidzwetzki — PlanetScale",
+      "summary": "Jan Nidzwetzki and Etienne Berube discuss the dangers of Postgres subtransactions.",
+      "tags": [
+        "async python",
+        "programming",
+        "postgresql",
+        "subtransactions",
+        "dangers",
+        "postgres"
+      ],
+      "score": 0.5666666666666667,
+      "scraped_at": "2026-08-18T03:18:37.043000+00:00"
+    },
+    {
+      "id": "6a7fda12437c2ee3b0df",
+      "url": "https://upstash.com/blog/how-to-build-a-bloom-filter-on-upstash-redis-with-typescript",
+      "title": "How to Build a Bloom Filter on Upstash Redis with TypeScript | Upstash Blog",
+      "summary": "A Bloom filter is a probabilistic data structure used to test whether an item is in a set. It provides a fast and efficient way to determine whether an item is likely to be in a set, with a low false positive rate.",
+      "tags": [
+        "async python",
+        "bloom filter",
+        "redis",
+        "typescript",
+        "upstash"
+      ],
+      "score": 0.45021989969459913,
+      "scraped_at": "2026-08-15T03:16:34.157000+00:00"
+    },
+    {
+      "id": "6a812d37e4da656aed52",
+      "url": "https://arpitbhayani.me/blogs/monotonic-reads",
+      "title": "Monotonic Reads - How Asynchronous Replication Creates Wormholes",
+      "summary": "Asynchronous replication creates wormholes in a distributed datastore by allowing reads to hit different replicas with different replication lags, causing oscillations between old and new values.",
+      "tags": [
+        "async python",
+        "distributed datastore",
+        "wormhole",
+        "replication lag",
+        "monotonic reads",
+        "eventual consistency",
+        "strong consistency",
+        "weak guarantee"
+      ],
+      "score": 0.3067654365900628,
+      "scraped_at": "2026-08-16T03:23:35.287000+00:00"
+    },
+    {
+      "id": "6a83cf3934b57fe3176a",
+      "url": "https://dev.37signals.com/author/lewis/",
+      "title": "37signals Dev — Lewis Buckley",
+      "summary": "Lewis Buckley is a Site Reliability Engineer at 37signals, responsible for Ops.",
+      "tags": [
+        "dev",
+        "ops",
+        "site reliability engineer",
+        "37signals",
+        "upright",
+        "basecamp",
+        "hey",
+        "fizzy"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-18T03:19:21.068000+00:00"
+    },
+    {
+      "id": "6a83ce86d8f96ac1da83",
+      "url": "https://blog.cloudflare.com/author/will-rowe/",
+      "title": "Will Rowe - Cloudflare Blog",
+      "summary": "Cloudflare launches developer preview of WebMCP, allowing sites to be accessible to browser AI agents without API changes or origin changes.",
+      "tags": [
+        "cloudflare",
+        "webmcp",
+        "developer preview",
+        "browser ai agents",
+        "site accessibility",
+        "cloudflare radar"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-18T03:16:22.057000+00:00"
+    },
+    {
+      "id": "6a83ce54d4328b7d08cf",
+      "url": "https://arpitbhayani.me/blogs/3p",
+      "title": "When to Change Jobs - The 3P Framework",
+      "summary": "When to change jobs involves assessing three key factors: whether your current role challenges you, introduces new technologies, and contributes to professional depth and breadth; whether monetary compensation is a primary motivator; and whether you have a clear path for promotion and responsibility. If two or more of these factors outweigh the lack of core competency, it may be time to consider a change. A simple 3P framework can help guide career decisions.",
+      "tags": [
+        "career advice",
+        "job change",
+        "3p framework",
+        "position",
+        "power",
+        "monetary compensation",
+        "promotion",
+        "responsibility"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-18T03:15:32.730000+00:00"
+    }
+  ]
+}
