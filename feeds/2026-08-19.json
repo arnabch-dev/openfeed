@@ -1,0 +1,176 @@
+{
+  "date": "2026-08-19",
+  "generated_at": "2026-08-19T05:20:57.503452+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6a85214e72699a42b3e8",
+      "url": "https://www.tigerdata.com/blog/author/hien",
+      "title": "Hien Phan - Blog | Tiger Data",
+      "summary": "Tiger Cloud is a self-hosted TimescaleDB database, offering a practical framework for choosing between self-hosted and cloud-based options.",
+      "tags": [
+        "tiger cloud",
+        "timescaledb",
+        "self-hosted",
+        "cloud",
+        "database",
+        "practical framework"
+      ],
+      "score": 0.5761904761904761,
+      "scraped_at": "2026-08-19T03:21:50.316000+00:00"
+    },
+    {
+      "id": "6a8520ef986d0dee65a5",
+      "url": "https://blog.cloudflare.com/author/shelley/",
+      "title": "Shelley Jones - Cloudflare Blog",
+      "summary": "Shelley Jones and Duc Nguyen are part of the Cloudflare team.",
+      "tags": [
+        "cloudflare",
+        "life-at-cloudflare",
+        "products",
+        "solutions",
+        "radar",
+        "async python"
+      ],
+      "score": 0.5761904761904761,
+      "scraped_at": "2026-08-19T03:20:14.977000+00:00"
+    },
+    {
+      "id": "6a8521d31ff7f120f826",
+      "url": "https://upstash.com/blog/image-similarity-search",
+      "title": "Image Similarity Search with CLIP and Upstash Vector | Upstash Blog",
+      "summary": "Image Similarity Search with CLIP and Upstash Vector",
+      "tags": [
+        "image",
+        "similarity",
+        "clip",
+        "upstash",
+        "vector",
+        "database",
+        "efficient"
+      ],
+      "score": 0.5693877551020408,
+      "scraped_at": "2026-08-19T03:24:02.511000+00:00"
+    },
+    {
+      "id": "6a827c8cd457b27b82c7",
+      "url": "https://upstash.com/blog/better-auth-with-redis",
+      "title": "Speed up your auth with Upstash and Better Auth | Upstash Blog",
+      "summary": "Use Upstash as secondary storage for Better Auth's short-lived auth data.",
+      "tags": [
+        "better auth",
+        "upstash",
+        "redis",
+        "secondary storage",
+        "auth",
+        "temporary data",
+        "rate limiting",
+        "session storage"
+      ],
+      "score": 0.5036756830499003,
+      "scraped_at": "2026-08-17T03:14:19.995000+00:00"
+    },
+    {
+      "id": "6a7fd6316daff54cce17",
+      "url": "https://upstash.com/blog/webhook-system-with-qstash",
+      "title": "Building Reliable & Type-Safe Webhooks | Upstash Blog",
+      "summary": "Building a type-safe webhook client with Qstash",
+      "tags": [
+        "webhook",
+        "type-safe",
+        "qstash",
+        "javascript",
+        "typescript",
+        "async python"
+      ],
+      "score": 0.42043090475824135,
+      "scraped_at": "2026-08-15T03:00:01.316000+00:00"
+    },
+    {
+      "id": "6a7e99b8bcbb1e8a2073",
+      "url": "https://planetscale.com/blog/problem-solving-with-insights",
+      "title": "Problem solving with PlanetScale Insights — PlanetScale",
+      "summary": "PlanetScale Insights helps identify performance problems in complex applications by providing accurate, up-to-date information on query performance.",
+      "tags": [
+        "problem solving",
+        "planet scale insights",
+        "database performance",
+        "query optimization",
+        "planet scale",
+        "postgres",
+        "insights",
+        "database monitoring"
+      ],
+      "score": 0.4040610178208843,
+      "scraped_at": "2026-08-14T04:29:44.178000+00:00"
+    },
+    {
+      "id": "6a76a705620ecd13a44a",
+      "url": "https://vercel.com/fluid",
+      "title": "Fluid Compute - Vercel",
+      "summary": "Fluid Compute is a Vercel plugin that optimizes serverless computing by running many requests on a single instance and billing only the CPU used.",
+      "tags": [
+        "fluid",
+        "compute",
+        "vercel",
+        "plugin",
+        "serverless",
+        "optimization",
+        "cpu",
+        "billing"
+      ],
+      "score": 0.3640494797335579,
+      "scraped_at": "2026-08-08T03:48:21.161000+00:00"
+    },
+    {
+      "id": "6a8521793e9c027ed637",
+      "url": "https://planetscale.com/blog?page=13",
+      "title": "Blog — PlanetScale",
+      "summary": "PlanetScale migrates open source Vitess test suite from Python to Go, announcing Vitess 6.",
+      "tags": [
+        "vitess",
+        "test suite",
+        "python",
+        "go",
+        "migrates",
+        "open source",
+        "migrates open source"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-19T03:22:32.622000+00:00"
+    },
+    {
+      "id": "6a852092c31c4640efa2",
+      "url": "https://browser.engineering/animations.html",
+      "title": "Animating and Compositing | Web Browser Engineering",
+      "summary": "Animations in web page elements are used to improve visual polish and user experience.",
+      "tags": [
+        "animations",
+        "web page elements",
+        "browser engineering",
+        "compositing",
+        "gpu acceleration",
+        "direct render approach"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-19T03:18:42.064000+00:00"
+    },
+    {
+      "id": "6a83cd680b3cab508aa9",
+      "url": "https://shopify.engineering/ucp",
+      "title": "Building the Universal Commerce Protocol (2026) - Shopify",
+      "summary": "Shopify is a commerce platform that enables diverse retailers to create and manage their online stores.",
+      "tags": [
+        "shopify",
+        "commerce",
+        "retailers",
+        "online stores",
+        "platform",
+        "retail",
+        "universal commerce protocol"
+      ],
+      "score": 0.2799098974610422,
+      "scraped_at": "2026-08-18T03:11:35.167000+00:00"
+    }
+  ]
+}
