@@ -1,0 +1,180 @@
+{
+  "date": "2026-08-22",
+  "generated_at": "2026-08-22T05:18:24.253190+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6a891446bcdf29ff0be3",
+      "url": "https://planetscale.com/blog/planetscale-for-postgres-is-generally-available",
+      "title": "PlanetScale for Postgres is now GA — PlanetScale",
+      "summary": "PlanetScale for Postgres is now generally available and out of private preview. To create a Postgres database, customers can use the service.",
+      "tags": [
+        "planet-scale",
+        "postgres",
+        "database",
+        "private preview",
+        "generally available",
+        "customers",
+        "planetscale-for-postgres",
+        "migration"
+      ],
+      "score": 0.783010633607059,
+      "scraped_at": "2026-08-22T03:15:18.623000+00:00"
+    },
+    {
+      "id": "6a8912aad55fa72a9e3e",
+      "url": "https://arpitbhayani.me/blogs/read-your-write-consistency",
+      "title": "Read-Your-Writes Consistency",
+      "summary": "Ensuring Read-Your-Writes consistency is crucial for maintaining data integrity and user experience. Replication Lag can cause inconsistent behavior, and solutions focus on reading from the Master node to achieve consistency.",
+      "tags": [
+        "async python",
+        "programming",
+        "database",
+        "consistency",
+        "read replica",
+        "write throughput",
+        "replication lag"
+      ],
+      "score": 0.770988666063829,
+      "scraped_at": "2026-08-22T03:08:26.263000+00:00"
+    },
+    {
+      "id": "6a812bfa417649c8ef89",
+      "url": "https://www.tigerdata.com/timescaledb",
+      "title": "TimescaleDB — The #1 Time-Series Database | Tiger Data",
+      "summary": "TimescaleDB is a time-series database built on Postgres, ideal for startups and enterprises.",
+      "tags": [
+        "timescaledb",
+        "postgres",
+        "time-series",
+        "database",
+        "timeseries",
+        "analytics",
+        "real-time",
+        "events"
+      ],
+      "score": 0.5165943626319053,
+      "scraped_at": "2026-08-16T03:18:17.602000+00:00"
+    },
+    {
+      "id": "6a7e9ae145ee6b6d8670",
+      "url": "https://planetscale.com/blog/behind-the-scenes-how-traffic-control-works",
+      "title": "Behind the scenes: How Database Traffic Control works — PlanetScale",
+      "summary": "Database Traffic Control is a feature that mitigates and prevents database overload due to unexpectedly expensive SQL queries.",
+      "tags": [
+        "database",
+        "traffic control",
+        "sql",
+        "overload",
+        "excessive queries",
+        "budgeting",
+        "priority",
+        "limiting"
+      ],
+      "score": 0.45229997728008253,
+      "scraped_at": "2026-08-14T04:34:41.111000+00:00"
+    },
+    {
+      "id": "6a7fd6dcebaff267c7d5",
+      "url": "https://upstash.com/blog/realtime-emergency-response",
+      "title": "Building a realtime emergency response system | Upstash Blog",
+      "summary": "Building a realtime emergency response system with Redis and serverless",
+      "tags": [
+        "realtime emergency response",
+        "redis",
+        "serverless",
+        "upstash",
+        "qstash",
+        "ably",
+        "webhooks"
+      ],
+      "score": 0.45206617148593636,
+      "scraped_at": "2026-08-15T03:02:52.848000+00:00"
+    },
+    {
+      "id": "6a8915a29d8260574e9b",
+      "url": "https://blog.cloudflare.com/author/anni/",
+      "title": "Anni Wang - Cloudflare Blog",
+      "summary": "Cloudflare welcomed ~40 interns for an unforgettable summer of mentorship, learning, and impact.",
+      "tags": [
+        "life-at-cloudflare",
+        "interns",
+        "mentorship",
+        "learning",
+        "impact",
+        "cloudflare",
+        "internship",
+        "summer"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-22T03:21:06.072000+00:00"
+    },
+    {
+      "id": "6a89156ecf69ddab48b0",
+      "url": "https://arpitbhayani.me/blogs/fork-bomb",
+      "title": "Fork Bomb",
+      "summary": "Fork Bomb is a type of malware that creates a large number of child processes, consuming system resources.",
+      "tags": [
+        "malware",
+        "fork bomb",
+        "linux",
+        "bash",
+        "malware prevention",
+        "code evaluation",
+        "online platforms",
+        "code security"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-22T03:20:14.010000+00:00"
+    },
+    {
+      "id": "6a891477dbf890909922",
+      "url": "https://dev.37signals.com/pending-tests/",
+      "title": "37signals Dev — Pending tests",
+      "summary": "Dev (https://dev.37signals.com) - A reflection on testing practices, with a focus on the author's personal experience and opinions.",
+      "tags": [
+        "dev",
+        "testing",
+        "devops",
+        "rails",
+        "tdd",
+        "testing practices"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-22T03:16:07.163000+00:00"
+    },
+    {
+      "id": "6a7fd6316daff54cce17",
+      "url": "https://upstash.com/blog/webhook-system-with-qstash",
+      "title": "Building Reliable & Type-Safe Webhooks | Upstash Blog",
+      "summary": "Building a type-safe webhook client with Qstash",
+      "tags": [
+        "webhook",
+        "type-safe",
+        "qstash",
+        "javascript",
+        "typescript",
+        "async python"
+      ],
+      "score": 0.29237971639129184,
+      "scraped_at": "2026-08-15T03:00:01.316000+00:00"
+    },
+    {
+      "id": "6a83cd680b3cab508aa9",
+      "url": "https://shopify.engineering/ucp",
+      "title": "Building the Universal Commerce Protocol (2026) - Shopify",
+      "summary": "Shopify is a commerce platform that enables diverse retailers to create and manage their online stores.",
+      "tags": [
+        "shopify",
+        "commerce",
+        "retailers",
+        "online stores",
+        "platform",
+        "retail",
+        "universal commerce protocol"
+      ],
+      "score": 0.223327511896819,
+      "scraped_at": "2026-08-18T03:11:35.167000+00:00"
+    }
+  ]
+}
