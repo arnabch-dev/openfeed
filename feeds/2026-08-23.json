@@ -1,0 +1,182 @@
+{
+  "date": "2026-08-23",
+  "generated_at": "2026-08-23T05:21:06.642099+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6a8a669ed2433a766dbb",
+      "url": "https://dev.37signals.com/once-app-server/",
+      "title": "37signals Dev — The ONCE app server",
+      "summary": "ONCE app server is a console-like system that allows multiple applications to run on a single machine, ideal for self-hosted software.",
+      "tags": [
+        "once app server",
+        "console-like system",
+        "self-hosted software",
+        "multi-application",
+        "single-machine",
+        "console",
+        "database",
+        "sqlite"
+      ],
+      "score": 0.7875000000000001,
+      "scraped_at": "2026-08-23T03:18:54.063000+00:00"
+    },
+    {
+      "id": "6a8a66d1daf7f0c58b41",
+      "url": "https://upstash.com/blog/cloudflare-workers-waiting-room",
+      "title": "Build Your Own Waiting Room for Your Website with Cloudflare Workers and Serverless Redis | Upstash Blog",
+      "summary": "Build a waiting room for your website with Cloudflare Workers and Upstash Redis",
+      "tags": [
+        "cloudflare workers",
+        "upstash redis",
+        "waiting room",
+        "serverless",
+        "edge functions",
+        "durable objects",
+        "edge computing"
+      ],
+      "score": 0.6743186580468157,
+      "scraped_at": "2026-08-23T03:19:45.062000+00:00"
+    },
+    {
+      "id": "6a85214e72699a42b3e8",
+      "url": "https://www.tigerdata.com/blog/author/hien",
+      "title": "Hien Phan - Blog | Tiger Data",
+      "summary": "Tiger Cloud is a self-hosted TimescaleDB database, offering a practical framework for choosing between self-hosted and cloud-based options.",
+      "tags": [
+        "tiger cloud",
+        "timescaledb",
+        "self-hosted",
+        "cloud",
+        "database",
+        "practical framework"
+      ],
+      "score": 0.5936556552165725,
+      "scraped_at": "2026-08-19T03:21:50.316000+00:00"
+    },
+    {
+      "id": "6a827c8cd457b27b82c7",
+      "url": "https://upstash.com/blog/better-auth-with-redis",
+      "title": "Speed up your auth with Upstash and Better Auth | Upstash Blog",
+      "summary": "Use Upstash as secondary storage for Better Auth's short-lived auth data.",
+      "tags": [
+        "better auth",
+        "upstash",
+        "redis",
+        "secondary storage",
+        "auth",
+        "temporary data",
+        "rate limiting",
+        "session storage"
+      ],
+      "score": 0.4542952949089581,
+      "scraped_at": "2026-08-17T03:14:19.995000+00:00"
+    },
+    {
+      "id": "6a7e979c601f6fdd584c",
+      "url": "https://planetscale.com/learn/courses/mysql-for-developers/schema/strings",
+      "title": "Strings — MySQL for Developers — PlanetScale",
+      "summary": "Strings are a fundamental data type in MySQL, allowing for varying length strings, fixed length strings, character sets, and collations. They can be used to store text data, including binary strings, enums, and decimal numbers.",
+      "tags": [
+        "strings",
+        "mysql",
+        "database",
+        "development",
+        "planetscale",
+        "planetscale.com",
+        "learn",
+        "courses mysql-for-developers/schema"
+      ],
+      "score": 0.4220108008736655,
+      "scraped_at": "2026-08-14T04:20:43.516000+00:00"
+    },
+    {
+      "id": "6a8a67944eed396cc757",
+      "url": "https://arpitbhayani.me/blogs/know-a-lot",
+      "title": "The Unexpected Benefit of Reading Random Engineering Articles",
+      "summary": " engineers build knowledge through self-studying random articles and videos",
+      "tags": [
+        "engineering",
+        "self-study",
+        "learning",
+        "habit",
+        "complex concepts",
+        "dissecting",
+        "connections",
+        "unrelated topics"
+      ],
+      "score": 0.3771923578001181,
+      "scraped_at": "2026-08-23T03:22:59.495000+00:00"
+    },
+    {
+      "id": "6a812d37e4da656aed52",
+      "url": "https://arpitbhayani.me/blogs/monotonic-reads",
+      "title": "Monotonic Reads - How Asynchronous Replication Creates Wormholes",
+      "summary": "Asynchronous replication creates wormholes in a distributed datastore by allowing reads to hit different replicas with different replication lags, causing oscillations between old and new values.",
+      "tags": [
+        "async python",
+        "distributed datastore",
+        "wormhole",
+        "replication lag",
+        "monotonic reads",
+        "eventual consistency",
+        "strong consistency",
+        "weak guarantee"
+      ],
+      "score": 0.3171019957465918,
+      "scraped_at": "2026-08-16T03:23:35.287000+00:00"
+    },
+    {
+      "id": "6a8913c96121db8dff83",
+      "url": "https://stripe.com/blog/payment-api-design",
+      "title": "Stripe’s payments APIs: The first 10 years | Stripe Dot Dev Blog",
+      "summary": "Stripe introduced PaymentIntents API in the US, followed by PaymentMethods, and unified payment methods with PaymentIntents and PaymentMethods.",
+      "tags": [
+        "stripe",
+        "stripe-api",
+        "stripe payments",
+        "stripe payment-intents",
+        "stripe payment-methods",
+        "stripe stripe-cli"
+      ],
+      "score": 0.2799098974610422,
+      "scraped_at": "2026-08-22T03:13:12.457000+00:00"
+    },
+    {
+      "id": "6a89137790aaf7bee30e",
+      "url": "https://blog.cloudflare.com/de-de/",
+      "title": "Der Cloudflare-Blog",
+      "summary": "Cloudflare OS ist eine Open-Source-Plattform, die Apps entwickeln, Arbeit automatisieren und interne Systeme sicher zugreifen.",
+      "tags": [
+        "cloudflare",
+        "os",
+        "open-source",
+        "appdev",
+        "automation",
+        "security",
+        "interne-systeme",
+        "cloud-stack"
+      ],
+      "score": 0.2799098974610422,
+      "scraped_at": "2026-08-22T03:11:50.790000+00:00"
+    },
+    {
+      "id": "6a7fd96e4501b441b783",
+      "url": "https://upstash.com/blog/qstash-deno-deploy",
+      "title": "Serverless Messaging for Deno Deploy | Upstash Blog",
+      "summary": "Deno Deploy and QStash enable serverless messaging with minimal setup",
+      "tags": [
+        "deno",
+        "qstash",
+        "serverless",
+        "message",
+        "queue",
+        "scheduler",
+        "javascript",
+        "typescript"
+      ],
+      "score": 0.2694079995851549,
+      "scraped_at": "2026-08-15T03:13:50.164000+00:00"
+    }
+  ]
+}
