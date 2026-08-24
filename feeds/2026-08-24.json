@@ -1,0 +1,179 @@
+{
+  "date": "2026-08-24",
+  "generated_at": "2026-08-24T05:30:58.386767+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6a8bba67cbf4fb1d3d42",
+      "url": "https://shopify.engineering/gisting",
+      "title": "Gisting: Compressing LLM Agent context to ↑ throughput and ↓ cost (2026) - Shopify",
+      "summary": "Gisting compresses LLM agent context to ↑ throughput and ↓ cost (2026) - Shopify",
+      "tags": [
+        "async python",
+        "compressing",
+        "llm",
+        "agent",
+        "context",
+        "throughput",
+        "cost",
+        "shopify"
+      ],
+      "score": 0.7849968271223129,
+      "scraped_at": "2026-08-24T03:28:39.114000+00:00"
+    },
+    {
+      "id": "6a8bb98d947947031348",
+      "url": "https://www.tigerdata.com/blog/small-postgres-metadata-tables",
+      "title": "How Small Postgres Metadata Tables Quietly Throttle Your Largest Queries | Tiger Data",
+      "summary": "Identify and adjust metadata tables to optimize Postgres performance in high-volume workloads.",
+      "tags": [
+        "async python",
+        "performance",
+        "postgres",
+        "metadata tables",
+        "throttling",
+        "query optimization",
+        "workload management",
+        "database performance optimization"
+      ],
+      "score": 0.7846231106834016,
+      "scraped_at": "2026-08-24T03:25:00.936000+00:00"
+    },
+    {
+      "id": "6a8bb80c53ab77951fd1",
+      "url": "https://upstash.com/blog/author/burak",
+      "title": "Burak Yılmaz's Posts | Upstash Blog",
+      "summary": "Upstash announces new providers for Pulumi, Chatbox, Sidekiq, Terraform, and more.",
+      "tags": [
+        "async python",
+        "programming",
+        "upstash",
+        "pulumi",
+        "chatbox",
+        "sidekiq",
+        "terraform"
+      ],
+      "score": 0.7685678024255005,
+      "scraped_at": "2026-08-24T03:18:35.849000+00:00"
+    },
+    {
+      "id": "6a8bb9c71e50cf0161f6",
+      "url": "https://planetscale.com/vitess",
+      "title": "Vitess — PlanetScale",
+      "summary": "Vitess is an open source technology for deploying, scaling, and managing large database clusters.",
+      "tags": [
+        "vitess",
+        "open source",
+        "database",
+        "cluster management",
+        "youtube",
+        "planet scale",
+        "battle hardened",
+        "large sites"
+      ],
+      "score": 0.6682613349218831,
+      "scraped_at": "2026-08-24T03:25:58.430000+00:00"
+    },
+    {
+      "id": "6a8670cdb0d401766bec",
+      "url": "https://planetscale.com/blog/author/ben",
+      "title": "Posts by Ben Dicken — PlanetScale",
+      "summary": "Ben Dicken's blog posts on PlanetScale, covering various topics including async Python, scalability, and technology.",
+      "tags": [
+        "async python",
+        "scalability",
+        "technology",
+        "planetscale",
+        "ben dickin"
+      ],
+      "score": 0.5879401198248992,
+      "scraped_at": "2026-08-20T03:13:17.132000+00:00"
+    },
+    {
+      "id": "6a8912aad55fa72a9e3e",
+      "url": "https://arpitbhayani.me/blogs/read-your-write-consistency",
+      "title": "Read-Your-Writes Consistency",
+      "summary": "Ensuring Read-Your-Writes consistency is crucial for maintaining data integrity and user experience. Replication Lag can cause inconsistent behavior, and solutions focus on reading from the Master node to achieve consistency.",
+      "tags": [
+        "async python",
+        "programming",
+        "database",
+        "consistency",
+        "read replica",
+        "write throughput",
+        "replication lag"
+      ],
+      "score": 0.4305661540975026,
+      "scraped_at": "2026-08-22T03:08:26.263000+00:00"
+    },
+    {
+      "id": "6a7fd8d6e63aaec44fe0",
+      "url": "https://upstash.com/blog/keepalive-in-serverless",
+      "title": "Reusing HTTP connections with 'keepalive' in Serverless | Upstash Blog",
+      "summary": "Keepalive enables reuse of HTTP connections for short succession of requests to the same server, reducing latency.",
+      "tags": [
+        "keepalive",
+        "http",
+        "serverless",
+        "database",
+        "connections",
+        "upstash",
+        "serverless-database-connections"
+      ],
+      "score": 0.333765424737604,
+      "scraped_at": "2026-08-15T03:11:18.827000+00:00"
+    },
+    {
+      "id": "6a8bb91eed52481ffff2",
+      "url": "https://blog.cloudflare.com/the-agentic-internet/",
+      "title": "Building an open Agentic Internet: readable, discoverable, callable, and payable | Cloudflare Blog",
+      "summary": "Cloudflare aims to create an open, readable, discoverable, callable, and payable Agentic Internet by building its own tools and protocols.",
+      "tags": [
+        "open",
+        "readable",
+        "discoverable",
+        "callable",
+        "payable",
+        "agentic",
+        "internet",
+        "cloudflare"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-24T03:23:10.795000+00:00"
+    },
+    {
+      "id": "6a8bb7dcb154c43ab843",
+      "url": "https://dev.37signals.com/building-basecamp-project-stacks-with-hotwire/",
+      "title": "37signals Dev — Building Basecamp project stacks with Hotwire",
+      "summary": "Building Basecamp project stacks with Hotwire",
+      "tags": [
+        "basecamp",
+        "hotwire",
+        "project management",
+        "stacks",
+        "organization",
+        "dev",
+        "tech stack"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-24T03:17:48.047000+00:00"
+    },
+    {
+      "id": "6a8bba9c8fabbd8928ea",
+      "url": "https://vercel.com/blog/vercel-agent",
+      "title": "Introducing the new Vercel Agent - Vercel",
+      "summary": "Vercel Agent is a new tool that helps with project management and security.",
+      "tags": [
+        "vercel",
+        "agent",
+        "github",
+        "cli",
+        "permissions",
+        "permissions model",
+        "production"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-08-24T03:29:32.448000+00:00"
+    }
+  ]
+}
