@@ -1,0 +1,177 @@
+{
+  "date": "2026-09-06",
+  "generated_at": "2026-09-06T17:33:05.255628+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6a9d18583bcc442d9b15",
+      "url": "https://shopify.engineering/skypilot",
+      "title": "SkyPilot at Shopify: Multi-cloud GPUs without the pain (2026) - Shopify",
+      "summary": "Shopify uses SkyPilot to manage multi-cloud GPU workloads without the pain.",
+      "tags": [
+        "async python",
+        "shopify",
+        "multi-cloud",
+        "gpu",
+        "sky pilot",
+        "shopify engineering",
+        "kubernetes",
+        "cloud computing"
+      ],
+      "score": 0.7859543744923007,
+      "scraped_at": "2026-09-06T07:37:59.340000+00:00"
+    },
+    {
+      "id": "6a9d13f7e2b7e3a7d14c",
+      "url": "https://stripe.com/blog/analyzing-the-evidence-that-helps-businesses-win-product-not-received-disputes",
+      "title": "Analyzing the evidence that helps businesses win “product not received” disputes",
+      "summary": "Businesses can win 'product not received' disputes by including refund evidence in their dispute responses, particularly if the refund was issued through Stripe.",
+      "tags": [
+        "async python",
+        "product not received",
+        "stripe",
+        "dispute resolution",
+        "digital goods",
+        "delivery confirmation",
+        "win rates",
+        "businesses selling digital goods"
+      ],
+      "score": 0.784987815202437,
+      "scraped_at": "2026-09-06T07:19:19.717000+00:00"
+    },
+    {
+      "id": "6a9d154448f56e93855a",
+      "url": "https://blog.cloudflare.com/author/cloudforce/",
+      "title": "Cloudforce One - Cloudflare Blog",
+      "summary": "Life at Cloudflare: Meet the team behind Cloudforce One",
+      "tags": [
+        "life-at-cloudflare",
+        "cloudflare",
+        "cloudforce one",
+        "author",
+        "omer yoachimik",
+        "jorge pacheco",
+        "cloudflare products",
+        "solutions"
+      ],
+      "score": 0.7842717917560942,
+      "scraped_at": "2026-09-06T07:24:52.153000+00:00"
+    },
+    {
+      "id": "6a9d12039b12b750ec1c",
+      "url": "https://dev.37signals.com/yjit-is-fast/",
+      "title": "37signals Dev — Basecamp code runs 18% faster with YJIT",
+      "summary": "Basecamp code runs 18% faster with YJIT, with a 98% YJIT ratio achieved through Ruby 3.3.0 upgrade",
+      "tags": [
+        "basecamp",
+        "yjit",
+        "ruby",
+        "performance",
+        "faster",
+        "ruby3.3.0"
+      ],
+      "score": 0.7826779023592225,
+      "scraped_at": "2026-09-06T07:10:58.956000+00:00"
+    },
+    {
+      "id": "6a9d17e2991bc5e857c5",
+      "url": "https://planetscale.com/blog/postgres-backups-under-the-hood",
+      "title": "Postgres backups under the hood — PlanetScale",
+      "summary": "PlanetScale's backup process for Postgres databases involves logical and file system backups, which can be done without downtime and with lower CPU impact.",
+      "tags": [
+        "postgres",
+        "backups",
+        "planetscale",
+        "logical",
+        "file system",
+        "downtime",
+        "cpu impact"
+      ],
+      "score": 0.7820361356772565,
+      "scraped_at": "2026-09-06T07:36:01.748000+00:00"
+    },
+    {
+      "id": "6a9d16d9b2510c0057a5",
+      "url": "https://arpitbhayani.me/blogs/benchmark-and-compare-pagination-approach-in-mongodb",
+      "title": "Analyzing MongoDB Pagination Performance Differences",
+      "summary": "MongoDB pagination performance differences analyzed, including when to use _id and limit approach.",
+      "tags": [
+        "mongodb",
+        "pagination",
+        "performance",
+        "database",
+        "approach"
+      ],
+      "score": 0.7637315578541077,
+      "scraped_at": "2026-09-06T07:31:37.025000+00:00"
+    },
+    {
+      "id": "6a9d16028a39e7d465fe",
+      "url": "https://upstash.com/blog/quota-based-saas",
+      "title": "Manage a quota-based SaaS application with Upstash and Next.js | Upstash Blog",
+      "summary": "Manage a quota-based SaaS application with Upstash and Next.js",
+      "tags": [
+        "async python",
+        "programming",
+        "quota-based",
+        "saas",
+        "upstash",
+        "nextjs",
+        "redis",
+        "database"
+      ],
+      "score": 0.7601755068168221,
+      "scraped_at": "2026-09-06T07:28:02.062000+00:00"
+    },
+    {
+      "id": "6a9d17ca73be3cf359f9",
+      "url": "https://dev.37signals.com/author/gabriel/",
+      "title": "37signals Dev — Gabriel Monette",
+      "summary": "Gabriel Monette is the Dev for 37signals, a company known for its Shape Up framework.",
+      "tags": [
+        "37signals",
+        "shape up",
+        "dev",
+        "gabriel monette",
+        "lead qa",
+        "qa",
+        "michael berger"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-09-06T07:35:37.941000+00:00"
+    },
+    {
+      "id": "6a9d168d4cfb28baa3d1",
+      "url": "https://vercel.com/docs/frameworks/backend/nitro",
+      "title": "Nitro on Vercel",
+      "summary": "Get started with Nitro on Vercel to deploy a Nitro app with zero configuration.",
+      "tags": [
+        "nitro",
+        "vercel",
+        "deployment",
+        "zero configuration",
+        "nitro app",
+        "frameworks",
+        "backend"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-09-06T07:30:20.608000+00:00"
+    },
+    {
+      "id": "6a9d15a9a4fba76a10ad",
+      "url": "https://www.tigerdata.com/blog/top-5-iot-manufacturing-industry-trends-and-their-data-challenges",
+      "title": "IoT in Manufacturing: Data Challenges Explained | Tiger Data",
+      "summary": "IoT in manufacturing involves collecting and analyzing data from sensors and machines on the factory floor to improve operational efficiency and decision-making. However, this process is often hindered by challenges such as data integration, security, and scalability.",
+      "tags": [
+        "iot",
+        "manufacturing",
+        "data",
+        "challenges",
+        "iiot",
+        "manufacturing analytics"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-09-06T07:26:33.021000+00:00"
+    }
+  ]
+}
