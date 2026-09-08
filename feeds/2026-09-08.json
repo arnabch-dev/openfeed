@@ -1,0 +1,178 @@
+{
+  "date": "2026-09-08",
+  "generated_at": "2026-09-08T09:19:10.416660+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6a9fb649cf41966efc64",
+      "url": "https://vercel.com/solutions/web-apps",
+      "title": "Create personalized web apps with Vercel - Vercel",
+      "summary": "Create personalized web apps with Vercel, a platform that accelerates development cycles and enhances team productivity.",
+      "tags": [
+        "vercel",
+        "web apps",
+        "personalized",
+        "performance",
+        "user experiences",
+        "unparalleled",
+        "turbocharged",
+        "development platform"
+      ],
+      "score": 0.7904523744605609,
+      "scraped_at": "2026-09-08T07:16:25.191000+00:00"
+    },
+    {
+      "id": "6a9fb492bc6cddebee51",
+      "url": "https://arpitbhayani.me/blogs/cdn-content-replication",
+      "title": "How Does a CDN Handle Content Replication",
+      "summary": "A CDN handles content replication by proactively sending content to edge nodes, using two primary approaches: push-based replication and content-addressed storage. Most modern CDNs use a hybrid of both. They ensure consistency by placing copies of content geographically closer to users, but determine what to replicate, where to place it, and when to update.",
+      "tags": [
+        "cdn",
+        "content replication",
+        "distributed systems",
+        "consistency",
+        "availability",
+        "performance",
+        "hybrid approach",
+        "push-based replication"
+      ],
+      "score": 0.788563872243199,
+      "scraped_at": "2026-09-08T07:09:06.177000+00:00"
+    },
+    {
+      "id": "6a9fb714010a10bb3b29",
+      "url": "https://dev.37signals.com/fizzy-infrastructure/",
+      "title": "37signals Dev — Behind the Fizzy Infrastructure",
+      "summary": "Fizzy's infrastructure was designed to support both self-hosted and SaaS models, but it evolved into a performance experiment.",
+      "tags": [
+        "fizzy",
+        "infrastructure",
+        "database",
+        "sqlite",
+        "multi-tenant",
+        "performance",
+        "experiment",
+        "recordables"
+      ],
+      "score": 0.7789845444657292,
+      "scraped_at": "2026-09-08T07:19:47.859000+00:00"
+    },
+    {
+      "id": "6a9fb9379400e3c88056",
+      "url": "https://planetscale.com/blog/benchmarking-postgres",
+      "title": "Benchmarking Postgres — PlanetScale",
+      "summary": "PlanetScale vs Heroku Postgres: A comparison of performance",
+      "tags": [
+        "postgres",
+        "planetscale",
+        "heroku",
+        "benchmark",
+        "performance",
+        "cloud computing",
+        "database comparison"
+      ],
+      "score": 0.7731715003464047,
+      "scraped_at": "2026-09-08T07:28:55.455000+00:00"
+    },
+    {
+      "id": "6a9fb6a69a569ff0d40b",
+      "url": "https://www.tigerdata.com/blog/slow-query-planning-or-execution-problem",
+      "title": "How to Tell Whether Your Slow Query Is a Planning or an Execution Problem | Tiger Data",
+      "summary": "Identify whether a slow query is a planning or execution problem by analyzing EXPLAIN ANALYZE output.",
+      "tags": [
+        "async python",
+        "performance",
+        "tiger data",
+        "slow query",
+        "planning",
+        "execution",
+        "postgres",
+        "explain analyze"
+      ],
+      "score": 0.7699781315291171,
+      "scraped_at": "2026-09-08T07:17:57.970000+00:00"
+    },
+    {
+      "id": "6a9fb552d44620d942e2",
+      "url": "https://planetscale.com/blog/author/simeon",
+      "title": "Posts by Simeon Griggs — PlanetScale",
+      "summary": "Simeon Griggs is a blogger and author on PlanetScale, focusing on async Python.",
+      "tags": [
+        "async python",
+        "planetscale",
+        "simeon griggs"
+      ],
+      "score": 0.5741849550086587,
+      "scraped_at": "2026-09-08T07:12:18.737000+00:00"
+    },
+    {
+      "id": "6a9fb7613f3f9b999b1b",
+      "url": "https://upstash.com/blog/api-key-generator-upstash-redis",
+      "title": "Building an API Key Generator with Upstash Redis | Upstash Blog",
+      "summary": "Building an API key generator with Upstash Redis and Cloudflare Workers",
+      "tags": [
+        "api key generator",
+        "upstash redis",
+        "cloudflare workers",
+        "redis",
+        "api key generation",
+        "cloudflare",
+        "upstash"
+      ],
+      "score": 0.4044674074242373,
+      "scraped_at": "2026-09-08T07:21:04.939000+00:00"
+    },
+    {
+      "id": "6a9fba374633f1ca3ade",
+      "url": "https://dev.37signals.com/author/jamis/",
+      "title": "37signals Dev — Jamis Buck",
+      "summary": "Jamis Buck is a programmer and SIP (Software in the Public Interest) advocate who focuses on making export jobs more reliable.",
+      "tags": [
+        "dev",
+        "jamis buck",
+        "sip",
+        "programmer",
+        "maker",
+        "builder",
+        "creator",
+        "export jobs"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-09-08T07:33:10.963000+00:00"
+    },
+    {
+      "id": "6a9fb97bbe4784e0a8d8",
+      "url": "https://arpitbhayani.me/blogs/fractional-cascading",
+      "title": "Fractional Cascading - Speeding Up Multiple Binary Searches",
+      "summary": "Fractional cascading is a technique to speed up multiple binary searches by creating bridges between lists.",
+      "tags": [
+        "binary search",
+        "cascading",
+        "fractional",
+        "searching",
+        "algorithm",
+        "data structure",
+        "preprocessing",
+        "time complexity"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-09-08T07:30:03.646000+00:00"
+    },
+    {
+      "id": "6a9fb83f2ee2fb4bf4f4",
+      "url": "https://dev.37signals.com/the-gift-of-constraints/",
+      "title": "37signals Dev — The gift of constraints",
+      "summary": "Creating an environment with constraints, not just for shipping, but for building and development.",
+      "tags": [
+        "constraints",
+        "product",
+        "development",
+        "shipping",
+        "productivity",
+        "time management"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-09-08T07:24:47.024000+00:00"
+    }
+  ]
+}
