@@ -1,0 +1,176 @@
+{
+  "date": "2026-09-09",
+  "generated_at": "2026-09-09T09:18:33.216615+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6aa10e68ab6df76dfefb",
+      "url": "https://www.tigerdata.com/blog/time-series-cardinality",
+      "title": "Time-Series Cardinality: Why One More Indexed Column Costs More Than a Million More Rows | Tiger Data",
+      "summary": "TimescaleDB solves Postgres performance issues for time-series data",
+      "tags": [
+        "time-series",
+        "cardinality",
+        "timescaledb",
+        "postgres",
+        "storage",
+        "performance",
+        "sql",
+        "compatibility"
+      ],
+      "score": 0.7806939252958993,
+      "scraped_at": "2026-09-09T07:44:40.059000+00:00"
+    },
+    {
+      "id": "6aa10bd9150972e3a192",
+      "url": "https://planetscale.com/blog/the-dangers-of-postgres-subtransactions",
+      "title": "The dangers of Postgres subtransactions — PlanetScale",
+      "summary": "Postgres subtransactions can slow queries and cause cluster issues when they overflow.",
+      "tags": [
+        "postgres",
+        "subtransactions",
+        "cluster",
+        "performance",
+        "slow queries",
+        "cluster issues"
+      ],
+      "score": 0.7733163954143378,
+      "scraped_at": "2026-09-09T07:33:44.950000+00:00"
+    },
+    {
+      "id": "6aa10e632cd8c2286f6a",
+      "url": "https://vercel.com/docs/frameworks/full-stack/sveltekit",
+      "title": "SvelteKit on Vercel",
+      "summary": "Get started with SvelteKit on Vercel: A step-by-step guide to deploying SvelteKit projects to Vercel with zero configuration.",
+      "tags": [
+        "sveltekit",
+        "vercel",
+        "deployment",
+        "svelte",
+        "javascript",
+        "frameworks",
+        "full-stack",
+        "async python"
+      ],
+      "score": 0.4926061388568961,
+      "scraped_at": "2026-09-09T07:44:35.011000+00:00"
+    },
+    {
+      "id": "6aa10d2e768a4f183a61",
+      "url": "https://planetscale.com/blog/concurrency-vs-throughput-vitess-mysql",
+      "title": "Concurrency vs. Throughput: why more parallelism can make databases slower — PlanetScale",
+      "summary": "Concurrency vs Throughput: Why More Parallelism Can Make Databases Slower",
+      "tags": [
+        "concurrency",
+        "throughput",
+        "planetscale",
+        "async python",
+        "vitess",
+        "mysql",
+        "database",
+        "workload"
+      ],
+      "score": 0.4841949298872754,
+      "scraped_at": "2026-09-09T07:39:26.322000+00:00"
+    },
+    {
+      "id": "6aa108abadb8ea15d1eb",
+      "url": "https://upstash.com/blog/qstash-announcement",
+      "title": "QStash: Messaging for the Serverless | Upstash Blog",
+      "summary": "QStash is a messaging service for serverless applications, providing a message queue and task scheduler.",
+      "tags": [
+        "async python",
+        "serverless",
+        "message queue",
+        "task scheduler",
+        "qstash",
+        "upstash",
+        "serverless messaging"
+      ],
+      "score": 0.4779908914752109,
+      "scraped_at": "2026-09-09T07:20:11.562000+00:00"
+    },
+    {
+      "id": "6a9d12039b12b750ec1c",
+      "url": "https://dev.37signals.com/yjit-is-fast/",
+      "title": "37signals Dev — Basecamp code runs 18% faster with YJIT",
+      "summary": "Basecamp code runs 18% faster with YJIT, with a 98% YJIT ratio achieved through Ruby 3.3.0 upgrade",
+      "tags": [
+        "basecamp",
+        "yjit",
+        "ruby",
+        "performance",
+        "faster",
+        "ruby3.3.0"
+      ],
+      "score": 0.41825741687577356,
+      "scraped_at": "2026-09-06T07:10:58.956000+00:00"
+    },
+    {
+      "id": "6a9d16d9b2510c0057a5",
+      "url": "https://arpitbhayani.me/blogs/benchmark-and-compare-pagination-approach-in-mongodb",
+      "title": "Analyzing MongoDB Pagination Performance Differences",
+      "summary": "MongoDB pagination performance differences analyzed, including when to use _id and limit approach.",
+      "tags": [
+        "mongodb",
+        "pagination",
+        "performance",
+        "database",
+        "approach"
+      ],
+      "score": 0.41054560634911547,
+      "scraped_at": "2026-09-06T07:31:37.025000+00:00"
+    },
+    {
+      "id": "6aa10e9e538bfc0940e3",
+      "url": "https://dev.37signals.com/announcing-hotwire-native-v1-2/",
+      "title": "37signals Dev — Announcing Hotwire Native 1.2",
+      "summary": "Hotwire Native v1.2 launched for iOS and Android, featuring new demo apps and release notes.",
+      "tags": [
+        "hotwire native",
+        "ios",
+        "android",
+        "demo apps",
+        "release notes"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-09-09T07:45:34.206000+00:00"
+    },
+    {
+      "id": "6aa10d061a5889e39b77",
+      "url": "https://dev.37signals.com/web-programming-internship/",
+      "title": "37signals Dev — Web programming internship",
+      "summary": "37signals Dev — Web programming internship experience as a web programmer on the Product team.",
+      "tags": [
+        "37signals",
+        "web programming",
+        "internship",
+        "product team",
+        "dev",
+        "web development",
+        "programming internship",
+        "product team experience"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-09-09T07:38:45.988000+00:00"
+    },
+    {
+      "id": "6aa10c21038bb23339b8",
+      "url": "https://arpitbhayani.me/blogs/temporal-primer",
+      "title": "Temporal Primer - Building Long-Running Systems",
+      "summary": "Temporal is a programming model for building long-running systems with coordination, error recovery, and state accumulated over time.",
+      "tags": [
+        "temporal",
+        "primer",
+        "system",
+        "long-running",
+        "multi-step",
+        "processes",
+        "coordination",
+        "error recovery"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-09-09T07:34:56.889000+00:00"
+    }
+  ]
+}
