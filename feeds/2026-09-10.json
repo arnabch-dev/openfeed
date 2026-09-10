@@ -1,0 +1,179 @@
+{
+  "date": "2026-09-10",
+  "generated_at": "2026-09-10T09:17:26.979669+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6aa25952dc3cb1cbb788",
+      "url": "https://dev.37signals.com/moving-mountains-of-data-off-s3/",
+      "title": "37signals Dev — Moving Mountains of Data off S3",
+      "summary": "Moving billions of files out of Amazon S3 with zero downtime",
+      "tags": [
+        "s3",
+        "moving data",
+        "cloud exit",
+        "recordables",
+        "37signals",
+        "programming",
+        "javascript",
+        "async python"
+      ],
+      "score": 0.48915226677764,
+      "scraped_at": "2026-09-10T07:16:34.779000+00:00"
+    },
+    {
+      "id": "6aa25f6797cf7d9b34a3",
+      "url": "https://blog.cloudflare.com/author/sam/",
+      "title": "Sam Rhea - Cloudflare Blog",
+      "summary": "Sam Rhea is a Cloudflare author.",
+      "tags": [
+        "cloudflare",
+        "life at cloudflare",
+        "sam rhea"
+      ],
+      "score": 0.44453368941531624,
+      "scraped_at": "2026-09-10T07:42:31.169000+00:00"
+    },
+    {
+      "id": "6aa10ee43281e92d0177",
+      "url": "https://upstash.com/blog/sveltekit-edge-redis",
+      "title": "Building a Guest Book on the Edge with SvelteKit, Upstash Redis® and Vercel | Upstash Blog",
+      "summary": "Building a guest book on the edge with SvelteKit, Upstash Redis, and Vercel.",
+      "tags": [
+        "sveltekit",
+        "upstash",
+        "redis",
+        "vercel",
+        "edge",
+        "guestbook",
+        "serverless",
+        "database"
+      ],
+      "score": 0.44033940128893717,
+      "scraped_at": "2026-09-09T07:46:43.803000+00:00"
+    },
+    {
+      "id": "6a9e6d9aed57feab07f2",
+      "url": "https://planetscale.com/benchmarks/heroku",
+      "title": "PlanetScale vs Heroku benchmarks — PlanetScale",
+      "summary": "PlanetScale vs Heroku benchmarks: Direct connections offer better performance, but Heroku's unusual plan system may provide an advantage depending on the AZ.",
+      "tags": [
+        "planetscale",
+        "heroku",
+        "benchmarks",
+        "performance",
+        "planetscale-vs-heroku-benchmarks",
+        "direct connections",
+        "unusual plan system",
+        "latency"
+      ],
+      "score": 0.4255446829038179,
+      "scraped_at": "2026-09-07T07:54:02.780000+00:00"
+    },
+    {
+      "id": "6a9d17951889b75addb0",
+      "url": "https://www.tigerdata.com/blog/what-pg_stat_statements-actually-tells-you-about-your-queries",
+      "title": "What pg_stat_statements Actually Tells You About Your Queries | Tiger Data",
+      "summary": "pg_stat_statements provides a detailed view of PostgreSQL queries, showing execution time, number of rows, and other metrics.",
+      "tags": [
+        "postgresql",
+        "query",
+        "performance",
+        "stats",
+        "database",
+        "sql"
+      ],
+      "score": 0.38988915752556114,
+      "scraped_at": "2026-09-06T07:34:44.427000+00:00"
+    },
+    {
+      "id": "6a9a6f80c2adda1ebb6c",
+      "url": "https://planetscale.com/blog/keeping-a-postgres-queue-healthy",
+      "title": "Keeping a Postgres queue healthy — PlanetScale",
+      "summary": "Keeping a Postgres queue healthy requires careful configuration and management to prevent performance degradation and application issues.",
+      "tags": [
+        "postgres",
+        "queue",
+        "health",
+        "maintenance",
+        "performance",
+        "replication",
+        "replicas",
+        "replication slots"
+      ],
+      "score": 0.34281150853955744,
+      "scraped_at": "2026-09-04T07:13:03.996000+00:00"
+    },
+    {
+      "id": "6a92a0b47ac546948a4f",
+      "url": "https://arpitbhayani.me/blogs/midpoint-insertion-caching-strategy",
+      "title": "How MySQL Avoids Performance Hits from Table Scans",
+      "summary": "InnoDB's cache is designed to avoid performance hits from table scans by inserting pages in the middle of the cache, rather than at the end. This approach makes the cache more resistant to sequential scans.",
+      "tags": [
+        "innodb",
+        "buffer pool",
+        "cache",
+        "sequential scan",
+        "innodb engine",
+        "performance",
+        "midpoint insertion",
+        "caching strategy"
+      ],
+      "score": 0.34277928429784893,
+      "scraped_at": "2026-08-29T09:04:51.698000+00:00"
+    },
+    {
+      "id": "6aa25eeadf6b24ab4d4a",
+      "url": "https://tailscale.com/privacy-policy",
+      "title": "Privacy Policy · Tailscale",
+      "summary": "Tailscale Privacy Policy: A comprehensive guide to how the company collects, uses, and protects user information.",
+      "tags": [
+        "tailscale",
+        "data protection",
+        "security measures",
+        "law enforcement requests",
+        "transparency",
+        "user rights",
+        "data controller"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-09-10T07:40:26.419000+00:00"
+    },
+    {
+      "id": "6aa25e73ab18f8d214fd",
+      "url": "https://incident.io/blog/fact-checking-pager-dutys-opsgenie-alternatives-comparison-table",
+      "title": "Fact-checking PagerDuty's Opsgenie alternatives comparison table | Blog | incident.io",
+      "summary": "PagerDuty's table compares incident.io to Opsgenie, highlighting features and ratings.",
+      "tags": [
+        "incident.io",
+        "opsgenie",
+        "pagerduty",
+        "real-time incident management",
+        "engineering teams",
+        "new home",
+        "shutdown",
+        "april 2027"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-09-10T07:38:27.576000+00:00"
+    },
+    {
+      "id": "6aa25d91acea7132b479",
+      "url": "https://dev.37signals.com/a-happier-happy-path-in-turbo-with-morphing/",
+      "title": "37signals Dev — A happier happy path in Turbo with morphing",
+      "summary": "Turbo's morphing feature is an implementation detail that hides behind Turbo Drive, allowing for smoother page refreshes.",
+      "tags": [
+        "turbo",
+        "morphing",
+        "happy path",
+        "turbo drive",
+        "progressive",
+        "implementation detail",
+        "dom tree morphing",
+        "turbo box"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-09-10T07:34:40.842000+00:00"
+    }
+  ]
+}
