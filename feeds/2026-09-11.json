@@ -1,0 +1,178 @@
+{
+  "date": "2026-09-11",
+  "generated_at": "2026-09-11T09:16:59.212051+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6aa3ac90a353769920f8",
+      "url": "https://www.tigerdata.com/blog/reading-table-bloat-before-it-reads-you",
+      "title": "Reading Table Bloat Before It Reads You | Tiger Data",
+      "summary": "Bloat in PostgreSQL tables can be a silent killer of performance",
+      "tags": [
+        "async python",
+        "postgresql",
+        "performance",
+        "bloat",
+        "table",
+        "metadata",
+        "statistics",
+        "explain"
+      ],
+      "score": 0.7787868523841925,
+      "scraped_at": "2026-09-11T07:23:59.998000+00:00"
+    },
+    {
+      "id": "6aa3ad51118900ae0771",
+      "url": "https://planetscale.com/blog/postgres-poisoned-connection-pools",
+      "title": "Poisoned Postgres connection pools — PlanetScale",
+      "summary": "Poisoned Postgres connection pools can occur when a connection pool is not properly managed, causing writes to fail or error codes to be returned.",
+      "tags": [
+        "postgres",
+        "connection pool",
+        "poisoned pool",
+        "planetscale",
+        "mcp server"
+      ],
+      "score": 0.5287430331664702,
+      "scraped_at": "2026-09-11T07:27:12.906000+00:00"
+    },
+    {
+      "id": "6aa3b09a8a2f7e94991a",
+      "url": "https://planetscale.com/blog/the-history-of-postgres-sharding",
+      "title": "The history of Postgres sharding — PlanetScale",
+      "summary": "Postgres sharding has evolved from custom solutions to a widely adopted open-source solution, designed for wider adoption. Citus was the first open-source sharding solution for Postgres, designed originally in 2011.",
+      "tags": [
+        "postgres",
+        "sharding",
+        "citus",
+        "database",
+        "open-source"
+      ],
+      "score": 0.5204802924719938,
+      "scraped_at": "2026-09-11T07:41:13.585000+00:00"
+    },
+    {
+      "id": "6a9fb649cf41966efc64",
+      "url": "https://vercel.com/solutions/web-apps",
+      "title": "Create personalized web apps with Vercel - Vercel",
+      "summary": "Create personalized web apps with Vercel, a platform that accelerates development cycles and enhances team productivity.",
+      "tags": [
+        "vercel",
+        "web apps",
+        "personalized",
+        "performance",
+        "user experiences",
+        "unparalleled",
+        "turbocharged",
+        "development platform"
+      ],
+      "score": 0.4264325080870237,
+      "scraped_at": "2026-09-08T07:16:25.191000+00:00"
+    },
+    {
+      "id": "6a9fb492bc6cddebee51",
+      "url": "https://arpitbhayani.me/blogs/cdn-content-replication",
+      "title": "How Does a CDN Handle Content Replication",
+      "summary": "A CDN handles content replication by proactively sending content to edge nodes, using two primary approaches: push-based replication and content-addressed storage. Most modern CDNs use a hybrid of both. They ensure consistency by placing copies of content geographically closer to users, but determine what to replicate, where to place it, and when to update.",
+      "tags": [
+        "cdn",
+        "content replication",
+        "distributed systems",
+        "consistency",
+        "availability",
+        "performance",
+        "hybrid approach",
+        "push-based replication"
+      ],
+      "score": 0.4193592287349747,
+      "scraped_at": "2026-09-08T07:09:06.177000+00:00"
+    },
+    {
+      "id": "6a9fb714010a10bb3b29",
+      "url": "https://dev.37signals.com/fizzy-infrastructure/",
+      "title": "37signals Dev — Behind the Fizzy Infrastructure",
+      "summary": "Fizzy's infrastructure was designed to support both self-hosted and SaaS models, but it evolved into a performance experiment.",
+      "tags": [
+        "fizzy",
+        "infrastructure",
+        "database",
+        "sqlite",
+        "multi-tenant",
+        "performance",
+        "experiment",
+        "recordables"
+      ],
+      "score": 0.4162273666878281,
+      "scraped_at": "2026-09-08T07:19:47.859000+00:00"
+    },
+    {
+      "id": "6a9e6a62a5c2a100040a",
+      "url": "https://upstash.com/blog/redis-with-remix",
+      "title": "Using Upstash Redis with Remix | Upstash Blog",
+      "summary": "Using Upstash Redis with Remix to create a simple feature flag system",
+      "tags": [
+        "async python",
+        "remix",
+        "upstash",
+        "redis",
+        "database",
+        "feature flag"
+      ],
+      "score": 0.38772877749813384,
+      "scraped_at": "2026-09-07T07:40:18.412000+00:00"
+    },
+    {
+      "id": "6aa3af4adf296fa4408d",
+      "url": "https://arpitbhayani.me/blogs/monolith-is-distributed-system",
+      "title": "Your Monolith Is Already A Distributed System",
+      "summary": "A monolith can be a distributed system with implicit database coupling and function calls, not just infrastructure-level distribution.",
+      "tags": [
+        "distributed system",
+        "monolith",
+        "implicit coupling",
+        "function calls",
+        "database coupling",
+        "microservices",
+        "distributed architecture",
+        "refactoring confidence"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-09-11T07:35:38.306000+00:00"
+    },
+    {
+      "id": "6aa3aea702a6d96435df",
+      "url": "https://dev.37signals.com/fractal-journeys/",
+      "title": "37signals Dev — Fractal journeys",
+      "summary": "Fractal journeys explore similar patterns at progressively smaller scales in code, observing the same qualities repeated at different levels of abstraction.",
+      "tags": [
+        "fractal",
+        "code",
+        "abstraction",
+        "patterns",
+        "similarities",
+        "smaller scales",
+        "domain-driven",
+        "activity timeline"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-09-11T07:32:54.118000+00:00"
+    },
+    {
+      "id": "6aa3ae579ab8df0760e4",
+      "url": "https://www.tigerdata.com/blog/tiger-cloud-on-azure-why-fully-managed-timescaledb-beats-self-hosting-and-other-managed-options",
+      "title": "Tiger Cloud on Azure: Why Fully-Managed Timescaledb Beats Self-Hosting And Other Managed Options | Tiger Data",
+      "summary": "Choosing between self-hosting TimescaleDB on Azure, using the TimescaleDB on Azure managed service, or running Tiger Cloud (fully-managed TimescaleDB) on Azure depends on whether you want to operate TimescaleDB yourself or build on a platform engineered to run it for you. Tiger Cloud on Azure automates decisions and gives back engineering time, making it the right managed platform for time-series workloads.",
+      "tags": [
+        "timescaledb",
+        "azure",
+        "managed",
+        "self-hosted",
+        "tigercloud",
+        "timeseries",
+        "managedoptions"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-09-11T07:31:34.707000+00:00"
+    }
+  ]
+}
