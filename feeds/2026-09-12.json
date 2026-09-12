@@ -1,0 +1,173 @@
+{
+  "date": "2026-09-12",
+  "generated_at": "2026-09-12T08:56:38.376730+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6aa4ff5908c6e1d3beb7",
+      "url": "https://www.tigerdata.com/blog/real-cost-of-single-insert-in-postgres",
+      "title": "The Real Cost of a Single Insert in Postgres | Tiger Data",
+      "summary": "Postgres writes a separate WAL record for each row in an insert, with a log size of roughly 345 bytes per 40-byte row. Index maintenance adds to the log size, but not data. The cost of an insert is measured by the number of WAL records and the log size.",
+      "tags": [
+        "async python",
+        "postgresql",
+        "database",
+        "performance",
+        "optimization",
+        "indexing",
+        "wal",
+        "log size"
+      ],
+      "score": 0.771346165615676,
+      "scraped_at": "2026-09-12T07:29:28.856000+00:00"
+    },
+    {
+      "id": "6aa50014dd558f5a6917",
+      "url": "https://planetscale.com/blog/author/andres",
+      "title": "Posts by Andres Taylor — PlanetScale",
+      "summary": "Andres Taylor announces sharded Postgres by Vitess team",
+      "tags": [
+        "sharded postgres",
+        "vitess",
+        "postgres",
+        "sharding",
+        "vitess team",
+        "announcing",
+        "neki"
+      ],
+      "score": 0.5900612834342414,
+      "scraped_at": "2026-09-12T07:32:36.744000+00:00"
+    },
+    {
+      "id": "6a9fb9379400e3c88056",
+      "url": "https://planetscale.com/blog/benchmarking-postgres",
+      "title": "Benchmarking Postgres — PlanetScale",
+      "summary": "PlanetScale vs Heroku Postgres: A comparison of performance",
+      "tags": [
+        "postgres",
+        "planetscale",
+        "heroku",
+        "benchmark",
+        "performance",
+        "cloud computing",
+        "database comparison"
+      ],
+      "score": 0.5859336879641514,
+      "scraped_at": "2026-09-08T07:28:55.455000+00:00"
+    },
+    {
+      "id": "6aa4fef0d364fa6f7729",
+      "url": "https://tailscale.com/blog/tailscaleup-2026-product-update",
+      "title": "TailscaleUp 2026: a preview of Tailscale’s product updates",
+      "summary": "TailscaleUp: A preview of Tailscale's product updates, focusing on programmability and new features.",
+      "tags": [
+        "tailscale",
+        "product update",
+        "programmable",
+        "tailscaleup",
+        "async python"
+      ],
+      "score": 0.5843299405550919,
+      "scraped_at": "2026-09-12T07:27:44.655000+00:00"
+    },
+    {
+      "id": "6a9fb6a69a569ff0d40b",
+      "url": "https://www.tigerdata.com/blog/slow-query-planning-or-execution-problem",
+      "title": "How to Tell Whether Your Slow Query Is a Planning or an Execution Problem | Tiger Data",
+      "summary": "Identify whether a slow query is a planning or execution problem by analyzing EXPLAIN ANALYZE output.",
+      "tags": [
+        "async python",
+        "performance",
+        "tiger data",
+        "slow query",
+        "planning",
+        "execution",
+        "postgres",
+        "explain analyze"
+      ],
+      "score": 0.5782721957611806,
+      "scraped_at": "2026-09-08T07:17:57.970000+00:00"
+    },
+    {
+      "id": "6aa4fcce7a43a97ce1f6",
+      "url": "https://planetscale.com/blog/debugging-live-database-connections",
+      "title": "How one connection kills a database — PlanetScale",
+      "summary": "View and kill live database connections on PlanetScale",
+      "tags": [
+        "database",
+        "connections",
+        "kill",
+        "planetscale",
+        "async python"
+      ],
+      "score": 0.5679589375776324,
+      "scraped_at": "2026-09-12T07:18:38.336000+00:00"
+    },
+    {
+      "id": "6aa50166c032767ae191",
+      "url": "https://incident.io/demo",
+      "title": "Book a demo | incident.io",
+      "summary": "Incident response tool for Slack or Teams, automates incident management phases.",
+      "tags": [
+        "incident response",
+        "slack",
+        "teams",
+        "incident management",
+        "automation",
+        "ai assistant"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-09-12T07:38:13.860000+00:00"
+    },
+    {
+      "id": "6aa4fe0b5aa86bf5fb38",
+      "url": "https://vercel.com/customers/how-speechify-serves-50000-dynamic-pages-to-60-million-users-on-vercel",
+      "title": "How Speechify serves 500,000 dynamic pages to 60 million users on Vercel | Customers | Vercel",
+      "summary": "Speechify serves 500,000 dynamic pages to 60 million users on Vercel, achieving a 50% cost reduction and 40 times more pages per user.",
+      "tags": [
+        "speechify",
+        "vercel",
+        "nextjs",
+        "ai",
+        "voice",
+        "dynamic",
+        "users"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-09-12T07:23:55.245000+00:00"
+    },
+    {
+      "id": "6aa4fddbcd34731aaad2",
+      "url": "https://dev.37signals.com/author/jirka/",
+      "title": "37signals Dev — Jirka Hutárek",
+      "summary": "Jirka Hutárek is the author of the 37signals Dev blog, focusing on Android development.",
+      "tags": [
+        "android",
+        "dev",
+        "kanban",
+        "mobile",
+        "card table",
+        "bringing card table to the small screen"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-09-12T07:23:07.120000+00:00"
+    },
+    {
+      "id": "6a9fb7613f3f9b999b1b",
+      "url": "https://upstash.com/blog/api-key-generator-upstash-redis",
+      "title": "Building an API Key Generator with Upstash Redis | Upstash Blog",
+      "summary": "Building an API key generator with Upstash Redis and Cloudflare Workers",
+      "tags": [
+        "api key generator",
+        "upstash redis",
+        "cloudflare workers",
+        "redis",
+        "api key generation",
+        "cloudflare",
+        "upstash"
+      ],
+      "score": 0.2615304362623411,
+      "scraped_at": "2026-09-08T07:21:04.939000+00:00"
+    }
+  ]
+}
