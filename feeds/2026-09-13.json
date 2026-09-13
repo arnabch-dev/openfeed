@@ -1,0 +1,179 @@
+{
+  "date": "2026-09-13",
+  "generated_at": "2026-09-13T09:53:32.867886+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6aa65664c590d20f90cb",
+      "url": "https://tailscale.com/webinars/tailscale-winter-update-2026",
+      "title": "Tailscale Winter Update",
+      "summary": "tailscale winter update represents significant expansion of secure connectivity platform to date, improving performance, enterprise compliance, and addressing emerging challenges of securing AI systems.",
+      "tags": [
+        "tailscale",
+        "winter update",
+        "secure connectivity",
+        "platform",
+        "performance",
+        "enterprise compliance",
+        "ai systems"
+      ],
+      "score": 0.7852668267711733,
+      "scraped_at": "2026-09-13T07:53:07.926000+00:00"
+    },
+    {
+      "id": "6aa65664c58d043c8c20",
+      "url": "https://tailscale.com/webinars/mitigating-the-lethal-trifecta",
+      "title": "Mitigating the “lethal trifecta”: Unblocking your team without adding risk",
+      "summary": "Tailscale's secure connectivity platform evolves to support modern development workflows, improve performance, and address emerging AI security challenges.",
+      "tags": [
+        "ai",
+        "security",
+        "platform",
+        "development",
+        "workflows",
+        "performance",
+        "compliance",
+        "auditability"
+      ],
+      "score": 0.7844185258735175,
+      "scraped_at": "2026-09-13T07:53:07.926000+00:00"
+    },
+    {
+      "id": "6aa654bf2ccfa0a53419",
+      "url": "https://arpitbhayani.me/videos",
+      "title": "Videos | Arpit Bhayani",
+      "summary": "Distributed systems, database internals, data structures, and engineering architectures are discussed in technical video breakdowns and walkthroughs.",
+      "tags": [
+        "async python",
+        "programming",
+        "distributed systems",
+        "database internals",
+        "data structures",
+        "engineering architectures",
+        "technical video breakdowns",
+        "walkthroughs"
+      ],
+      "score": 0.6336890070091759,
+      "scraped_at": "2026-09-13T07:46:06.842000+00:00"
+    },
+    {
+      "id": "6aa10e68ab6df76dfefb",
+      "url": "https://www.tigerdata.com/blog/time-series-cardinality",
+      "title": "Time-Series Cardinality: Why One More Indexed Column Costs More Than a Million More Rows | Tiger Data",
+      "summary": "TimescaleDB solves Postgres performance issues for time-series data",
+      "tags": [
+        "time-series",
+        "cardinality",
+        "timescaledb",
+        "postgres",
+        "storage",
+        "performance",
+        "sql",
+        "compatibility"
+      ],
+      "score": 0.5917079700657499,
+      "scraped_at": "2026-09-09T07:44:40.059000+00:00"
+    },
+    {
+      "id": "6aa10bd9150972e3a192",
+      "url": "https://planetscale.com/blog/the-dangers-of-postgres-subtransactions",
+      "title": "The dangers of Postgres subtransactions — PlanetScale",
+      "summary": "Postgres subtransactions can slow queries and cause cluster issues when they overflow.",
+      "tags": [
+        "postgres",
+        "subtransactions",
+        "cluster",
+        "performance",
+        "slow queries",
+        "cluster issues"
+      ],
+      "score": 0.5864327082167726,
+      "scraped_at": "2026-09-09T07:33:44.950000+00:00"
+    },
+    {
+      "id": "6a9fb552d44620d942e2",
+      "url": "https://planetscale.com/blog/author/simeon",
+      "title": "Posts by Simeon Griggs — PlanetScale",
+      "summary": "Simeon Griggs is a blogger and author on PlanetScale, focusing on async Python.",
+      "tags": [
+        "async python",
+        "planetscale",
+        "simeon griggs"
+      ],
+      "score": 0.4353355661729529,
+      "scraped_at": "2026-09-08T07:12:18.737000+00:00"
+    },
+    {
+      "id": "6aa10ee43281e92d0177",
+      "url": "https://upstash.com/blog/sveltekit-edge-redis",
+      "title": "Building a Guest Book on the Edge with SvelteKit, Upstash Redis® and Vercel | Upstash Blog",
+      "summary": "Building a guest book on the edge with SvelteKit, Upstash Redis, and Vercel.",
+      "tags": [
+        "sveltekit",
+        "upstash",
+        "redis",
+        "vercel",
+        "edge",
+        "guestbook",
+        "serverless",
+        "database"
+      ],
+      "score": 0.35195660397457046,
+      "scraped_at": "2026-09-09T07:46:43.803000+00:00"
+    },
+    {
+      "id": "6aa65664c58f19b98073",
+      "url": "https://tailscale.com/webinars/the-roi-of-modern-secure-access",
+      "title": "The ROI of Modern Secure Access",
+      "summary": "Modernizing secure access is about more than just improving security, it's about business value.",
+      "tags": [
+        "modern secure access",
+        "business impact",
+        "zero trust",
+        "migrating to zero trust",
+        "access permissions",
+        "identity",
+        "role",
+        "context"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-09-13T07:53:07.926000+00:00"
+    },
+    {
+      "id": "6aa654bf2cc977f74a1a",
+      "url": "https://arpitbhayani.me/projects",
+      "title": "Projects | Arpit Bhayani",
+      "summary": "Arpit Bhayani's personal projects and open-source contributions on various platforms.",
+      "tags": [
+        "projects",
+        "arpit bhayani",
+        "open source",
+        "github",
+        "wikipedia",
+        "gitbooks",
+        "flask",
+        "deckrun"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-09-13T07:46:06.842000+00:00"
+    },
+    {
+      "id": "6aa654bf2cd24daa1b1b",
+      "url": "https://arpitbhayani.me/blogs/slop-debt",
+      "title": "Slop Debt",
+      "summary": "Slop debt is a problem in software development where a codebase is generated by a large language model, reviewed by no one, and merged due to tests passing. It looks like code but is incoherent and lacks design.",
+      "tags": [
+        "slop debt",
+        "software development",
+        "code generation",
+        "language model",
+        "review discipline",
+        "error handling",
+        "abstraction",
+        "incoherence"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-09-13T07:46:06.842000+00:00"
+    }
+  ]
+}
