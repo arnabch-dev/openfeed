@@ -1,0 +1,175 @@
+{
+  "date": "2026-09-14",
+  "generated_at": "2026-09-14T10:12:43.311042+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6aa7ac29472f37f889f4",
+      "url": "https://dev.37signals.com/kamal-prometheus/",
+      "title": "37signals Dev — Prometheus metrics with Rails and Kamal",
+      "summary": "Prometheus metrics with Rails and Kamal for monitoring performance",
+      "tags": [
+        "prometheus",
+        "rails",
+        "kamal",
+        "metrics",
+        "monitoring",
+        "performance",
+        "prometheus-ruby"
+      ],
+      "score": 0.7857142857142858,
+      "scraped_at": "2026-09-14T08:11:20.553000+00:00"
+    },
+    {
+      "id": "6aa7a87b6dfdca135116",
+      "url": "https://blog.cloudflare.com/author/celso/",
+      "title": "Celso Martinho - Cloudflare Blog",
+      "summary": "Cloudflare introduces WebGPU support for Workers, enabling AI-optimized rendering and better performance.",
+      "tags": [
+        "cloudflare",
+        "webgpu",
+        "workers",
+        "ai",
+        "rendering",
+        "performance"
+      ],
+      "score": 0.7782097396702191,
+      "scraped_at": "2026-09-14T07:55:38.941000+00:00"
+    },
+    {
+      "id": "6aa7abe0982cb450d47d",
+      "url": "https://upstash.com/blog/ai-postcard-qstash",
+      "title": "How to Create an AI Postcard Sender with Upstash QStash | Upstash Blog",
+      "summary": "Create an AI postcard sender app using Upstash QStash and Redis",
+      "tags": [
+        "ai postcard",
+        "upstash qstash",
+        "redis",
+        "qstash",
+        "upstash blog",
+        "async python"
+      ],
+      "score": 0.6295719146384664,
+      "scraped_at": "2026-09-14T08:10:07.944000+00:00"
+    },
+    {
+      "id": "6aa3ac90a353769920f8",
+      "url": "https://www.tigerdata.com/blog/reading-table-bloat-before-it-reads-you",
+      "title": "Reading Table Bloat Before It Reads You | Tiger Data",
+      "summary": "Bloat in PostgreSQL tables can be a silent killer of performance",
+      "tags": [
+        "async python",
+        "postgresql",
+        "performance",
+        "bloat",
+        "table",
+        "metadata",
+        "statistics",
+        "explain"
+      ],
+      "score": 0.6249522445666029,
+      "scraped_at": "2026-09-11T07:23:59.998000+00:00"
+    },
+    {
+      "id": "6aa7ab86a2727fb67f25",
+      "url": "https://planetscale.com/blog/118-million-queries-per-second-on-neki",
+      "title": "118 million queries per second on Neki — PlanetScale",
+      "summary": "Neki reached 118 million queries per second on 512 shards, with 1.22 PiB of data.",
+      "tags": [
+        "neki",
+        "planetscale",
+        "async python",
+        "database"
+      ],
+      "score": 0.6106889293085501,
+      "scraped_at": "2026-09-14T08:08:38.483000+00:00"
+    },
+    {
+      "id": "6a9fb649cf41966efc64",
+      "url": "https://vercel.com/solutions/web-apps",
+      "title": "Create personalized web apps with Vercel - Vercel",
+      "summary": "Create personalized web apps with Vercel, a platform that accelerates development cycles and enhances team productivity.",
+      "tags": [
+        "vercel",
+        "web apps",
+        "personalized",
+        "performance",
+        "user experiences",
+        "unparalleled",
+        "turbocharged",
+        "development platform"
+      ],
+      "score": 0.5187086326041798,
+      "scraped_at": "2026-09-08T07:16:25.191000+00:00"
+    },
+    {
+      "id": "6a9fb714010a10bb3b29",
+      "url": "https://dev.37signals.com/fizzy-infrastructure/",
+      "title": "37signals Dev — Behind the Fizzy Infrastructure",
+      "summary": "Fizzy's infrastructure was designed to support both self-hosted and SaaS models, but it evolved into a performance experiment.",
+      "tags": [
+        "fizzy",
+        "infrastructure",
+        "database",
+        "sqlite",
+        "multi-tenant",
+        "performance",
+        "experiment",
+        "recordables"
+      ],
+      "score": 0.5087690186096321,
+      "scraped_at": "2026-09-08T07:19:47.859000+00:00"
+    },
+    {
+      "id": "6aa7ad18bf952b916574",
+      "url": "https://incident.io/blog/introducing-the-opsgenie-rescue-program",
+      "title": "Your genie is vanishing: introducing the Opsgenie rescue program | Blog | incident.io",
+      "summary": "Opsgenie Rescue Program: Simplified migration and free overlap for teams running on Opsgenie.",
+      "tags": [
+        "opsgenie",
+        "migration",
+        "incidentio",
+        "all-in-one",
+        "incident management",
+        "upgrade",
+        "rescue program"
+      ],
+      "score": 0.3580934171065778,
+      "scraped_at": "2026-09-14T08:15:20.607000+00:00"
+    },
+    {
+      "id": "6aa7abdd7f798cdc9b8e",
+      "url": "https://tailscale.com/features",
+      "title": "Features · Tailscale",
+      "summary": "Tailscale is a cloud-based VPN service that allows businesses to tailor their VPN experience with UI customization, auto-updates, and runtime configurations.",
+      "tags": [
+        "cloud vpn",
+        "business vpn",
+        "mobile device management",
+        "ui customization",
+        "auto-updates",
+        "runtime configurations"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-09-14T08:10:04.886000+00:00"
+    },
+    {
+      "id": "6aa7a9734a609f0b2f3d",
+      "url": "https://tailscale.com/use-cases/pam",
+      "title": "Modernize PAM for Zero Trust security",
+      "summary": "Tailscale PAM provides session-based privileged access control directly into the same identity-based network layer, eliminating credential overhead and enabling zero trust security.",
+      "tags": [
+        "pam",
+        "zero trust",
+        "networking",
+        "identity-based access",
+        "privileged access control",
+        "security",
+        "identity layer",
+        "network security"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-09-14T07:59:46.604000+00:00"
+    }
+  ]
+}
