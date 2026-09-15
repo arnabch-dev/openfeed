@@ -1,0 +1,178 @@
+{
+  "date": "2026-09-15",
+  "generated_at": "2026-09-15T09:42:14.836614+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6aa8f8d2a85f815e24bb",
+      "url": "https://arpitbhayani.me/blogs/grpc-http2",
+      "title": "Why gRPC Uses HTTP2",
+      "summary": "gRPC uses HTTP2 for improved performance in distributed systems, particularly in long-lived connections and streaming.",
+      "tags": [
+        "grpc",
+        "http2",
+        "distributed systems",
+        "performance",
+        "functionality",
+        "scalability",
+        "protobuf",
+        "protocol buffers"
+      ],
+      "score": 0.7856833856705049,
+      "scraped_at": "2026-09-15T07:50:41.963000+00:00"
+    },
+    {
+      "id": "6aa8f5b62152fa92b92c",
+      "url": "https://incident.io/changelog/reassign-escalations",
+      "title": "Reassign escalations | Changelog | incident.io",
+      "summary": "Reassigning alerts to automatically update context and escalate to a different team or individual.",
+      "tags": [
+        "async python",
+        "incident.io",
+        "changelog",
+        "escalation",
+        "reassignment",
+        "teams",
+        "features",
+        "paging"
+      ],
+      "score": 0.6360877216742697,
+      "scraped_at": "2026-09-15T07:37:25.255000+00:00"
+    },
+    {
+      "id": "6aa8f7e3f0116573c566",
+      "url": "https://upstash.com/blog/nextjs-edge-waiting-room",
+      "title": "Waiting Room for your Next.js App Using Edge Functions | Upstash Blog",
+      "summary": "A Next.js app is created using Vercel Edge functions and Upstash Redis to implement a waiting room for the application.",
+      "tags": [
+        "async python",
+        "nextjs",
+        "vercel",
+        "upstash",
+        "redis",
+        "edge functions",
+        "waiting room",
+        "nextjs app"
+      ],
+      "score": 0.6272626179630575,
+      "scraped_at": "2026-09-15T07:46:43.095000+00:00"
+    },
+    {
+      "id": "6aa4ff5908c6e1d3beb7",
+      "url": "https://www.tigerdata.com/blog/real-cost-of-single-insert-in-postgres",
+      "title": "The Real Cost of a Single Insert in Postgres | Tiger Data",
+      "summary": "Postgres writes a separate WAL record for each row in an insert, with a log size of roughly 345 bytes per 40-byte row. Index maintenance adds to the log size, but not data. The cost of an insert is measured by the number of WAL records and the log size.",
+      "tags": [
+        "async python",
+        "postgresql",
+        "database",
+        "performance",
+        "optimization",
+        "indexing",
+        "wal",
+        "log size"
+      ],
+      "score": 0.6205716397357492,
+      "scraped_at": "2026-09-12T07:29:28.856000+00:00"
+    },
+    {
+      "id": "6a9fb9379400e3c88056",
+      "url": "https://planetscale.com/blog/benchmarking-postgres",
+      "title": "Benchmarking Postgres — PlanetScale",
+      "summary": "PlanetScale vs Heroku Postgres: A comparison of performance",
+      "tags": [
+        "postgres",
+        "planetscale",
+        "heroku",
+        "benchmark",
+        "performance",
+        "cloud computing",
+        "database comparison"
+      ],
+      "score": 0.47672132587282295,
+      "scraped_at": "2026-09-08T07:28:55.455000+00:00"
+    },
+    {
+      "id": "6aa25952dc3cb1cbb788",
+      "url": "https://dev.37signals.com/moving-mountains-of-data-off-s3/",
+      "title": "37signals Dev — Moving Mountains of Data off S3",
+      "summary": "Moving billions of files out of Amazon S3 with zero downtime",
+      "tags": [
+        "s3",
+        "moving data",
+        "cloud exit",
+        "recordables",
+        "37signals",
+        "programming",
+        "javascript",
+        "async python"
+      ],
+      "score": 0.4406970153051975,
+      "scraped_at": "2026-09-10T07:16:34.779000+00:00"
+    },
+    {
+      "id": "6aa8fb5f5f24d92168a7",
+      "url": "https://dev.37signals.com/good-concerns/",
+      "title": "37signals Dev — Good concerns",
+      "summary": "Concerns are a design pattern that enables concise APIs while keeping model code organized.",
+      "tags": [
+        "concerns",
+        "object-oriented design",
+        "inheritance",
+        "composition",
+        "design patterns",
+        "rails",
+        "poros",
+        "model organization"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-09-15T08:01:35.222000+00:00"
+    },
+    {
+      "id": "6aa8fa6911685991b291",
+      "url": "https://vercel.com/blog/one-million-dollar-hacker-challenge-for-vercel-sandbox",
+      "title": "$1 million hacker challenge for Vercel Sandbox - Vercel",
+      "summary": "Vercel Sandbox hacker challenge: $1 million for researchers to escape the sandbox",
+      "tags": [
+        "hacker challenge",
+        "vercel sandbox",
+        "researchers",
+        "hackerone",
+        "public challenge"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-09-15T07:57:28.348000+00:00"
+    },
+    {
+      "id": "6aa8fa2da98552c9b8bb",
+      "url": "https://dev.37signals.com/domain-driven-boldness/",
+      "title": "37signals Dev — Domain driven boldness",
+      "summary": "Creating a good domain model is key to successful domain-driven design, but it can be challenging to achieve. Aseptic approaches can lead to a lack of boldness in the code.",
+      "tags": [
+        "domain-driven design",
+        "domain model",
+        "boldness in code"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-09-15T07:56:28.929000+00:00"
+    },
+    {
+      "id": "6aa25d91acea7132b479",
+      "url": "https://dev.37signals.com/a-happier-happy-path-in-turbo-with-morphing/",
+      "title": "37signals Dev — A happier happy path in Turbo with morphing",
+      "summary": "Turbo's morphing feature is an implementation detail that hides behind Turbo Drive, allowing for smoother page refreshes.",
+      "tags": [
+        "turbo",
+        "morphing",
+        "happy path",
+        "turbo drive",
+        "progressive",
+        "implementation detail",
+        "dom tree morphing",
+        "turbo box"
+      ],
+      "score": 0.2593803059804427,
+      "scraped_at": "2026-09-10T07:34:40.842000+00:00"
+    }
+  ]
+}
