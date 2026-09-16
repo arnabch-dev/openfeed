@@ -1,0 +1,169 @@
+{
+  "date": "2026-09-16",
+  "generated_at": "2026-09-16T09:36:04.335948+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6aaa4ad6674817de5ef1",
+      "url": "https://incident.io/blog/de-risking-a-pager-duty-migration",
+      "title": "De-risking a PagerDuty migration: the objections we hear most, and how to clear them | Blog | incident.io",
+      "summary": "De-risking a PagerDuty migration: the objections we hear most and how to clear them",
+      "tags": [
+        "async python",
+        "incident.io",
+        "pager duty",
+        "migration",
+        "de-risking",
+        "objections",
+        "concerns",
+        "migration decision making"
+      ],
+      "score": 0.6360877216742697,
+      "scraped_at": "2026-09-16T07:52:53.724000+00:00"
+    },
+    {
+      "id": "6aaa48e0b90b1d3694db",
+      "url": "https://arpitbhayani.me/blogs/the-weird-walrus",
+      "title": "I Changed the Rules for the Python's Walrus Operator",
+      "summary": "The Walrus Operator allows assigning and returning values in a single expression, making it more concise and efficient.",
+      "tags": [
+        "walrus operator",
+        "assignment expressions",
+        "python",
+        "syntax error",
+        "concurrency",
+        "async python"
+      ],
+      "score": 0.6340937469477455,
+      "scraped_at": "2026-09-16T07:44:32.543000+00:00"
+    },
+    {
+      "id": "6aaa47fca02414964c38",
+      "url": "https://vercel.com/blog/how-v0-authenticates-to-snowflake-without-exposing-the-users-oauth-token",
+      "title": "How v0 authenticates to Snowflake without exposing the user's OAuth token - Vercel",
+      "summary": "Vercel's v0 proxy authenticates to Snowflake without exposing user's OAuth token",
+      "tags": [
+        "async python",
+        "snowflake",
+        "oauth",
+        "authentication",
+        "proxy",
+        "snowflake sql api"
+      ],
+      "score": 0.6340937469477455,
+      "scraped_at": "2026-09-16T07:40:44.441000+00:00"
+    },
+    {
+      "id": "6aaa485793ca725fd323",
+      "url": "https://upstash.com/blog/nextjs-16-realtime-notifications",
+      "title": "Realtime Notifications with Next.js 16 & Vercel | Upstash Blog",
+      "summary": "Next.js 16 and Vercel integrate Upstash Realtime for real-time notifications",
+      "tags": [
+        "async python",
+        "programming",
+        "realtime notifications",
+        "nextjs",
+        "vercel",
+        "upstash"
+      ],
+      "score": 0.6225156033771754,
+      "scraped_at": "2026-09-16T07:42:14.950000+00:00"
+    },
+    {
+      "id": "6a9fb492bc6cddebee51",
+      "url": "https://arpitbhayani.me/blogs/cdn-content-replication",
+      "title": "How Does a CDN Handle Content Replication",
+      "summary": "A CDN handles content replication by proactively sending content to edge nodes, using two primary approaches: push-based replication and content-addressed storage. Most modern CDNs use a hybrid of both. They ensure consistency by placing copies of content geographically closer to users, but determine what to replicate, where to place it, and when to update.",
+      "tags": [
+        "cdn",
+        "content replication",
+        "distributed systems",
+        "consistency",
+        "availability",
+        "performance",
+        "hybrid approach",
+        "push-based replication"
+      ],
+      "score": 0.4463025456793114,
+      "scraped_at": "2026-09-08T07:09:06.177000+00:00"
+    },
+    {
+      "id": "6aa7a92d43f9fe4119dc",
+      "url": "https://planetscale.com/blog/introducing-neki",
+      "title": "Introducing Neki — PlanetScale",
+      "summary": "Neki is a sharded Postgres database for PlanetScale, built on Postgres, offering real Postgres on every shard.",
+      "tags": [
+        "neki",
+        "planetscale",
+        "postgres",
+        "sharded database",
+        "database",
+        "tier0",
+        "tier1"
+      ],
+      "score": 0.444148392421929,
+      "scraped_at": "2026-09-14T07:58:36.733000+00:00"
+    },
+    {
+      "id": "6a9fb6a69a569ff0d40b",
+      "url": "https://www.tigerdata.com/blog/slow-query-planning-or-execution-problem",
+      "title": "How to Tell Whether Your Slow Query Is a Planning or an Execution Problem | Tiger Data",
+      "summary": "Identify whether a slow query is a planning or execution problem by analyzing EXPLAIN ANALYZE output.",
+      "tags": [
+        "async python",
+        "performance",
+        "tiger data",
+        "slow query",
+        "planning",
+        "execution",
+        "postgres",
+        "explain analyze"
+      ],
+      "score": 0.43895469256836933,
+      "scraped_at": "2026-09-08T07:17:57.970000+00:00"
+    },
+    {
+      "id": "6aaa4d2884a01384beb7",
+      "url": "https://tailscale.com/blog?category=&page=1&search=",
+      "title": "Blog | Tailscale",
+      "summary": "Tailscale is a VPN service that allows users to securely connect their devices to the internet.",
+      "tags": [
+        "tailscale",
+        "vpn",
+        "security",
+        "network",
+        "work",
+        "bring-tailscale-to-work"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-09-16T08:02:47.825000+00:00"
+    },
+    {
+      "id": "6aaa4b585b8a20bde91e",
+      "url": "https://dev.37signals.com/modern-css-patterns-and-techniques-in-campfire/",
+      "title": "37signals Dev — Modern CSS patterns in Campfire",
+      "summary": "37signals' Campfire uses modern CSS patterns, vanilla CSS, and no frameworks or preprocessors.",
+      "tags": [
+        "modern css patterns",
+        "campfire",
+        "once campfire"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-09-16T07:55:03.543000+00:00"
+    },
+    {
+      "id": "6aaa49e709818b341792",
+      "url": "https://dev.37signals.com/author/alberto/",
+      "title": "37signals Dev — Alberto Fernández-Capel",
+      "summary": " Alberto Fernández-Capel is a programmer working on the 10x development environment.",
+      "tags": [
+        "10x development environment",
+        "dev",
+        "programmer",
+        "alberto fernández-capel"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-09-16T07:48:54.296000+00:00"
+    }
+  ]
+}
