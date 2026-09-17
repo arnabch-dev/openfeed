@@ -1,0 +1,173 @@
+{
+  "date": "2026-09-17",
+  "generated_at": "2026-09-17T09:44:32.387585+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6aab99025bc547dbf3b2",
+      "url": "https://vercel.com/oss/swr",
+      "title": "SWR: React Hooks for Data Fetching - Vercel",
+      "summary": "SWR: React Hooks for Data Fetching",
+      "tags": [
+        "async python",
+        "react hooks",
+        "swr",
+        "vercel plugin",
+        "react",
+        "hooks",
+        "data fetching",
+        "fetcher"
+      ],
+      "score": 0.6372513341839241,
+      "scraped_at": "2026-09-17T07:38:41.488000+00:00"
+    },
+    {
+      "id": "6aab97e26a2445d19961",
+      "url": "https://www.tigerdata.com/blog/meshtastic-metrics-exporter-case-study-tiger-data",
+      "title": "How Meshtastic Metrics Exporter Turned Eight Prometheus Queries Into One with Tiger Data | Tiger Data",
+      "summary": "Meshtastic Metrics Exporter moved from Prometheus to TimescaleDB, reducing queries from 8 to 1.",
+      "tags": [
+        "async python",
+        "prometheus",
+        "timescaledb",
+        "mesh",
+        "tiger data",
+        "docker compose",
+        "grafana",
+        "dashboards"
+      ],
+      "score": 0.6358461190025542,
+      "scraped_at": "2026-09-17T07:33:53.511000+00:00"
+    },
+    {
+      "id": "6aab97e850de75344955",
+      "url": "https://planetscale.com/blog/introducing-tin",
+      "title": "Introducing TIN: full-text search for Postgres — PlanetScale",
+      "summary": "TIN is a fast and full-featured full-text search extension for Postgres, meeting requirements for full-text search, joins, and continuous updates.",
+      "tags": [
+        "async python",
+        "postgresql",
+        "text search",
+        "full-text search",
+        "text index",
+        "ctid mapping",
+        "text data",
+        "text search indexes"
+      ],
+      "score": 0.6347439282446956,
+      "scraped_at": "2026-09-17T07:33:59.493000+00:00"
+    },
+    {
+      "id": "6aa65664c590d20f90cb",
+      "url": "https://tailscale.com/webinars/tailscale-winter-update-2026",
+      "title": "Tailscale Winter Update",
+      "summary": "tailscale winter update represents significant expansion of secure connectivity platform to date, improving performance, enterprise compliance, and addressing emerging challenges of securing AI systems.",
+      "tags": [
+        "tailscale",
+        "winter update",
+        "secure connectivity",
+        "platform",
+        "performance",
+        "enterprise compliance",
+        "ai systems"
+      ],
+      "score": 0.5951209692340591,
+      "scraped_at": "2026-09-13T07:53:07.926000+00:00"
+    },
+    {
+      "id": "6aa65664c58d043c8c20",
+      "url": "https://tailscale.com/webinars/mitigating-the-lethal-trifecta",
+      "title": "Mitigating the “lethal trifecta”: Unblocking your team without adding risk",
+      "summary": "Tailscale's secure connectivity platform evolves to support modern development workflows, improve performance, and address emerging AI security challenges.",
+      "tags": [
+        "ai",
+        "security",
+        "platform",
+        "development",
+        "workflows",
+        "performance",
+        "compliance",
+        "auditability"
+      ],
+      "score": 0.5944780773720778,
+      "scraped_at": "2026-09-13T07:53:07.926000+00:00"
+    },
+    {
+      "id": "6aab9659bc18f59c5c9d",
+      "url": "https://planetscale.com/blog/author/eebbrr",
+      "title": "Posts by Eric Ridge — PlanetScale",
+      "summary": "TIN is a fast, full-featured, full-text search index for Postgres.",
+      "tags": [
+        "postgres",
+        "tin"
+      ],
+      "score": 0.5007104591853493,
+      "scraped_at": "2026-09-17T07:27:20.943000+00:00"
+    },
+    {
+      "id": "6aab99aceb7f17843edb",
+      "url": "https://upstash.com/blog/global-database",
+      "title": "Global Database for Serverless and Edge | Upstash Blog",
+      "summary": "Upstash Global Database is a serverless, edge-friendly database for low latency reads and writes. It provides a free tier and supports multiple regions.",
+      "tags": [
+        "database",
+        "serverless",
+        "edge",
+        "redis",
+        "upstash",
+        "global database",
+        "low latency",
+        "serverless architecture"
+      ],
+      "score": 0.4656942555630975,
+      "scraped_at": "2026-09-17T07:41:30.615000+00:00"
+    },
+    {
+      "id": "6aab9b5bf185c7b46cab",
+      "url": "https://arpitbhayani.me/blogs/how-llm-inference-works",
+      "title": "How LLM Inference Works",
+      "summary": "LLM inference converts text into numbers, processes them, and returns a response one token at a time.",
+      "tags": [
+        "llm",
+        "inference",
+        "how"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-09-17T07:48:43.763000+00:00"
+    },
+    {
+      "id": "6aab996f16535ceb110d",
+      "url": "https://incident.io/security-report",
+      "title": "Trust Center - incident.io",
+      "summary": "incident.io provides incident management software integrated into Slack or Microsoft Teams for world-class security.",
+      "tags": [
+        "incident management",
+        "security software",
+        "slack",
+        "microsoft teams",
+        "customer data",
+        "confidentiality agreement"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-09-17T07:40:30.264000+00:00"
+    },
+    {
+      "id": "6aab9757e25a79ef9382",
+      "url": "https://arpitbhayani.me/blogs/kafka-partitions",
+      "title": "When You Increase Kafka Partitions",
+      "summary": "When you increase Kafka partitions, existing data remains unchanged. New partitions start empty, and existing data is not moved.",
+      "tags": [
+        "kafka",
+        "partitions",
+        "scalability",
+        "partitioning",
+        "rebalancing",
+        "topic",
+        "partition assignment",
+        "strategy"
+      ],
+      "score": 0.2996296346312581,
+      "scraped_at": "2026-09-17T07:31:35.086000+00:00"
+    }
+  ]
+}
