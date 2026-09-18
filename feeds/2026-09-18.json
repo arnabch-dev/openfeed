@@ -1,0 +1,175 @@
+{
+  "date": "2026-09-18",
+  "generated_at": "2026-09-18T09:18:07.534929+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6aace7a4e933641c97a6",
+      "url": "https://vercel.com/i/measure-software-factory-performance",
+      "title": "How do you measure software factory performance? - Vercel",
+      "summary": "Measuring software factory performance involves tracking work acceptance, effort, and quality. Cost, review time, and rework are key metrics. Compare tasks by scope, review effort, and issue investigation.",
+      "tags": [
+        "software factory",
+        "performance",
+        "metrics",
+        "tasks",
+        "scope",
+        "review effort",
+        "quality",
+        "cost per task"
+      ],
+      "score": 0.7875000000000001,
+      "scraped_at": "2026-09-18T07:26:28.111000+00:00"
+    },
+    {
+      "id": "6aace9802e7129e6e35e",
+      "url": "https://upstash.com/blog/redis-in-sql-apps",
+      "title": "Speed up your Database with Global Redis | Upstash Blog",
+      "summary": "Integrating Global Redis with SQL databases for improved performance and scalability.",
+      "tags": [
+        "redis",
+        "sql",
+        "database",
+        "performance",
+        "scalability",
+        "global",
+        "distributed",
+        "edge"
+      ],
+      "score": 0.7784700420781849,
+      "scraped_at": "2026-09-18T07:34:23.332000+00:00"
+    },
+    {
+      "id": "6aace81c4e194713c985",
+      "url": "https://upstash.com/blog/upstash-vs-aws-elasticache-serverless-redis-pricing-and-performance-2026",
+      "title": "Upstash vs AWS ElastiCache: Serverless Redis Pricing and Performance in 2026 | Upstash Blog",
+      "summary": "Upstash vs AWS ElastiCache: Serverless Redis Pricing and Performance in 2026",
+      "tags": [
+        "async python",
+        "redis",
+        "serverless",
+        "aws",
+        "elasticache",
+        "redis pricing",
+        "performance",
+        "comparison"
+      ],
+      "score": 0.7731072208599804,
+      "scraped_at": "2026-09-18T07:28:27.660000+00:00"
+    },
+    {
+      "id": "6aace64714957f3b8ab7",
+      "url": "https://arpitbhayani.me/blogs/three-skills",
+      "title": "Three Claude Skills I Think Every Org Should Have",
+      "summary": "Three skills every org should have to improve efficiency and reduce friction in development",
+      "tags": [
+        "async python",
+        "engineering org",
+        "tools",
+        "pipeline",
+        "day one",
+        "logging",
+        "database",
+        "central sink"
+      ],
+      "score": 0.6308837386522067,
+      "scraped_at": "2026-09-18T07:20:38.142000+00:00"
+    },
+    {
+      "id": "6aa7a87b6dfdca135116",
+      "url": "https://blog.cloudflare.com/author/celso/",
+      "title": "Celso Martinho - Cloudflare Blog",
+      "summary": "Cloudflare introduces WebGPU support for Workers, enabling AI-optimized rendering and better performance.",
+      "tags": [
+        "cloudflare",
+        "webgpu",
+        "workers",
+        "ai",
+        "rendering",
+        "performance"
+      ],
+      "score": 0.5897726973189475,
+      "scraped_at": "2026-09-14T07:55:38.941000+00:00"
+    },
+    {
+      "id": "6aa7ae0099b2f3c346c8",
+      "url": "https://planetscale.com/blog/author/hirad",
+      "title": "Posts by Hirad Pourtahmasbi — PlanetScale",
+      "summary": "PlanetScale: High-Performance Database for Sharded Postgres",
+      "tags": [
+        "async python",
+        "postgresql",
+        "sharded database",
+        "high performance"
+      ],
+      "score": 0.47196667447954216,
+      "scraped_at": "2026-09-14T08:19:12.116000+00:00"
+    },
+    {
+      "id": "6aa3ad51118900ae0771",
+      "url": "https://planetscale.com/blog/postgres-poisoned-connection-pools",
+      "title": "Poisoned Postgres connection pools — PlanetScale",
+      "summary": "Poisoned Postgres connection pools can occur when a connection pool is not properly managed, causing writes to fail or error codes to be returned.",
+      "tags": [
+        "postgres",
+        "connection pool",
+        "poisoned pool",
+        "planetscale",
+        "mcp server"
+      ],
+      "score": 0.3124189186517963,
+      "scraped_at": "2026-09-11T07:27:12.906000+00:00"
+    },
+    {
+      "id": "6aaced0b4f7ff421fcb4",
+      "url": "https://arpitbhayani.me/blogs/replication-formats",
+      "title": "Replication Formats - Statement vs Row-based",
+      "summary": "The Row-based format is used in distributed data stores to ensure data consistency and accuracy. It logs updates on individual data items instead of operations, allowing for efficient replication.",
+      "tags": [
+        "replication formats",
+        "row-based",
+        "distributed data stores",
+        "data consistency",
+        "accuracy",
+        "log files",
+        "replication log",
+        "master- replica pattern"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-09-18T07:49:30.486000+00:00"
+    },
+    {
+      "id": "6aacec1bb67a3bdcbd70",
+      "url": "https://tailscale.com/use-cases/zero-trust-networking",
+      "title": "Zero Trust Networking: Secure Access with WireGuard & ZTNA",
+      "summary": "Zero Trust Networking enables secure remote access for distributed teams by using identity-based access and continuous verification.",
+      "tags": [
+        "zero trust networking",
+        "wireguard",
+        "tailscale",
+        "distributed teams",
+        "remote access",
+        "identity-based access",
+        "continuous verification"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-09-18T07:45:30.897000+00:00"
+    },
+    {
+      "id": "6aacebd15c4d71bb7097",
+      "url": "https://arpitbhayani.me/blogs/blocking-queues",
+      "title": "What are Blocking Queues and Why We Need Them",
+      "summary": "Blocking Queues: A Thread-Safe Queue for Concurrent Processing",
+      "tags": [
+        "blocking queue",
+        "concurrent programming",
+        "producer-consumer pattern",
+        "worker pool",
+        "request processing",
+        "web server"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-09-18T07:44:16.502000+00:00"
+    }
+  ]
+}
