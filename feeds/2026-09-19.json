@@ -1,0 +1,180 @@
+{
+  "date": "2026-09-19",
+  "generated_at": "2026-09-19T09:05:13.557461+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6aae3b65462264b97e9e",
+      "url": "https://dev.37signals.com/author/donal/",
+      "title": "37signals Dev — Donal McBreen",
+      "summary": "Donal McBreen discusses improvements to HEY database queries and deployment simplification.",
+      "tags": [
+        "dev",
+        "donal mcbreen",
+        "hey",
+        "sip",
+        "programming",
+        "deployment",
+        "performance",
+        "hey.com"
+      ],
+      "score": 0.7853428880066218,
+      "scraped_at": "2026-09-19T07:36:04.317000+00:00"
+    },
+    {
+      "id": "6aae3bd631e89a149f39",
+      "url": "https://blog.cloudflare.com/rfc9234-bgp-role-model/",
+      "title": "BGP Role model: tracking the adoption of RFC 9234 | Cloudflare Blog",
+      "summary": "Cloudflare developed a method to track BGP Role adoption by monitoring ASes sending OTC attribute. Unexpectedly found two large adopters.",
+      "tags": [
+        "async python",
+        "cloudflare",
+        "cloudflare blog",
+        "rfc9234",
+        "bgp role",
+        "route leaks",
+        "bgp role model",
+        "bgp role configuration"
+      ],
+      "score": 0.6346933713064775,
+      "scraped_at": "2026-09-19T07:37:57.634000+00:00"
+    },
+    {
+      "id": "6aae370e561462872ce8",
+      "url": "https://planetscale.com/blog/the-architecture-of-neki",
+      "title": "The architecture of Neki — PlanetScale",
+      "summary": "Neki is a sharding and scaling solution for real Postgres, built as a Kubernetes-first system. It uses ordinary PostgreSQL instances to shard and scale, and manages them as one database.",
+      "tags": [
+        "postgresql",
+        "sharding",
+        "scaling",
+        "kubernetes",
+        "neki",
+        "database",
+        "real-time",
+        "async python"
+      ],
+      "score": 0.6274217802306159,
+      "scraped_at": "2026-09-19T07:17:33.483000+00:00"
+    },
+    {
+      "id": "6aa8f8d2a85f815e24bb",
+      "url": "https://arpitbhayani.me/blogs/grpc-http2",
+      "title": "Why gRPC Uses HTTP2",
+      "summary": "gRPC uses HTTP2 for improved performance in distributed systems, particularly in long-lived connections and streaming.",
+      "tags": [
+        "grpc",
+        "http2",
+        "distributed systems",
+        "performance",
+        "functionality",
+        "scalability",
+        "protobuf",
+        "protocol buffers"
+      ],
+      "score": 0.5954366618463812,
+      "scraped_at": "2026-09-15T07:50:41.963000+00:00"
+    },
+    {
+      "id": "6aa7ac29472f37f889f4",
+      "url": "https://dev.37signals.com/kamal-prometheus/",
+      "title": "37signals Dev — Prometheus metrics with Rails and Kamal",
+      "summary": "Prometheus metrics with Rails and Kamal for monitoring performance",
+      "tags": [
+        "prometheus",
+        "rails",
+        "kamal",
+        "metrics",
+        "monitoring",
+        "performance",
+        "prometheus-ruby"
+      ],
+      "score": 0.555583899503716,
+      "scraped_at": "2026-09-14T08:11:20.553000+00:00"
+    },
+    {
+      "id": "6aa7acb4d1d74b6f5a3a",
+      "url": "https://planetscale.com/blog/author/florent",
+      "title": "Posts by Florent Poinsard — PlanetScale",
+      "summary": "PlanetScale Insights: Optimizing slow queries for sharded Postgres database",
+      "tags": [
+        "planetscale",
+        "insights",
+        "postgres",
+        "sharded database",
+        "optimization",
+        "slow queries"
+      ],
+      "score": 0.363494549420301,
+      "scraped_at": "2026-09-14T08:13:40.375000+00:00"
+    },
+    {
+      "id": "6aab9702afa016740b52",
+      "url": "https://upstash.com/blog/authenticated-api-redis",
+      "title": "Build an authenticated API with Next.js API Routes and Upstash Redis | Upstash Blog",
+      "summary": "Builds an authenticated API service with Next.js API Routes and Upstash Redis",
+      "tags": [
+        "nextjs",
+        "api",
+        "authentication",
+        "upstash",
+        "redis"
+      ],
+      "score": 0.35419059815746506,
+      "scraped_at": "2026-09-17T07:30:09.575000+00:00"
+    },
+    {
+      "id": "6aae3b9f3d365bd76057",
+      "url": "https://tailscale.com/docs/solutions/migrate-openvpn-tailscale",
+      "title": "Migrate from OpenVPN to Tailscale · Tailscale Docs",
+      "summary": "Migrate from OpenVPN to Tailscale: A step-by-step guide to creating a mesh network with end-to-end encrypted connections.",
+      "tags": [
+        "tailscale",
+        "openvpn",
+        "mesh network",
+        "end-to-end encrypted",
+        "vpn",
+        "wireguard",
+        "wireguard protocol",
+        "tailscale docs"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-09-19T07:37:02.331000+00:00"
+    },
+    {
+      "id": "6aae390b2b4ded0c83a4",
+      "url": "https://vercel.com/customers/how-featureds-users-make-100k-media-pitches-per-month-on-vercel",
+      "title": "How Featured's users make 100K media pitches per month on Vercel | Customers | Vercel",
+      "summary": "Featured connects users with journalists/publishers, delivers over 100,000 media pitches/month, and has sent 100M HARO emails/year.",
+      "tags": [
+        "media",
+        "pitch",
+        "pitching",
+        "public relations",
+        "pr",
+        "journalism",
+        "media opportunities"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-09-19T07:26:02.325000+00:00"
+    },
+    {
+      "id": "6aae38008f526b69e4a7",
+      "url": "https://tailscale.com/use-cases/secure-ai-agent-connectivity",
+      "title": "Secure AI agent connectivity",
+      "summary": "Securely connect AI agents to LLMs, resources, and each other without rebuilding existing stack.",
+      "tags": [
+        "secure ai agent connectivity",
+        "ai agent connectivity",
+        "llm connectivity",
+        "secure access to ai",
+        "access layer",
+        "compliance",
+        "agent traffic",
+        "custom networking solutions"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-09-19T07:21:35.759000+00:00"
+    }
+  ]
+}
