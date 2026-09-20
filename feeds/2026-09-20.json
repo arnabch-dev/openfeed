@@ -1,0 +1,174 @@
+{
+  "date": "2026-09-20",
+  "generated_at": "2026-09-20T09:31:36.988661+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6aaf908688151b98addd",
+      "url": "https://dev.37signals.com/globals-callbacks-and-other-sacrileges/",
+      "title": "37signals Dev — Globals, callbacks and other sacrileges",
+      "summary": "37signals Dev discusses the use of callbacks in project management, highlighting their benefits and limitations.",
+      "tags": [
+        "async python",
+        "programming",
+        "dev",
+        "globals",
+        "callbacks",
+        "sacrileges",
+        "tactical",
+        "lifecycle"
+      ],
+      "score": 0.635094222190546,
+      "scraped_at": "2026-09-20T07:51:33.682000+00:00"
+    },
+    {
+      "id": "6aaf8f18014736df5a90",
+      "url": "https://upstash.com/blog/rag-document-ingestion-workflow-pinecone",
+      "title": "Durable RAG Document Ingestion with Upstash Workflow and Pinecone | Upstash Blog",
+      "summary": "A durable document ingestion pipeline for Retrieval-Augmented Generation (RAG) applications using Upstash Workflow, Pinecone, and OpenAI embeddings on Next.js.",
+      "tags": [
+        "async python",
+        "programming",
+        "rag",
+        "document ingestion",
+        "upstash workflow",
+        "pinecone",
+        "openai embeddings",
+        "next.js"
+      ],
+      "score": 0.635094222190546,
+      "scraped_at": "2026-09-20T07:45:27.833000+00:00"
+    },
+    {
+      "id": "6aaf91b62ac3213e886d",
+      "url": "https://upstash.com/blog/redis-key-based-locking",
+      "title": "How Upstash Redis Runs More Commands in Parallel | Upstash Blog",
+      "summary": "Upstash Redis uses key-based locking to allow concurrent execution of commands on unrelated keys while preserving Redis-compatible semantics.",
+      "tags": [
+        "async python",
+        "redis",
+        "key-based-locking",
+        "redis-cluster",
+        "event-loop",
+        "key-hash-slots",
+        "redis-server-architecture",
+        "command-execution-path"
+      ],
+      "score": 0.6350003709419516,
+      "scraped_at": "2026-09-20T07:56:37.882000+00:00"
+    },
+    {
+      "id": "6aaf9300349d100d53d0",
+      "url": "https://upstash.com/blog/how-redis-search-powers-context7",
+      "title": "How Redis Search Powers Millions of Searches in Context7 | Upstash Blog",
+      "summary": "Context7 uses Redis Search for fast and reliable search database, powering millions of searches daily.",
+      "tags": [
+        "async python",
+        "redis search",
+        "context7",
+        "upstash",
+        "search database",
+        "fast search"
+      ],
+      "score": 0.6288177056880506,
+      "scraped_at": "2026-09-20T08:02:08.017000+00:00"
+    },
+    {
+      "id": "6aace7a4e933641c97a6",
+      "url": "https://vercel.com/i/measure-software-factory-performance",
+      "title": "How do you measure software factory performance? - Vercel",
+      "summary": "Measuring software factory performance involves tracking work acceptance, effort, and quality. Cost, review time, and rework are key metrics. Compare tasks by scope, review effort, and issue investigation.",
+      "tags": [
+        "software factory",
+        "performance",
+        "metrics",
+        "tasks",
+        "scope",
+        "review effort",
+        "quality",
+        "cost per task"
+      ],
+      "score": 0.4570390457304652,
+      "scraped_at": "2026-09-18T07:26:28.111000+00:00"
+    },
+    {
+      "id": "6aa4ff5908c6e1d3beb7",
+      "url": "https://www.tigerdata.com/blog/real-cost-of-single-insert-in-postgres",
+      "title": "The Real Cost of a Single Insert in Postgres | Tiger Data",
+      "summary": "Postgres writes a separate WAL record for each row in an insert, with a log size of roughly 345 bytes per 40-byte row. Index maintenance adds to the log size, but not data. The cost of an insert is measured by the number of WAL records and the log size.",
+      "tags": [
+        "async python",
+        "postgresql",
+        "database",
+        "performance",
+        "optimization",
+        "indexing",
+        "wal",
+        "log size"
+      ],
+      "score": 0.43881041466920334,
+      "scraped_at": "2026-09-12T07:29:28.856000+00:00"
+    },
+    {
+      "id": "6aaf956027226d986106",
+      "url": "https://arpitbhayani.me/blogs/decipher-single-xor",
+      "title": "ETAOIN SHRDLU - Using Letter Frequency to Decipher the Ciphered",
+      "summary": "A simple cipher using letter frequency to decipher the ciphered text.",
+      "tags": [
+        "cipher",
+        "letter frequency",
+        "simple cipher",
+        "decipher",
+        "plaintext",
+        "ciphertext"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-09-20T08:12:16.007000+00:00"
+    },
+    {
+      "id": "6aaf9461de5d9262862a",
+      "url": "https://tailscale.com/opensource",
+      "title": "Open source at Tailscale · Tailscale",
+      "summary": "Tailscale is open source, providing Tailscale to open source projects.",
+      "tags": [
+        "tailscale",
+        "opensource",
+        "github",
+        "linux",
+        "derp relay server code"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-09-20T08:08:01.538000+00:00"
+    },
+    {
+      "id": "6aaf941b68a2c73e1670",
+      "url": "https://arpitbhayani.me/blogs/taxonomy-on-sql",
+      "title": "Modeling Udemy's Categories in a Relational Database",
+      "summary": "Designing a taxonomy on a relational database for Udemy's categories, with a focus on robustness and extensibility.",
+      "tags": [
+        "taxonomy",
+        "relational database",
+        "udemy",
+        "categories",
+        "sub-categories",
+        "topics",
+        "sql",
+        "database design"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-09-20T08:06:51.084000+00:00"
+    },
+    {
+      "id": "6aab9659bc18f59c5c9d",
+      "url": "https://planetscale.com/blog/author/eebbrr",
+      "title": "Posts by Eric Ridge — PlanetScale",
+      "summary": "TIN is a fast, full-featured, full-text search index for Postgres.",
+      "tags": [
+        "postgres",
+        "tin"
+      ],
+      "score": 0.2711355135692874,
+      "scraped_at": "2026-09-17T07:27:20.943000+00:00"
+    }
+  ]
+}
