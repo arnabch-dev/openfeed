@@ -1,0 +1,175 @@
+{
+  "date": "2026-09-21",
+  "generated_at": "2026-09-21T10:18:36.266124+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6ab0e4953bd1ccf9e473",
+      "url": "https://arpitbhayani.me/blogs/python-caches-integers",
+      "title": "How Python Handles Integers Under the Hood",
+      "summary": "Python handles integers efficiently by preallocating a range of smaller integers during initialization and using singleton instances to save computation and allocations.",
+      "tags": [
+        "python",
+        "integer",
+        "c structure",
+        "base 2",
+        "implementation",
+        "performance",
+        "allocation",
+        "reference count"
+      ],
+      "score": 0.7875000000000001,
+      "scraped_at": "2026-09-21T08:02:28.402000+00:00"
+    },
+    {
+      "id": "6ab0e99ce7204bfa7a9d",
+      "url": "https://blog.cloudflare.com/author/kody/",
+      "title": "Kody Jackson - Cloudflare Blog",
+      "summary": "Cloudflare Blog migration to EmDash for performance and scalability testing.",
+      "tags": [
+        "cloudflare",
+        "migration",
+        "performance",
+        "scalability",
+        "cloudflare blog",
+        "emdash",
+        "cloudflare stack"
+      ],
+      "score": 0.7823207291136324,
+      "scraped_at": "2026-09-21T08:23:56.051000+00:00"
+    },
+    {
+      "id": "6ab0e3a410e2d940fe5c",
+      "url": "https://tailscale.com/blog/aperture-lethal-trifecta",
+      "title": "How Tailscale and Aperture mitigate the lethal trifecta for AI agents",
+      "summary": "Tailscale and Aperture mitigate the lethal trifecta for AI agents by using an AI gateway to control access to data, LLM, and MCP.",
+      "tags": [
+        "async python",
+        "programming",
+        "ai",
+        "tailscale",
+        "aperture",
+        "lethal trifecta",
+        "ai agents",
+        "agent control"
+      ],
+      "score": 0.6338094898206568,
+      "scraped_at": "2026-09-21T07:58:27.126000+00:00"
+    },
+    {
+      "id": "6aace9802e7129e6e35e",
+      "url": "https://upstash.com/blog/redis-in-sql-apps",
+      "title": "Speed up your Database with Global Redis | Upstash Blog",
+      "summary": "Integrating Global Redis with SQL databases for improved performance and scalability.",
+      "tags": [
+        "redis",
+        "sql",
+        "database",
+        "performance",
+        "scalability",
+        "global",
+        "distributed",
+        "edge"
+      ],
+      "score": 0.6323141571695453,
+      "scraped_at": "2026-09-18T07:34:23.332000+00:00"
+    },
+    {
+      "id": "6aace81c4e194713c985",
+      "url": "https://upstash.com/blog/upstash-vs-aws-elasticache-serverless-redis-pricing-and-performance-2026",
+      "title": "Upstash vs AWS ElastiCache: Serverless Redis Pricing and Performance in 2026 | Upstash Blog",
+      "summary": "Upstash vs AWS ElastiCache: Serverless Redis Pricing and Performance in 2026",
+      "tags": [
+        "async python",
+        "redis",
+        "serverless",
+        "aws",
+        "elasticache",
+        "redis pricing",
+        "performance",
+        "comparison"
+      ],
+      "score": 0.6279581927838286,
+      "scraped_at": "2026-09-18T07:28:27.660000+00:00"
+    },
+    {
+      "id": "6ab0e80be6d160d01501",
+      "url": "https://dev.37signals.com/leaning-imperative/",
+      "title": "37signals Dev — Leaning imperative",
+      "summary": "37signals Dev — Leaning imperative: Declarative tools are not simpler, but rather a different approach to managing infrastructure.",
+      "tags": [
+        "37signals",
+        "dev",
+        "leaning imperative",
+        "declarative tools",
+        "infrastructure management",
+        "cloud native",
+        "ops philosophy",
+        "cloud and kubernetes"
+      ],
+      "score": 0.3776795299534665,
+      "scraped_at": "2026-09-21T08:17:15.367000+00:00"
+    },
+    {
+      "id": "6aa7ab86a2727fb67f25",
+      "url": "https://planetscale.com/blog/118-million-queries-per-second-on-neki",
+      "title": "118 million queries per second on Neki — PlanetScale",
+      "summary": "Neki reached 118 million queries per second on 512 shards, with 1.22 PiB of data.",
+      "tags": [
+        "neki",
+        "planetscale",
+        "async python",
+        "database"
+      ],
+      "score": 0.37592313180490494,
+      "scraped_at": "2026-09-14T08:08:38.483000+00:00"
+    },
+    {
+      "id": "6ab0e3ae5d92e9f80ab2",
+      "url": "https://upstash.com/blog/edge-rate-limiting",
+      "title": "Rate Limiting Your Next.js App with Vercel Edge | Upstash Blog",
+      "summary": "Implement rate limiting in a Next.js web application using Vercel Edge Middleware and @upstash/ratelimit",
+      "tags": [
+        "next.js",
+        "rate limiting",
+        "vercel edge",
+        "upstash"
+      ],
+      "score": 0.3375916321484795,
+      "scraped_at": "2026-09-21T07:58:37.437000+00:00"
+    },
+    {
+      "id": "6ab0e420b53986852e5a",
+      "url": "https://dev.37signals.com/thruster-released/",
+      "title": "37signals Dev — Thruster is now open source",
+      "summary": "Thruster is now open source, a simple package for Rails applications that require minimal setup and maintenance.",
+      "tags": [
+        "thruster",
+        "rails",
+        "open source",
+        "ruby on rails",
+        "rails server"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-09-21T08:00:32.110000+00:00"
+    },
+    {
+      "id": "6ab0e6299896fc46ccf3",
+      "url": "https://tailscale.com/use-cases/homelab",
+      "title": "Homelab Networking Setup | Securely Connect Devices & Services with Tailscale",
+      "summary": "A homelab network connects personal servers, devices, and VMs into a private network using Tailscale's zero-config setup.",
+      "tags": [
+        "homelab",
+        "networking",
+        "tailscale",
+        "wireguard",
+        "security",
+        "zero-config",
+        "mesh networking",
+        "peer-to-peer"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-09-21T08:09:13.415000+00:00"
+    }
+  ]
+}
