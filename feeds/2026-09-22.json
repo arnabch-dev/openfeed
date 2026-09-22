@@ -1,0 +1,162 @@
+{
+  "date": "2026-09-22",
+  "generated_at": "2026-09-22T09:33:41.590551+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6ab0e5b7165630b4c920",
+      "url": "https://blog.cloudflare.com/author/diogo-carneiro/",
+      "title": "Diogo Carneiro - Cloudflare Blog",
+      "summary": "Cloudflare Blog migration to EmDash for massive scale performance testing.",
+      "tags": [
+        "cloudflare",
+        "migration",
+        "performance",
+        "emdash",
+        "massive scale",
+        "cloudflare blog"
+      ],
+      "score": 0.7276936250294537,
+      "scraped_at": "2026-09-21T08:07:18.183000+00:00"
+    },
+    {
+      "id": "6aae3b65462264b97e9e",
+      "url": "https://dev.37signals.com/author/donal/",
+      "title": "37signals Dev — Donal McBreen",
+      "summary": "Donal McBreen discusses improvements to HEY database queries and deployment simplification.",
+      "tags": [
+        "dev",
+        "donal mcbreen",
+        "hey",
+        "sip",
+        "programming",
+        "deployment",
+        "performance",
+        "hey.com"
+      ],
+      "score": 0.6378966427447053,
+      "scraped_at": "2026-09-19T07:36:04.317000+00:00"
+    },
+    {
+      "id": "6ab0e8e2c780d33a5dec",
+      "url": "https://upstash.com/blog/render-serverless-redis",
+      "title": "Using Render with Serverless Redis | Upstash Blog",
+      "summary": "Upstash Redis SDK installation and configuration for Next.js application on Render",
+      "tags": [
+        "async python",
+        "redis",
+        "render",
+        "upstash",
+        "nextjs",
+        "serverless"
+      ],
+      "score": 0.5789886833775506,
+      "scraped_at": "2026-09-21T08:20:49.952000+00:00"
+    },
+    {
+      "id": "6aa8f8d2a85f815e24bb",
+      "url": "https://arpitbhayani.me/blogs/grpc-http2",
+      "title": "Why gRPC Uses HTTP2",
+      "summary": "gRPC uses HTTP2 for improved performance in distributed systems, particularly in long-lived connections and streaming.",
+      "tags": [
+        "grpc",
+        "http2",
+        "distributed systems",
+        "performance",
+        "functionality",
+        "scalability",
+        "protobuf",
+        "protocol buffers"
+      ],
+      "score": 0.48364485546308067,
+      "scraped_at": "2026-09-15T07:50:41.963000+00:00"
+    },
+    {
+      "id": "6ab2326a568f3b46ff1d",
+      "url": "https://arpitbhayani.me/blogs/durability",
+      "title": "Decoding Durability - The D in ACID",
+      "summary": "The D in ACID refers to durability, ensuring that data survives outages and failures.",
+      "tags": [
+        "durability",
+        "acid",
+        "database",
+        "wikipedia"
+      ],
+      "score": 0.46820370840763503,
+      "scraped_at": "2026-09-22T07:46:50.159000+00:00"
+    },
+    {
+      "id": "6aa7ac29472f37f889f4",
+      "url": "https://dev.37signals.com/kamal-prometheus/",
+      "title": "37signals Dev — Prometheus metrics with Rails and Kamal",
+      "summary": "Prometheus metrics with Rails and Kamal for monitoring performance",
+      "tags": [
+        "prometheus",
+        "rails",
+        "kamal",
+        "metrics",
+        "monitoring",
+        "performance",
+        "prometheus-ruby"
+      ],
+      "score": 0.4512743537488352,
+      "scraped_at": "2026-09-14T08:11:20.553000+00:00"
+    },
+    {
+      "id": "6ab23512e27650fcb8bf",
+      "url": "https://arpitbhayani.me/blogs/chained-operators-python",
+      "title": "Python Internals - Exploring Chained Comparison Operators",
+      "summary": "Python evaluates chained comparison operators by evaluating operands left to right and using the evaluated value as the first operand for next comparison.",
+      "tags": [
+        "python internals",
+        "chained comparison operators",
+        "python language reference",
+        "comparisons",
+        "python documentation"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-09-22T07:58:10.742000+00:00"
+    },
+    {
+      "id": "6ab23367d2015c716c2f",
+      "url": "https://tailscale.com/blog/remotely-access-home-assistant",
+      "title": "Access Home Assistant Remotely with Tailscale | Guide",
+      "summary": "Access Home Assistant remotely with Tailscale",
+      "tags": [
+        "home assistant",
+        "tailscale",
+        "remote access",
+        "home automation",
+        "tailscale serve",
+        "home assistant remote"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-09-22T07:51:03.665000+00:00"
+    },
+    {
+      "id": "6ab2312fdab2ee09d652",
+      "url": "https://arpitbhayani.me/blogs/pseudorandom-number-generation-lfsr",
+      "title": "Generating Pseudorandom Numbers with LFSR",
+      "summary": "LFSR generates pseudorandom numbers by accumulating random bits in a k-bit integer.",
+      "tags": [
+        "lfsr",
+        "pseudorandom number generation",
+        "random numbers"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-09-22T07:41:35.702000+00:00"
+    },
+    {
+      "id": "6aab9659bc18f59c5c9d",
+      "url": "https://planetscale.com/blog/author/eebbrr",
+      "title": "Posts by Eric Ridge — PlanetScale",
+      "summary": "TIN is a fast, full-featured, full-text search index for Postgres.",
+      "tags": [
+        "postgres",
+        "tin"
+      ],
+      "score": 0.236037174067327,
+      "scraped_at": "2026-09-17T07:27:20.943000+00:00"
+    }
+  ]
+}
