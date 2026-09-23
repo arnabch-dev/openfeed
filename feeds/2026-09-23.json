@@ -1,0 +1,176 @@
+{
+  "date": "2026-09-23",
+  "generated_at": "2026-09-23T09:38:47.250278+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6ab3869ad65fff950fa6",
+      "url": "https://upstash.com/customers/supabase",
+      "title": "Supabase | Upstash Customers",
+      "summary": "Supabase uses Upstash as its data layer for edge workloads, enabling a streamlined architecture optimized for performance and cost.",
+      "tags": [
+        "supabase",
+        "upstash",
+        "data layer",
+        "edge workloads",
+        "streamlined architecture",
+        "performance",
+        "cost"
+      ],
+      "score": 0.7811919646345472,
+      "scraped_at": "2026-09-23T07:58:17.769000+00:00"
+    },
+    {
+      "id": "6ab38581d0de09814b08",
+      "url": "https://arpitbhayani.me/blogs/function-overloading",
+      "title": "Python's Missing Feature - Function Overloading",
+      "summary": "Python does not support function overloading due to design decision, but can be implemented using decorators and user-maintained namespace.",
+      "tags": [
+        "async python",
+        "function overloading",
+        "python",
+        "programming",
+        "decorators",
+        "namespace",
+        "function overloading implementation",
+        "python implementation"
+      ],
+      "score": 0.6350942221905459,
+      "scraped_at": "2026-09-23T07:53:36.685000+00:00"
+    },
+    {
+      "id": "6ab3822cbfa387238ae2",
+      "url": "https://planetscale.com/blog/anatomy-of-a-postgres-search-engine",
+      "title": "Anatomy of a (Postgres) search engine — PlanetScale",
+      "summary": "PlanetScale's TIN (Term-Inverted-Normalization) is a full-text search index for Postgres, supporting features like sorting and matching by exact value, range, or prefix. An inverted index is used to locate documents quickly by words, and a term dictionary maps terms to postings lists.",
+      "tags": [
+        "async python",
+        "postgresql",
+        "search engine",
+        "inverted index",
+        "term dictionary",
+        "b-trees",
+        "b+trees",
+        "full-text search"
+      ],
+      "score": 0.6347439282446956,
+      "scraped_at": "2026-09-23T07:39:24.628000+00:00"
+    },
+    {
+      "id": "6aace7a4e933641c97a6",
+      "url": "https://vercel.com/i/measure-software-factory-performance",
+      "title": "How do you measure software factory performance? - Vercel",
+      "summary": "Measuring software factory performance involves tracking work acceptance, effort, and quality. Cost, review time, and rework are key metrics. Compare tasks by scope, review effort, and issue investigation.",
+      "tags": [
+        "software factory",
+        "performance",
+        "metrics",
+        "tasks",
+        "scope",
+        "review effort",
+        "quality",
+        "cost per task"
+      ],
+      "score": 0.5568465901844063,
+      "scraped_at": "2026-09-18T07:26:28.111000+00:00"
+    },
+    {
+      "id": "6ab0e7a90b11a68053c3",
+      "url": "https://upstash.com/blog/session-management-nextjs",
+      "title": "Session Management in Next.js Using Redis | Upstash Blog",
+      "summary": "Next.js app uses Upstash Redis for session management",
+      "tags": [
+        "async python",
+        "nextjs",
+        "redis",
+        "session management",
+        "upstash"
+      ],
+      "score": 0.5393751213910193,
+      "scraped_at": "2026-09-21T08:15:35.439000+00:00"
+    },
+    {
+      "id": "6ab234d2a210fa7ffffa",
+      "url": "https://blog.cloudflare.com/author/sebastiaan-neuteboom/",
+      "title": "Sebastiaan Neuteboom - Cloudflare Blog",
+      "summary": "Sebastiaan Neuteboom discusses life at Cloudflare.",
+      "tags": [
+        "life-at-cloudflare",
+        "cloudflare",
+        "sebastiaan neuteboom"
+      ],
+      "score": 0.31974867912988003,
+      "scraped_at": "2026-09-22T07:57:06.479000+00:00"
+    },
+    {
+      "id": "6ab3872b74b5232f1ff4",
+      "url": "https://tailscale.com/use-cases/business-vpn",
+      "title": "Business VPN Secure Remote Access for Remote Employees | Tailscale",
+      "summary": "Tailscale is a hassle-free VPN solution for small businesses, offering transparent and secure remote access to company resources.",
+      "tags": [
+        "small business vpn",
+        "remote access vpn",
+        "tailscale",
+        "vpn solution",
+        "business vpn",
+        "secure remote access",
+        "distributed teams",
+        "work from home"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-09-23T08:00:42.238000+00:00"
+    },
+    {
+      "id": "6ab3872aa3c1190301b3",
+      "url": "https://upstash.com/blog/context7-research",
+      "title": "How Context7 Researches Its Own Weak Spots | Upstash Blog",
+      "summary": "Context7 continuously evaluates responses to improve documentation quality, using a benchmark step to identify weak spots in its own research pipeline.",
+      "tags": [
+        "context7",
+        "research",
+        "documentation",
+        "self-improving",
+        "loop",
+        "benchmark",
+        "query",
+        "response"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-09-23T08:00:41.380000+00:00"
+    },
+    {
+      "id": "6ab386ddbbcad750a36e",
+      "url": "https://arpitbhayani.me/privacy-policy",
+      "title": "Privacy Policy | Arpit Bhayani",
+      "summary": "Arpit Bhayani's website collects and uses personal data for online activities, including courses and learning resources. It provides users with the right to restrict data processing, access their data, and opt-out of targeted advertising. The website also links to a California Consumer Privacy Act (CCPA) page for additional information. ",
+      "tags": [
+        "arpit bhayani",
+        "online activities",
+        "courses",
+        "learning resources",
+        "data protection",
+        "right to restrict processing",
+        "right to access"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-09-23T07:59:25.530000+00:00"
+    },
+    {
+      "id": "6aa7a92d43f9fe4119dc",
+      "url": "https://planetscale.com/blog/introducing-neki",
+      "title": "Introducing Neki — PlanetScale",
+      "summary": "Neki is a sharded Postgres database for PlanetScale, built on Postgres, offering real Postgres on every shard.",
+      "tags": [
+        "neki",
+        "planetscale",
+        "postgres",
+        "sharded database",
+        "database",
+        "tier0",
+        "tier1"
+      ],
+      "score": 0.2734054060131917,
+      "scraped_at": "2026-09-14T07:58:36.733000+00:00"
+    }
+  ]
+}
