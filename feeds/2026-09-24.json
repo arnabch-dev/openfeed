@@ -1,0 +1,181 @@
+{
+  "date": "2026-09-24",
+  "generated_at": "2026-09-24T09:38:33.972195+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6ab4d6b14bab52e66069",
+      "url": "https://tailscale.com/blog/built-in-router-nas-vpns",
+      "title": "Why built-in router and NAS VPNs fall short",
+      "summary": "Built-in router and NAS VPNs fall short due to reliability, performance, security, and ease of use issues.",
+      "tags": [
+        "built-in router",
+        "nas vpn",
+        "vpn server",
+        "reliability",
+        "performance",
+        "security",
+        "ease of use",
+        "single point of failure"
+      ],
+      "score": 0.7875000000000001,
+      "scraped_at": "2026-09-24T07:52:16.227000+00:00"
+    },
+    {
+      "id": "6ab4d5825a477092f4c9",
+      "url": "https://upstash.com/blog/redis-caching-patterns-2026",
+      "title": "Redis Caching Patterns: A Practical 2026 TypeScript Guide with Examples | Upstash Blog",
+      "summary": "Redis caching patterns overview, including the cache-aside pattern, and common mistakes to avoid.",
+      "tags": [
+        "redis caching",
+        "patterns",
+        "typescript",
+        "typescript guide",
+        "upstash blog",
+        "async python"
+      ],
+      "score": 0.6325731989610965,
+      "scraped_at": "2026-09-24T07:47:13.352000+00:00"
+    },
+    {
+      "id": "6ab4d208b4ed67bcc0d9",
+      "url": "https://planetscale.com/blog/searching-hn-with-tin",
+      "title": "TIN Postgres search is faster, better, and cheaper — PlanetScale",
+      "summary": "TIN Postgres search is faster, better, and cheaper than PlanetScale's original search, with improved wildcard support and faster indexing.",
+      "tags": [
+        "async python",
+        "postgresql",
+        "tin",
+        "postgres",
+        "searching",
+        "hn",
+        "hacker news"
+      ],
+      "score": 0.6237274839381671,
+      "scraped_at": "2026-09-24T07:32:23.564000+00:00"
+    },
+    {
+      "id": "6ab4d428f1b0217400f0",
+      "url": "https://upstash.com/blog/best-database-for-nextjs",
+      "title": "Best Databases for Next.js | Upstash Blog",
+      "summary": "Next.js enables developers to build full stack applications with server side rendering. Upstash recommends using PostgreSQL for Next.js apps due to its global low latency and complex query capabilities.",
+      "tags": [
+        "postgresql",
+        "nextjs",
+        "serverless",
+        "database",
+        "mongodb",
+        "redis",
+        "upstash"
+      ],
+      "score": 0.48003646046971166,
+      "scraped_at": "2026-09-24T07:41:27.734000+00:00"
+    },
+    {
+      "id": "6ab0e4953bd1ccf9e473",
+      "url": "https://arpitbhayani.me/blogs/python-caches-integers",
+      "title": "How Python Handles Integers Under the Hood",
+      "summary": "Python handles integers efficiently by preallocating a range of smaller integers during initialization and using singleton instances to save computation and allocations.",
+      "tags": [
+        "python",
+        "integer",
+        "c structure",
+        "base 2",
+        "implementation",
+        "performance",
+        "allocation",
+        "reference count"
+      ],
+      "score": 0.4264325080870237,
+      "scraped_at": "2026-09-21T08:02:28.402000+00:00"
+    },
+    {
+      "id": "6ab0e99ce7204bfa7a9d",
+      "url": "https://blog.cloudflare.com/author/kody/",
+      "title": "Kody Jackson - Cloudflare Blog",
+      "summary": "Cloudflare Blog migration to EmDash for performance and scalability testing.",
+      "tags": [
+        "cloudflare",
+        "migration",
+        "performance",
+        "scalability",
+        "cloudflare blog",
+        "emdash",
+        "cloudflare stack"
+      ],
+      "score": 0.4236279246278036,
+      "scraped_at": "2026-09-21T08:23:56.051000+00:00"
+    },
+    {
+      "id": "6ab22fd0ec74e79ca851",
+      "url": "https://planetscale.com/blog/how-to-make-a-replication-slot-survive-a-cutover",
+      "title": "Blocking cutovers to save replication slots — PlanetScale",
+      "summary": "PlanetScale provides a one-time operation to cutover replicas and their replication slots.",
+      "tags": [
+        "planetscale",
+        "replication",
+        "cutover",
+        "replication slots",
+        "replication slot cutover",
+        "replication slot management",
+        "replication slot optimization"
+      ],
+      "score": 0.34200317904882,
+      "scraped_at": "2026-09-22T07:35:44.824000+00:00"
+    },
+    {
+      "id": "6ab4d543a49ebea61b1e",
+      "url": "https://arpitbhayani.me/blogs/clock-sync-nightmare",
+      "title": "Clock Synchronization Is a Nightmare",
+      "summary": "Clock synchronization is a complex problem in distributed systems that affects database consistency, debugging, and financial transactions. It involves tradeoffs between accuracy, latency, and complexity.",
+      "tags": [
+        "clock synchronization",
+        "distributed systems",
+        "database consistency",
+        "debugging",
+        "financial transactions",
+        "distributed databases",
+        "time synchronization",
+        "accuracy vs latency"
+      ],
+      "score": 0.3382102914684662,
+      "scraped_at": "2026-09-24T07:46:10.681000+00:00"
+    },
+    {
+      "id": "6ab4d2c86e7885b0ac5a",
+      "url": "https://tailscale.com/blog/dns-filtering-by-control-d",
+      "title": "Tailscale and Control D: DNS filtering for your tailnet",
+      "summary": "Tailscale and Control D: DNS filtering for tailnet",
+      "tags": [
+        "dns",
+        "filtering",
+        "tailscale",
+        "control d",
+        "tailnet",
+        "dns filtering",
+        "security",
+        "threat protection"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-09-24T07:35:35.240000+00:00"
+    },
+    {
+      "id": "6ab382dcc015083b8f3e",
+      "url": "https://arpitbhayani.me/blogs/israeli-queues",
+      "title": "Israeli Queues",
+      "summary": "Israeli Queues are a variation of priority queues where elements are processed in batches based on their affinity with friends in the queue.",
+      "tags": [
+        "israeli queues",
+        "priority queues",
+        "data structures",
+        "efficient",
+        "batch processing",
+        "affinity",
+        "friends",
+        "queue implementation"
+      ],
+      "score": 0.27957166244754794,
+      "scraped_at": "2026-09-23T07:42:19.742000+00:00"
+    }
+  ]
+}
