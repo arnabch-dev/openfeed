@@ -1,0 +1,177 @@
+{
+  "date": "2026-09-25",
+  "generated_at": "2026-09-25T09:55:39.296722+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6ab6248d37a9b35eb4c2",
+      "url": "https://tailscale.com/blog/making-tailscale-faster",
+      "title": "We're making Tailscale faster",
+      "summary": "Tailscale is fast, but we're exploring a Tailscale-aware monitoring and testing toolkit to give customers more control.",
+      "tags": [
+        "tailscale",
+        "faster",
+        "monitoring",
+        "testing",
+        "toolkit",
+        "performance",
+        "nats",
+        "nat traversal"
+      ],
+      "score": 0.7865454475176377,
+      "scraped_at": "2026-09-25T07:36:45.035000+00:00"
+    },
+    {
+      "id": "6ab622b9bea1e649ecef",
+      "url": "https://upstash.com/blog/resumable-llm-streams",
+      "title": "How to Build LLM Streams That Survive Reconnects, Refreshes, and Crashes | Upstash Blog",
+      "summary": "Building High-Durability LLM Streams",
+      "tags": [
+        "durable streams",
+        "resumable llm streams",
+        "high durability",
+        "llm streams",
+        "server sent events",
+        "sse",
+        "async python",
+        "upstash blog"
+      ],
+      "score": 0.6372513341839241,
+      "scraped_at": "2026-09-25T07:28:57.582000+00:00"
+    },
+    {
+      "id": "6ab62323c48d6b074f03",
+      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+      "title": "How Tailscale helped find the SQLite WAL-Reset bug",
+      "summary": "Tailscale helped identify and fix a SQLite WAL-Reset bug, causing false corruption warnings and prompting the SQLite developers to withdraw the 3.52.0 release.",
+      "tags": [
+        "async python",
+        "sqlite",
+        "wal",
+        "reset",
+        "bug",
+        "tailscale",
+        "database",
+        "wireguard"
+      ],
+      "score": 0.6281937911009475,
+      "scraped_at": "2026-09-25T07:30:43.596000+00:00"
+    },
+    {
+      "id": "6ab0e5b7165630b4c920",
+      "url": "https://blog.cloudflare.com/author/diogo-carneiro/",
+      "title": "Diogo Carneiro - Cloudflare Blog",
+      "summary": "Cloudflare Blog migration to EmDash for massive scale performance testing.",
+      "tags": [
+        "cloudflare",
+        "migration",
+        "performance",
+        "emdash",
+        "massive scale",
+        "cloudflare blog"
+      ],
+      "score": 0.5910708907433296,
+      "scraped_at": "2026-09-21T08:07:18.183000+00:00"
+    },
+    {
+      "id": "6aae3b65462264b97e9e",
+      "url": "https://dev.37signals.com/author/donal/",
+      "title": "37signals Dev — Donal McBreen",
+      "summary": "Donal McBreen discusses improvements to HEY database queries and deployment simplification.",
+      "tags": [
+        "dev",
+        "donal mcbreen",
+        "hey",
+        "sip",
+        "programming",
+        "deployment",
+        "performance",
+        "hey.com"
+      ],
+      "score": 0.5181330766969843,
+      "scraped_at": "2026-09-19T07:36:04.317000+00:00"
+    },
+    {
+      "id": "6ab0e8e2c780d33a5dec",
+      "url": "https://upstash.com/blog/render-serverless-redis",
+      "title": "Using Render with Serverless Redis | Upstash Blog",
+      "summary": "Upstash Redis SDK installation and configuration for Next.js application on Render",
+      "tags": [
+        "async python",
+        "redis",
+        "render",
+        "upstash",
+        "nextjs",
+        "serverless"
+      ],
+      "score": 0.47028494553655703,
+      "scraped_at": "2026-09-21T08:20:49.952000+00:00"
+    },
+    {
+      "id": "6ab624bf03a57f2afb48",
+      "url": "https://vercel.com/blog/the-vercel-bug-bounty-program-is-now-publicly-available",
+      "title": "The Vercel Bug Bounty Program is now publicly available - Vercel",
+      "summary": "Vercel bug bounty program now publicly available, offering a unified program for OSS and private bounty hunting.",
+      "tags": [
+        "vercel",
+        "bug bounty",
+        "oss",
+        "public",
+        "unified",
+        "bounty",
+        "hackerone",
+        "vercel bug bounty"
+      ],
+      "score": 0.4175617875796195,
+      "scraped_at": "2026-09-25T07:37:34.862000+00:00"
+    },
+    {
+      "id": "6ab6243bd46a609fb814",
+      "url": "https://arpitbhayani.me/blogs/wtf-the-who-to-follow-service-at-twitter",
+      "title": "Paper Notes - WTF - The Who to Follow Service at Twitter",
+      "summary": "Twitter's Paper Notes - WTF - The Who to Follow Service leverages Random Walks and SALSA to analyze Twitter's graph and generate recommendations. The system is re-architected to distribute the graph across multiple servers, improving scalability and performance.",
+      "tags": [
+        "twitter",
+        "paper notes",
+        "wtf",
+        "who to follow service",
+        "random walks",
+        "salsa",
+        "in-memory",
+        "distributed architecture"
+      ],
+      "score": 0.38281450660738053,
+      "scraped_at": "2026-09-25T07:35:23.608000+00:00"
+    },
+    {
+      "id": "6ab6283446c8c5af6843",
+      "url": "https://arpitbhayani.me/blogs/bloom-filters",
+      "title": "Bloom Filters",
+      "summary": "Bloom filters are probabilistic data structures used in databases for fast lookup, particularly with Log-Structured Merge (LSM) trees.",
+      "tags": [
+        "bloom filter",
+        "probabilistic data structure",
+        "databases",
+        "log structured merge",
+        "lsm",
+        "modern databases",
+        "log structured merge trees",
+        "hash functions"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-09-25T07:52:20.055000+00:00"
+    },
+    {
+      "id": "6aab9659bc18f59c5c9d",
+      "url": "https://planetscale.com/blog/author/eebbrr",
+      "title": "Posts by Eric Ridge — PlanetScale",
+      "summary": "TIN is a fast, full-featured, full-text search index for Postgres.",
+      "tags": [
+        "postgres",
+        "tin"
+      ],
+      "score": 0.28758264039801035,
+      "scraped_at": "2026-09-17T07:27:20.943000+00:00"
+    }
+  ]
+}
