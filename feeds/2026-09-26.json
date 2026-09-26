@@ -1,0 +1,173 @@
+{
+  "date": "2026-09-26",
+  "generated_at": "2026-09-26T09:37:58.646049+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6ab7749ee29b26e1e2f7",
+      "url": "https://arpitbhayani.me/blogs/making-http-requests-using-netcat",
+      "title": "HTTP - The Hard Way with Netcat",
+      "summary": "Creating a TCP connection with netcat to make HTTP requests",
+      "tags": [
+        "async python",
+        "programming",
+        "http",
+        "tcp",
+        "netcat",
+        "http client",
+        "http server",
+        "tcp connection"
+      ],
+      "score": 0.7847867005028353,
+      "scraped_at": "2026-09-26T07:30:37.806000+00:00"
+    },
+    {
+      "id": "6ab778c91cffe641f1b8",
+      "url": "https://upstash.com/blog/replicated-cache-backed-by-redis",
+      "title": "Local replicated cache with Redis | Upstash Blog",
+      "summary": "Replicated cache with Redis for local, in-process caching.",
+      "tags": [
+        "local replicated cache",
+        "redis",
+        "upstash",
+        "async python"
+      ],
+      "score": 0.7652961805696374,
+      "scraped_at": "2026-09-26T07:48:23.390000+00:00"
+    },
+    {
+      "id": "6ab0e3a410e2d940fe5c",
+      "url": "https://tailscale.com/blog/aperture-lethal-trifecta",
+      "title": "How Tailscale and Aperture mitigate the lethal trifecta for AI agents",
+      "summary": "Tailscale and Aperture mitigate the lethal trifecta for AI agents by using an AI gateway to control access to data, LLM, and MCP.",
+      "tags": [
+        "async python",
+        "programming",
+        "ai",
+        "tailscale",
+        "aperture",
+        "lethal trifecta",
+        "ai agents",
+        "agent control"
+      ],
+      "score": 0.5531425921950593,
+      "scraped_at": "2026-09-21T07:58:27.126000+00:00"
+    },
+    {
+      "id": "6ab7728e876f79909456",
+      "url": "https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64",
+      "title": "When to choose x86-64 vs aarch64 — PlanetScale",
+      "summary": "When to choose x86-64 vs aarch64 for PlanetScale databases, considering performance and workload.",
+      "tags": [
+        "x86-64",
+        "aarch64",
+        "planetscale",
+        "database",
+        "performance",
+        "workload",
+        "architecture",
+        "cpu-bound"
+      ],
+      "score": 0.5311344959258585,
+      "scraped_at": "2026-09-26T07:21:50.309000+00:00"
+    },
+    {
+      "id": "6aae3bd631e89a149f39",
+      "url": "https://blog.cloudflare.com/rfc9234-bgp-role-model/",
+      "title": "BGP Role model: tracking the adoption of RFC 9234 | Cloudflare Blog",
+      "summary": "Cloudflare developed a method to track BGP Role adoption by monitoring ASes sending OTC attribute. Unexpectedly found two large adopters.",
+      "tags": [
+        "async python",
+        "cloudflare",
+        "cloudflare blog",
+        "rfc9234",
+        "bgp role",
+        "route leaks",
+        "bgp role model",
+        "bgp role configuration"
+      ],
+      "score": 0.4835324624888299,
+      "scraped_at": "2026-09-19T07:37:57.634000+00:00"
+    },
+    {
+      "id": "6aae370e561462872ce8",
+      "url": "https://planetscale.com/blog/the-architecture-of-neki",
+      "title": "The architecture of Neki — PlanetScale",
+      "summary": "Neki is a sharding and scaling solution for real Postgres, built as a Kubernetes-first system. It uses ordinary PostgreSQL instances to shard and scale, and manages them as one database.",
+      "tags": [
+        "postgresql",
+        "sharding",
+        "scaling",
+        "kubernetes",
+        "neki",
+        "database",
+        "real-time",
+        "async python"
+      ],
+      "score": 0.47846543236154887,
+      "scraped_at": "2026-09-19T07:17:33.483000+00:00"
+    },
+    {
+      "id": "6ab7788553e0d2b2c947",
+      "url": "https://arpitbhayani.me/blogs/on-demand-container-loading-in-aws-lambda",
+      "title": "Paper Notes - On-demand Container Loading in AWS Lambda",
+      "summary": "AWS Lambda optimizes container loading for large images by only loading required portions during startup and dynamically loading additional blocks based on function requirements.",
+      "tags": [
+        "aws lambda",
+        "container loading",
+        "lambda optimization",
+        "block-level demand loading",
+        "function deployment",
+        "container-based lambda",
+        "lambda scaling",
+        "cold-start times"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-09-26T07:47:16.290000+00:00"
+    },
+    {
+      "id": "6ab77631536efb6b908f",
+      "url": "https://upstash.com/blog/semantic-search-for-docs",
+      "title": "Semantic Search Engine for Docs Using Upstash | Upstash Blog",
+      "summary": "Semantic search engine for Github docs using Upstash Vector database",
+      "tags": [
+        "semantic search",
+        "github docs",
+        "upstash vector",
+        "vector database",
+        "github search engine"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-09-26T07:37:20.295000+00:00"
+    },
+    {
+      "id": "6ab7735be17a1af06376",
+      "url": "https://arpitbhayani.me/blogs/morris-counter",
+      "title": "Space-Efficient Counting - Exploring Morris' Algorithm",
+      "summary": "Morris' algorithm is a space-efficient counting technique that counts till n using log(n) bits. It provides an efficient way to manage cardinalities where we can afford to have approximations.",
+      "tags": [
+        "morris algorithm",
+        "space-efficient counting",
+        "cardinality management",
+        "approximate counting",
+        "log(n) bits"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-09-26T07:25:15.696000+00:00"
+    },
+    {
+      "id": "6ab0e4fe771d6997ecfb",
+      "url": "https://upstash.com/blog/serverless-rate-limiting",
+      "title": "Rate Limiting Your Serverless Applications | Upstash Blog",
+      "summary": "Rate limiting is essential for serverless applications to control costs and prevent abuse",
+      "tags": [
+        "serverless",
+        "rate limiting",
+        "cost control",
+        "abuse prevention"
+      ],
+      "score": 0.2083397402208943,
+      "scraped_at": "2026-09-21T08:04:14.256000+00:00"
+    }
+  ]
+}
