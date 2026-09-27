@@ -1,0 +1,179 @@
+{
+  "date": "2026-09-27",
+  "generated_at": "2026-09-27T10:17:33.223471+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6ab4d5825a477092f4c9",
+      "url": "https://upstash.com/blog/redis-caching-patterns-2026",
+      "title": "Redis Caching Patterns: A Practical 2026 TypeScript Guide with Examples | Upstash Blog",
+      "summary": "Redis caching patterns overview, including the cache-aside pattern, and common mistakes to avoid.",
+      "tags": [
+        "redis caching",
+        "patterns",
+        "typescript",
+        "typescript guide",
+        "upstash blog",
+        "async python"
+      ],
+      "score": 0.6325393446460654,
+      "scraped_at": "2026-09-24T07:47:13.352000+00:00"
+    },
+    {
+      "id": "6ab4d208b4ed67bcc0d9",
+      "url": "https://planetscale.com/blog/searching-hn-with-tin",
+      "title": "TIN Postgres search is faster, better, and cheaper — PlanetScale",
+      "summary": "TIN Postgres search is faster, better, and cheaper than PlanetScale's original search, with improved wildcard support and faster indexing.",
+      "tags": [
+        "async python",
+        "postgresql",
+        "tin",
+        "postgres",
+        "searching",
+        "hn",
+        "hacker news"
+      ],
+      "score": 0.6304721398388986,
+      "scraped_at": "2026-09-24T07:32:23.564000+00:00"
+    },
+    {
+      "id": "6ab38581d0de09814b08",
+      "url": "https://arpitbhayani.me/blogs/function-overloading",
+      "title": "Python's Missing Feature - Function Overloading",
+      "summary": "Python does not support function overloading due to design decision, but can be implemented using decorators and user-maintained namespace.",
+      "tags": [
+        "async python",
+        "function overloading",
+        "python",
+        "programming",
+        "decorators",
+        "namespace",
+        "function overloading implementation",
+        "python implementation"
+      ],
+      "score": 0.5955357180403987,
+      "scraped_at": "2026-09-23T07:53:36.685000+00:00"
+    },
+    {
+      "id": "6ab3822cbfa387238ae2",
+      "url": "https://planetscale.com/blog/anatomy-of-a-postgres-search-engine",
+      "title": "Anatomy of a (Postgres) search engine — PlanetScale",
+      "summary": "PlanetScale's TIN (Term-Inverted-Normalization) is a full-text search index for Postgres, supporting features like sorting and matching by exact value, range, or prefix. An inverted index is used to locate documents quickly by words, and a term dictionary maps terms to postings lists.",
+      "tags": [
+        "async python",
+        "postgresql",
+        "search engine",
+        "inverted index",
+        "term dictionary",
+        "b-trees",
+        "b+trees",
+        "full-text search"
+      ],
+      "score": 0.5953282352679746,
+      "scraped_at": "2026-09-23T07:39:24.628000+00:00"
+    },
+    {
+      "id": "6ab0e7a90b11a68053c3",
+      "url": "https://upstash.com/blog/session-management-nextjs",
+      "title": "Session Management in Next.js Using Redis | Upstash Blog",
+      "summary": "Next.js app uses Upstash Redis for session management",
+      "tags": [
+        "async python",
+        "nextjs",
+        "redis",
+        "session management",
+        "upstash"
+      ],
+      "score": 0.5084264513416124,
+      "scraped_at": "2026-09-21T08:15:35.439000+00:00"
+    },
+    {
+      "id": "6ab62323c48d6b074f03",
+      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+      "title": "How Tailscale helped find the SQLite WAL-Reset bug",
+      "summary": "Tailscale helped identify and fix a SQLite WAL-Reset bug, causing false corruption warnings and prompting the SQLite developers to withdraw the 3.52.0 release.",
+      "tags": [
+        "async python",
+        "sqlite",
+        "wal",
+        "reset",
+        "bug",
+        "tailscale",
+        "database",
+        "wireguard"
+      ],
+      "score": 0.44257821871641184,
+      "scraped_at": "2026-09-25T07:30:43.596000+00:00"
+    },
+    {
+      "id": "6ab8d0317be8f6c68d39",
+      "url": "https://arpitbhayani.me/blogs/1d-terrain",
+      "title": "1D Terrain Generation",
+      "summary": "1D terrain generation is a process of creating random terrain for computer games, with the goal of mimicking natural terrain as closely as possible. A naive solution uses the random function to generate terrain, but this approach has limitations.",
+      "tags": [
+        "1d terrain generation",
+        "computer games",
+        "terrain",
+        "perlin noise",
+        "multi-dimensional terrains",
+        "smooth terrain",
+        "flappy bird",
+        "galaxy"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-09-27T08:13:33.919000+00:00"
+    },
+    {
+      "id": "6ab8ced31c9cf9cf8f59",
+      "url": "https://arpitbhayani.me/blogs/master-replica-replication",
+      "title": "Master-Replica Replication",
+      "summary": "Master-Replica Replication is a high-level architectural pattern used in distributed systems, where multiple nodes hold identical copies of data. The Master node handles writes, while Replicas cater to read requests.",
+      "tags": [
+        "master-replica replication",
+        "distributed systems",
+        "architectural pattern",
+        "replication",
+        "databases",
+        "brokers",
+        "storage engines",
+        "high-level pattern"
+      ],
+      "score": 0.2990537413139227,
+      "scraped_at": "2026-09-27T08:07:46.900000+00:00"
+    },
+    {
+      "id": "6ab7742b390e8c8316f7",
+      "url": "https://vercel.com/blog/state-of-agent-skills",
+      "title": "State of agent skills - Vercel",
+      "summary": "Vercel Agent skills are crucial for improving agent performance",
+      "tags": [
+        "vercel",
+        "agent",
+        "skills",
+        "improving",
+        "work",
+        "job",
+        "judgment"
+      ],
+      "score": 0.280748997731683,
+      "scraped_at": "2026-09-26T07:28:42.140000+00:00"
+    },
+    {
+      "id": "6ab0e99ce7204bfa7a9d",
+      "url": "https://blog.cloudflare.com/author/kody/",
+      "title": "Kody Jackson - Cloudflare Blog",
+      "summary": "Cloudflare Blog migration to EmDash for performance and scalability testing.",
+      "tags": [
+        "cloudflare",
+        "migration",
+        "performance",
+        "scalability",
+        "cloudflare blog",
+        "emdash",
+        "cloudflare stack"
+      ],
+      "score": 0.19449149390105888,
+      "scraped_at": "2026-09-21T08:23:56.051000+00:00"
+    }
+  ]
+}
