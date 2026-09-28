@@ -1,0 +1,176 @@
+{
+  "date": "2026-09-28",
+  "generated_at": "2026-09-28T11:20:42.147302+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6aba26cad6db985cd13e",
+      "url": "https://upstash.com/blog/author/bobby",
+      "title": "Bobby Iliev's Posts | Upstash Blog",
+      "summary": "Serverless Node.js URL Shortener App powered by Upstash Kafka and Materialize",
+      "tags": [
+        "async python",
+        "kafka",
+        "materialize",
+        "upstash",
+        "serverless",
+        "nodejs",
+        "url shortener",
+        "kafka url shortener"
+      ],
+      "score": 0.782217285865607,
+      "scraped_at": "2026-09-28T08:35:22.662000+00:00"
+    },
+    {
+      "id": "6ab622b9bea1e649ecef",
+      "url": "https://upstash.com/blog/resumable-llm-streams",
+      "title": "How to Build LLM Streams That Survive Reconnects, Refreshes, and Crashes | Upstash Blog",
+      "summary": "Building High-Durability LLM Streams",
+      "tags": [
+        "durable streams",
+        "resumable llm streams",
+        "high durability",
+        "llm streams",
+        "server sent events",
+        "sse",
+        "async python",
+        "upstash blog"
+      ],
+      "score": 0.625582903319406,
+      "scraped_at": "2026-09-25T07:28:57.582000+00:00"
+    },
+    {
+      "id": "6aba2c2dab390992b3f9",
+      "url": "https://arpitbhayani.me/blogs/database-deadlocks",
+      "title": "Why Do Databases Deadlock and How Do They Resolve It",
+      "summary": "Databases deadlock when two or more transactions wait indefinitely for each other to release locks, creating a circular dependency.",
+      "tags": [
+        "database",
+        "deadlock",
+        "concurrency",
+        "robust applications",
+        "production systems",
+        "database deadlocks",
+        "mechanics",
+        "underlying causes"
+      ],
+      "score": 0.5426331353630685,
+      "scraped_at": "2026-09-28T08:58:21.515000+00:00"
+    },
+    {
+      "id": "6ab7749ee29b26e1e2f7",
+      "url": "https://arpitbhayani.me/blogs/making-http-requests-using-netcat",
+      "title": "HTTP - The Hard Way with Netcat",
+      "summary": "Creating a TCP connection with netcat to make HTTP requests",
+      "tags": [
+        "async python",
+        "programming",
+        "http",
+        "tcp",
+        "netcat",
+        "http client",
+        "http server",
+        "tcp connection"
+      ],
+      "score": 0.45543269947417137,
+      "scraped_at": "2026-09-26T07:30:37.806000+00:00"
+    },
+    {
+      "id": "6aaf91b62ac3213e886d",
+      "url": "https://upstash.com/blog/redis-key-based-locking",
+      "title": "How Upstash Redis Runs More Commands in Parallel | Upstash Blog",
+      "summary": "Upstash Redis uses key-based locking to allow concurrent execution of commands on unrelated keys while preserving Redis-compatible semantics.",
+      "tags": [
+        "async python",
+        "redis",
+        "key-based-locking",
+        "redis-cluster",
+        "event-loop",
+        "key-hash-slots",
+        "redis-server-architecture",
+        "command-execution-path"
+      ],
+      "score": 0.4512692482566305,
+      "scraped_at": "2026-09-20T07:56:37.882000+00:00"
+    },
+    {
+      "id": "6ab6248d37a9b35eb4c2",
+      "url": "https://tailscale.com/blog/making-tailscale-faster",
+      "title": "We're making Tailscale faster",
+      "summary": "Tailscale is fast, but we're exploring a Tailscale-aware monitoring and testing toolkit to give customers more control.",
+      "tags": [
+        "tailscale",
+        "faster",
+        "monitoring",
+        "testing",
+        "toolkit",
+        "performance",
+        "nats",
+        "nat traversal"
+      ],
+      "score": 0.4326036955692871,
+      "scraped_at": "2026-09-25T07:36:45.035000+00:00"
+    },
+    {
+      "id": "6aba26f6266c6e45c896",
+      "url": "https://arpitbhayani.me/blogs/ai-first-org",
+      "title": "What AI First Engineering Orgs Look Like",
+      "summary": "AI first engineering orgs focus on planning and verification, moving from code to context gathering and team structure changes",
+      "tags": [
+        "ai first orgs",
+        "engineering orgs",
+        "product management",
+        "organization structure",
+        "team building",
+        "contextual planning",
+        "just in time prototypes"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-09-28T08:36:06.002000+00:00"
+    },
+    {
+      "id": "6aba2991d6ab9f11cb50",
+      "url": "https://arpitbhayani.me/blogs/isolation-forest",
+      "title": "Isolation Forest - Fast and Efficient Anomaly Detection",
+      "summary": "Isolation Forest algorithm is used for anomaly detection, focusing on few and different anomalies that deviate from normal points.",
+      "tags": [
+        "anomaly detection",
+        "isolation forest",
+        "unsupervised",
+        "efficient",
+        "accurate",
+        "algorithm",
+        "anomaly score",
+        "path length"
+      ],
+      "score": 0.2995276787700139,
+      "scraped_at": "2026-09-28T08:47:13.189000+00:00"
+    },
+    {
+      "id": "6aba283b8d2fdbdfb810",
+      "url": "https://arpitbhayani.me/blogs/why-consensus",
+      "title": "Why Distributed Systems Need Consensus Algorithms Like Raft",
+      "summary": "Distributed systems require consensus algorithms like Raft to ensure shared state consistency.",
+      "tags": [
+        "distributed systems",
+        "consensus algorithms",
+        "raft",
+        "system design"
+      ],
+      "score": 0.2987195051623646,
+      "scraped_at": "2026-09-28T08:41:30.711000+00:00"
+    },
+    {
+      "id": "6aab9659bc18f59c5c9d",
+      "url": "https://planetscale.com/blog/author/eebbrr",
+      "title": "Posts by Eric Ridge — PlanetScale",
+      "summary": "TIN is a fast, full-featured, full-text search index for Postgres.",
+      "tags": [
+        "postgres",
+        "tin"
+      ],
+      "score": 0.1325066384313556,
+      "scraped_at": "2026-09-17T07:27:20.943000+00:00"
+    }
+  ]
+}
