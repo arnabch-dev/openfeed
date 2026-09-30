@@ -1,0 +1,179 @@
+{
+  "date": "2026-09-30",
+  "generated_at": "2026-09-30T10:49:27.806789+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6abcca9697d9b93e3eb9",
+      "url": "https://upstash.com/blog/kafka-url-shortener",
+      "title": "Serverless Node.js URL Shortener App powered by Upstash Kafka and Materialize | Upstash Blog",
+      "summary": "Serverless Node.js URL shortener app using Upstash Kafka and Materialize for real-time insights.",
+      "tags": [
+        "async python",
+        "kafka url shortener",
+        "materialize",
+        "upstash",
+        "kafka",
+        "serverless",
+        "nodejs",
+        "url shortener"
+      ],
+      "score": 0.7823213278122438,
+      "scraped_at": "2026-09-30T08:38:45.807000+00:00"
+    },
+    {
+      "id": "6abcc94500633410f042",
+      "url": "https://upstash.com/blog/redis-qstash-ai",
+      "title": "Caching OpenAI API Responses with Upstash Redis | Upstash Blog",
+      "summary": "Caching OpenAI API responses in Upstash Redis to save money and improve response times.",
+      "tags": [
+        "async python",
+        "programming",
+        "redis",
+        "upstash",
+        "qstash",
+        "ai",
+        "openai",
+        "api caching"
+      ],
+      "score": 0.7790667903355744,
+      "scraped_at": "2026-09-30T08:33:08.125000+00:00"
+    },
+    {
+      "id": "6abcc6bb8dfa4e609e8a",
+      "url": "https://upstash.com/blog/redis-session-storage-nextjs-nodejs",
+      "title": "Redis Session Storage in Next.js and Node.js with Upstash Redis | Upstash Blog",
+      "summary": "Upstash Redis is used for session storage in Next.js and Node.js applications, providing a secure and scalable alternative to traditional cookie-based storage.",
+      "tags": [
+        "async python",
+        "redis",
+        "session storage",
+        "nextjs",
+        "nodejs",
+        "upstash",
+        "redis session storage"
+      ],
+      "score": 0.778266280579865,
+      "scraped_at": "2026-09-30T08:22:18.356000+00:00"
+    },
+    {
+      "id": "6abcc6c91f9e8e8b0474",
+      "url": "https://www.tigerdata.com/blog/agent-memory-search-problem-not-storage-problem",
+      "title": "Agent Memory Is a Search Problem, Not a Storage Problem | Tiger Data",
+      "summary": "Tiger Data discusses the challenges of agent memory and its implications for AI assistants. They argue that a custom memory-management layer is necessary to handle novel access patterns and unusual scale characteristics.",
+      "tags": [
+        "agent memory",
+        "search problem",
+        "database",
+        "postgres",
+        "ai assistant",
+        "memory management",
+        "custom solution",
+        "hybrid search"
+      ],
+      "score": 0.5373405174145548,
+      "scraped_at": "2026-09-30T08:22:32.270000+00:00"
+    },
+    {
+      "id": "6ab4d5825a477092f4c9",
+      "url": "https://upstash.com/blog/redis-caching-patterns-2026",
+      "title": "Redis Caching Patterns: A Practical 2026 TypeScript Guide with Examples | Upstash Blog",
+      "summary": "Redis caching patterns overview, including the cache-aside pattern, and common mistakes to avoid.",
+      "tags": [
+        "redis caching",
+        "patterns",
+        "typescript",
+        "typescript guide",
+        "upstash blog",
+        "async python"
+      ],
+      "score": 0.5137815984783694,
+      "scraped_at": "2026-09-24T07:47:13.352000+00:00"
+    },
+    {
+      "id": "6ab4d208b4ed67bcc0d9",
+      "url": "https://planetscale.com/blog/searching-hn-with-tin",
+      "title": "TIN Postgres search is faster, better, and cheaper — PlanetScale",
+      "summary": "TIN Postgres search is faster, better, and cheaper than PlanetScale's original search, with improved wildcard support and faster indexing.",
+      "tags": [
+        "async python",
+        "postgresql",
+        "tin",
+        "postgres",
+        "searching",
+        "hn",
+        "hacker news"
+      ],
+      "score": 0.5121025064199889,
+      "scraped_at": "2026-09-24T07:32:23.564000+00:00"
+    },
+    {
+      "id": "6ab7728e876f79909456",
+      "url": "https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64",
+      "title": "When to choose x86-64 vs aarch64 — PlanetScale",
+      "summary": "When to choose x86-64 vs aarch64 for PlanetScale databases, considering performance and workload.",
+      "tags": [
+        "x86-64",
+        "aarch64",
+        "planetscale",
+        "database",
+        "performance",
+        "workload",
+        "architecture",
+        "cpu-bound"
+      ],
+      "score": 0.4025246772599866,
+      "scraped_at": "2026-09-26T07:21:50.309000+00:00"
+    },
+    {
+      "id": "6abcc8ee046980f70441",
+      "url": "https://arpitbhayani.me/notes/reorganizing-kv-cache-memory-can-make-models-interactive-in-real-time",
+      "title": "Reorganizing KV cache memory can make models interactive in real-time | Arpit Bhayani",
+      "summary": "Reorganizing KV cache memory can make models interactive in real-time",
+      "tags": [
+        "interactive",
+        "real-time",
+        "kv cache",
+        "model memory",
+        "reorganizing",
+        "kv cache memory",
+        "interactive models"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-09-30T08:31:41.239000+00:00"
+    },
+    {
+      "id": "6abcc8ee0470cba5c18d",
+      "url": "https://arpitbhayani.me/notes/choose-a-depth-not-a-duration-to-navigate-rabbit-holes",
+      "title": "Choose a Depth, Not a Duration, To Navigate Rabbit Holes | Arpit Bhayani",
+      "summary": "Choosing a depth over a duration to navigate rabbit holes",
+      "tags": [
+        "rabbit hole",
+        "depth",
+        "timeboxing",
+        "rabbit hole optimization",
+        "understanding what matters",
+        "curiosity",
+        "topic optimization"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-09-30T08:31:41.239000+00:00"
+    },
+    {
+      "id": "6abcc8ee04717964a889",
+      "url": "https://arpitbhayani.me/notes/design-multi-context-processing-tools-as-capabilities-not-endpoints",
+      "title": "Design Multi-Context Processing Tools as Capabilities, Not Endpoints | Arpit Bhayani",
+      "summary": "Designing multi-context processing tools as capabilities, not endpoints, requires a different approach.",
+      "tags": [
+        "mcp",
+        "tools",
+        "capabilities",
+        "not endpoints",
+        "architectural design",
+        "system design"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-09-30T08:31:41.239000+00:00"
+    }
+  ]
+}
