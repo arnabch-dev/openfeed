@@ -1,0 +1,179 @@
+{
+  "date": "2026-10-01",
+  "generated_at": "2026-10-01T11:16:11.536853+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6abe1cbc667872cf1eba",
+      "url": "https://www.tigerdata.com/blog/rag-complexity-bet-against-model",
+      "title": "RAG Complexity Is a Bet Against the Model | Tiger Data",
+      "summary": "A bet against the model's ability to handle complex queries, with each architectural addition increasing complexity and maintenance debt.",
+      "tags": [
+        "async python",
+        "programming",
+        "rag",
+        "rag pipeline",
+        "architectural complexity",
+        "model maintenance",
+        "tax",
+        "short-lived problem"
+      ],
+      "score": 0.78578022040376,
+      "scraped_at": "2026-10-01T08:41:31.904000+00:00"
+    },
+    {
+      "id": "6abe20de48bdfe899a52",
+      "url": "https://upstash.com/blog/redis-autocomplete-popularity-ranking",
+      "title": "Building Smart Autocomplete with Redis Sorted Sets | Upstash Blog",
+      "summary": "Building a smart autocomplete system with Redis Sorted Sets",
+      "tags": [
+        "smart autocomplete",
+        "redis",
+        "sorted sets",
+        "upstash",
+        "programming",
+        "async python"
+      ],
+      "score": 0.7744411114038173,
+      "scraped_at": "2026-10-01T08:59:09.590000+00:00"
+    },
+    {
+      "id": "6abe2225af879378ba0e",
+      "url": "https://upstash.com/blog/vercel-auto-pipeline",
+      "title": "Cutting the v0.dev Load Time in Half with Auto-Pipelining | Upstash Blog",
+      "summary": "Upstash's Redis client now supports auto-pipelining, improving v0.dev's performance by reducing Redis requests.",
+      "tags": [
+        "async python",
+        "redis",
+        "pipeline",
+        "performance",
+        "v0.dev",
+        "vercel",
+        "auto-pipelining",
+        "upstash"
+      ],
+      "score": 0.7715605942988357,
+      "scraped_at": "2026-10-01T09:04:37.096000+00:00"
+    },
+    {
+      "id": "6abe1bea514a58b85ff7",
+      "url": "https://tailscale.com/blog/meta-muse-ai-agent-tailscale",
+      "title": "How to use Muse's Tailscale integration to control access to your network.",
+      "summary": "Muse's Tailscale integration allows users to control access to their network with explicit confirmation and revoke access at any time.",
+      "tags": [
+        "tailscale",
+        "muse",
+        "integration",
+        "access control",
+        "network management",
+        "security",
+        "homelab",
+        "self-hosted services"
+      ],
+      "score": 0.5433244025508732,
+      "scraped_at": "2026-10-01T08:38:02.160000+00:00"
+    },
+    {
+      "id": "6ab3822cbfa387238ae2",
+      "url": "https://planetscale.com/blog/anatomy-of-a-postgres-search-engine",
+      "title": "Anatomy of a (Postgres) search engine — PlanetScale",
+      "summary": "PlanetScale's TIN (Term-Inverted-Normalization) is a full-text search index for Postgres, supporting features like sorting and matching by exact value, range, or prefix. An inverted index is used to locate documents quickly by words, and a term dictionary maps terms to postings lists.",
+      "tags": [
+        "async python",
+        "postgresql",
+        "search engine",
+        "inverted index",
+        "term dictionary",
+        "b-trees",
+        "b+trees",
+        "full-text search"
+      ],
+      "score": 0.4511518216696543,
+      "scraped_at": "2026-09-23T07:39:24.628000+00:00"
+    },
+    {
+      "id": "6ab62323c48d6b074f03",
+      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+      "title": "How Tailscale helped find the SQLite WAL-Reset bug",
+      "summary": "Tailscale helped identify and fix a SQLite WAL-Reset bug, causing false corruption warnings and prompting the SQLite developers to withdraw the 3.52.0 release.",
+      "tags": [
+        "async python",
+        "sqlite",
+        "wal",
+        "reset",
+        "bug",
+        "tailscale",
+        "database",
+        "wireguard"
+      ],
+      "score": 0.3355779897615229,
+      "scraped_at": "2026-09-25T07:30:43.596000+00:00"
+    },
+    {
+      "id": "6abe209111e446f0de84",
+      "url": "https://arpitbhayani.me/blogs/embedding-models-make-or-break-your-ai-app",
+      "title": "Embedding Models Make Or Break Your Ai App",
+      "summary": "Embedding models are crucial for AI applications, but choosing the right one can make or break your app.",
+      "tags": [
+        "ai",
+        "aiapp",
+        "embedding",
+        "models",
+        "aiapplication",
+        "aiapplications",
+        "aiengine",
+        "aiengineering"
+      ],
+      "score": 0.30185618250894775,
+      "scraped_at": "2026-10-01T08:57:52.932000+00:00"
+    },
+    {
+      "id": "6abe1f5421e279d3c791",
+      "url": "https://www.tigerdata.com/blog/normalizing-wide-well-pipeline-telemetry-table-without-re-ingesting-history",
+      "title": "Normalizing a Wide Well and Pipeline Telemetry Table Without Re-Ingesting History | Tiger Data",
+      "summary": "TigerData provides a migration guide for normalizing a wide sensor table into a narrow hypertable and metadata table, preserving history and dashboards.",
+      "tags": [
+        "hypertable",
+        "metadata",
+        "sensor table",
+        "normalization",
+        "tigerdata",
+        "scada",
+        "oilfield",
+        "migration guide"
+      ],
+      "score": 0.3010619956810262,
+      "scraped_at": "2026-10-01T08:52:35.184000+00:00"
+    },
+    {
+      "id": "6abe1bcc6712cd96e574",
+      "url": "https://incident.io/events/how-do-you-respond-when-your-ai-tooling-and-models-fail?utm_source=website&utm_medium=banner&utm_campaign=FY26-Q4-1014-VEVT-EVT-when-the-ai-goes-down-Register&utm_content=when-the-ai-goes-down-banner&utm_term=",
+      "title": "How do you respond when your AI tooling and models fail? | incident.io",
+      "summary": "When AI tooling and models fail, it's not just a technical issue, but a business one. The incident highlights the importance of having a clear understanding of AI dependencies and a well-defined approach to resiliency. The team at incident.io is working on building a runbook for AI tooling and models, and is exploring practical patterns such as fallbacks, degradation, detection, ownership, and runbooks to improve their resilience. The incident also emphasizes the need for a culture shift in the industry to prioritize AI dependencies and build more resilient systems. ",
+      "tags": [
+        "ai tooling",
+        "model failure",
+        "incident response",
+        "resiliency",
+        "business continuity",
+        "culture shift",
+        "ai dependencies",
+        "runbook"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-10-01T08:37:31.772000+00:00"
+    },
+    {
+      "id": "6aab9659bc18f59c5c9d",
+      "url": "https://planetscale.com/blog/author/eebbrr",
+      "title": "Posts by Eric Ridge — PlanetScale",
+      "summary": "TIN is a fast, full-featured, full-text search index for Postgres.",
+      "tags": [
+        "postgres",
+        "tin"
+      ],
+      "score": 0.07175255639931856,
+      "scraped_at": "2026-09-17T07:27:20.943000+00:00"
+    }
+  ]
+}
