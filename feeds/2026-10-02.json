@@ -1,0 +1,179 @@
+{
+  "date": "2026-10-02",
+  "generated_at": "2026-10-02T10:48:31.217999+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6abf6daf518a2001ca15",
+      "url": "https://upstash.com/blog/rate-limiting-requests-with-trpc-in-sveltekit",
+      "title": "Rate limiting requests with tRPC in Sveltekit | Upstash Blog",
+      "summary": "Implementing rate limiting with tRPC in SvelteKit",
+      "tags": [
+        "async python",
+        "sveltekit",
+        "trpc",
+        "rate limiting",
+        "upstash",
+        "serverless",
+        "ddos attacks",
+        "resource usage"
+      ],
+      "score": 0.7816603263505164,
+      "scraped_at": "2026-10-02T08:39:10.115000+00:00"
+    },
+    {
+      "id": "6abf69c00376591b85f9",
+      "url": "https://upstash.com/blog/upstash-redis-search-generally-available",
+      "title": "Upstash Redis Search, Now Generally Available | Upstash Blog",
+      "summary": "Upstash Redis Search is now generally available, adding full-text search and secondary indexing to Redis data.",
+      "tags": [
+        "redis",
+        "upstash",
+        "async python",
+        "redis search",
+        "upstash redis",
+        "redis data",
+        "full-text search"
+      ],
+      "score": 0.7783731411348808,
+      "scraped_at": "2026-10-02T08:22:23.016000+00:00"
+    },
+    {
+      "id": "6aba26cad6db985cd13e",
+      "url": "https://upstash.com/blog/author/bobby",
+      "title": "Bobby Iliev's Posts | Upstash Blog",
+      "summary": "Serverless Node.js URL Shortener App powered by Upstash Kafka and Materialize",
+      "tags": [
+        "async python",
+        "kafka",
+        "materialize",
+        "upstash",
+        "serverless",
+        "nodejs",
+        "url shortener",
+        "kafka url shortener"
+      ],
+      "score": 0.5928886984497149,
+      "scraped_at": "2026-09-28T08:35:22.662000+00:00"
+    },
+    {
+      "id": "6abf679fd6d1e30ef4eb",
+      "url": "https://planetscale.com/blog/author/dbussink",
+      "title": "Posts by Dirkjan Bussink — PlanetScale",
+      "summary": "Sharded Postgres by Vitess team",
+      "tags": [
+        "vitess",
+        "sharded postgres",
+        "database",
+        "tech"
+      ],
+      "score": 0.535080715095371,
+      "scraped_at": "2026-10-02T08:13:18.985000+00:00"
+    },
+    {
+      "id": "6ab7749ee29b26e1e2f7",
+      "url": "https://arpitbhayani.me/blogs/making-http-requests-using-netcat",
+      "title": "HTTP - The Hard Way with Netcat",
+      "summary": "Creating a TCP connection with netcat to make HTTP requests",
+      "tags": [
+        "async python",
+        "programming",
+        "http",
+        "tcp",
+        "netcat",
+        "http client",
+        "http server",
+        "tcp connection"
+      ],
+      "score": 0.5177661297914246,
+      "scraped_at": "2026-09-26T07:30:37.806000+00:00"
+    },
+    {
+      "id": "6ab622b9bea1e649ecef",
+      "url": "https://upstash.com/blog/resumable-llm-streams",
+      "title": "How to Build LLM Streams That Survive Reconnects, Refreshes, and Crashes | Upstash Blog",
+      "summary": "Building High-Durability LLM Streams",
+      "tags": [
+        "durable streams",
+        "resumable llm streams",
+        "high durability",
+        "llm streams",
+        "server sent events",
+        "sse",
+        "async python",
+        "upstash blog"
+      ],
+      "score": 0.4737827241920482,
+      "scraped_at": "2026-09-25T07:28:57.582000+00:00"
+    },
+    {
+      "id": "6abf6eeb8000b89a9920",
+      "url": "https://upstash.com/blog/announcing-vector-php-sdk",
+      "title": "Announcing our PHP SDKs for Vector | Upstash Blog",
+      "summary": "upstash vector php sdk for laravel applications",
+      "tags": [
+        "vector",
+        "php",
+        "laravel",
+        "sdk",
+        "integration",
+        "recommendation",
+        "ai"
+      ],
+      "score": 0.30054961012763826,
+      "scraped_at": "2026-10-02T08:44:27.324000+00:00"
+    },
+    {
+      "id": "6abf678df1402a6be525",
+      "url": "https://shopify.engineering/shopgym",
+      "title": "ShopGym: Realistic, reproducible sandboxes for shopping agents (2026) - Shopify",
+      "summary": "ShopGym is a realistic, reproducible sandbox for shopping agents, allowing developers to test and improve their agents.",
+      "tags": [
+        "shopgym",
+        "sandbox",
+        "shopping agents",
+        "reproducible",
+        "realistic",
+        "simulation",
+        "benchmarking",
+        "shopping journey"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-10-02T08:13:00.945000+00:00"
+    },
+    {
+      "id": "6abf6a0707d051309a2a",
+      "url": "https://blog.cloudflare.com/containers-cross-tenant-vulnerability/",
+      "title": "How Cloudflare addressed a cross-tenant data exposure vulnerability in Containers | Cloudflare Blog",
+      "summary": "Cloudflare addressed a cross-tenant data exposure vulnerability in Containers by applying a fix across the fleet with no customer-side configuration changes required.",
+      "tags": [
+        "containers",
+        "vulnerability",
+        "cloudflare",
+        "solutions",
+        "fix",
+        "no-evidence-of-exploitation"
+      ],
+      "score": 0.2981872622520703,
+      "scraped_at": "2026-10-02T08:23:34.041000+00:00"
+    },
+    {
+      "id": "6abf6905d827034cb964",
+      "url": "https://planetscale.com/blog/designing-neki-for-performance",
+      "title": "Designing Neki for performance — PlanetScale",
+      "summary": "Neki improves performance by reducing work in certain cases.",
+      "tags": [
+        "neki",
+        "performance",
+        "postgresql",
+        "sidecar",
+        "protobuf",
+        "router",
+        "shards",
+        "row projection"
+      ],
+      "score": 0.29688219772007396,
+      "scraped_at": "2026-10-02T08:19:17.280000+00:00"
+    }
+  ]
+}
