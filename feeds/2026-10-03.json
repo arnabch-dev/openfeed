@@ -1,0 +1,180 @@
+{
+  "date": "2026-10-03",
+  "generated_at": "2026-10-03T10:08:35.938280+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6ac0b9368d0c87875238",
+      "url": "https://upstash.com/blog/scheduled-transcriber",
+      "title": "Scheduling Audio Transcriptions with QStash | Upstash Blog",
+      "summary": "Scheduling audio transcriptions with Upstash QStash and Fireworks AI",
+      "tags": [
+        "async python",
+        "qstash",
+        "fireworks ai",
+        "upstash",
+        "cloudflare r2",
+        "cloudflare",
+        "fireworks",
+        "transcription"
+      ],
+      "score": 0.781516854419533,
+      "scraped_at": "2026-10-03T08:13:42.118000+00:00"
+    },
+    {
+      "id": "6ac0b7db4ec7f9492df9",
+      "url": "https://upstash.com/blog/qstash-reminder",
+      "title": "Building Reminders for WhatsApp (GPT Online) using QStash | Upstash Blog",
+      "summary": "QStash triggers API at specified time to send reminder message to user",
+      "tags": [
+        "qstash",
+        "reminder",
+        "upstash",
+        "whatsapp",
+        "async python",
+        "programming",
+        "serverless",
+        "redis"
+      ],
+      "score": 0.7779848620535048,
+      "scraped_at": "2026-10-03T08:07:55.194000+00:00"
+    },
+    {
+      "id": "6ac0b548b272ad14c30c",
+      "url": "https://upstash.com/blog/build-serverless-ai-interview-assistant",
+      "title": "Quick Apply: Building a Serverless AI Interview Assistant | Upstash Blog",
+      "summary": "Upstash Quick Apply is a serverless AI interview assistant that transforms the traditional hiring process by automating the initial screening conversation with candidates.",
+      "tags": [
+        "async python",
+        "programming",
+        "serverless",
+        "ai",
+        "interview assistant",
+        "upstash",
+        "job interviews"
+      ],
+      "score": 0.776721514969893,
+      "scraped_at": "2026-10-03T07:56:56.446000+00:00"
+    },
+    {
+      "id": "6abb737a8255418c1cab",
+      "url": "https://upstash.com/blog/sse-streaming-llm-responses",
+      "title": "Using Server-Sent Events (SSE) to stream LLM responses in Next.js | Upstash Blog",
+      "summary": "Leveraging Server-Sent Events (SSE) to stream LLM responses in Next.js with LangChain and OpenAI's language models. Caching streaming responses with Upstash.",
+      "tags": [
+        "async python",
+        "nextjs",
+        "sse",
+        "llm",
+        "langchain",
+        "openai",
+        "upstash",
+        "server-sent-events"
+      ],
+      "score": 0.5917774404694416,
+      "scraped_at": "2026-09-29T08:14:50.166000+00:00"
+    },
+    {
+      "id": "6abb7292bdee0c886787",
+      "url": "https://planetscale.com/blog/hot-shards-hotter-tenants",
+      "title": "Handling hot shards — PlanetScale",
+      "summary": "PlanetScale's sharding strategy allows for efficient handling of hot shards and tenants, reducing pressure on existing shards.",
+      "tags": [
+        "sharding",
+        "hot shards",
+        "tenants",
+        "planetscale",
+        "async python",
+        "programming"
+      ],
+      "score": 0.5902326234652108,
+      "scraped_at": "2026-09-29T08:10:58.630000+00:00"
+    },
+    {
+      "id": "6ac0b69b86a2e7964346",
+      "url": "https://upstash.com/blog/directus-semantic-search",
+      "title": "Adding Semantic Search to a Directus Application | Upstash Blog",
+      "summary": "Adding semantic search to a Directus application enables users to search for books and retrieve relevant results based on the meaning of their queries.",
+      "tags": [
+        "directus",
+        "semantic search",
+        "upstash vector",
+        "vector search",
+        "headless cms",
+        "content management",
+        "database",
+        "vector embeddings"
+      ],
+      "score": 0.5426056045528972,
+      "scraped_at": "2026-10-03T08:02:35.428000+00:00"
+    },
+    {
+      "id": "6ab6248d37a9b35eb4c2",
+      "url": "https://tailscale.com/blog/making-tailscale-faster",
+      "title": "We're making Tailscale faster",
+      "summary": "Tailscale is fast, but we're exploring a Tailscale-aware monitoring and testing toolkit to give customers more control.",
+      "tags": [
+        "tailscale",
+        "faster",
+        "monitoring",
+        "testing",
+        "toolkit",
+        "performance",
+        "nats",
+        "nat traversal"
+      ],
+      "score": 0.30667401540115996,
+      "scraped_at": "2026-09-25T07:36:45.035000+00:00"
+    },
+    {
+      "id": "6ac0b6dc67da661133e6",
+      "url": "https://blog.cloudflare.com/casb-policies/",
+      "title": "Introducing automatic remediation policies with Cloudflare CASB | Cloudflare Blog",
+      "summary": "Cloudflare CASB introduces automatic remediation policies to streamline security team workflows.",
+      "tags": [
+        "automatic remediation",
+        "cloudflare casb",
+        "security team",
+        "streamlined workflows",
+        "cloudflare casb policies",
+        "remediation",
+        "event-driven logic",
+        "custom webhooks"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-10-03T08:03:39.893000+00:00"
+    },
+    {
+      "id": "6ac0b46ece298c600a08",
+      "url": "https://dev.37signals.com/warming-up-the-puma-master-before-it-forks/",
+      "title": "37signals Dev — Warming up the Puma master before it forks",
+      "summary": "Puma master warming up before forking to reduce deployment queues",
+      "tags": [
+        "puma",
+        "dev",
+        "devops",
+        "rails",
+        "devtools",
+        "fork",
+        "before_fork"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-10-03T07:53:18.198000+00:00"
+    },
+    {
+      "id": "6abf68823638654f3e6d",
+      "url": "https://upstash.com/blog/kafka-spark",
+      "title": "Using Apache Spark with Serverless Kafka | Upstash Blog",
+      "summary": "Collecting data from a React Native app using serverless Kafka and sending it to Apache Spark for real-time streaming into Cassandra.",
+      "tags": [
+        "serverless kafka",
+        "cassandra",
+        "spark",
+        "streaming",
+        "kafka"
+      ],
+      "score": 0.2799098974610422,
+      "scraped_at": "2026-10-02T08:17:05.577000+00:00"
+    }
+  ]
+}
