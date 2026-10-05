@@ -1,0 +1,173 @@
+{
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05T11:56:43.063880+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6ac36a29d23148bf1a70",
+      "url": "https://upstash.com/blog/rag-chatbot-with-peaka",
+      "title": "Accurate AI Responses with Peaka's RAG Pipeline and Upstash Vector | Upstash Blog",
+      "summary": "Peaka's RAG pipeline and Upstash Vector provide a unified query engine and efficient similarity search capabilities for accurate AI model responses.",
+      "tags": [
+        "async python",
+        "programming",
+        "peaka",
+        "upstash",
+        "vector",
+        "sql",
+        "database",
+        "similarity search"
+      ],
+      "score": 0.7747618432047692,
+      "scraped_at": "2026-10-05T09:13:12.964000+00:00"
+    },
+    {
+      "id": "6abf6daf518a2001ca15",
+      "url": "https://upstash.com/blog/rate-limiting-requests-with-trpc-in-sveltekit",
+      "title": "Rate limiting requests with tRPC in Sveltekit | Upstash Blog",
+      "summary": "Implementing rate limiting with tRPC in SvelteKit",
+      "tags": [
+        "async python",
+        "sveltekit",
+        "trpc",
+        "rate limiting",
+        "upstash",
+        "serverless",
+        "ddos attacks",
+        "resource usage"
+      ],
+      "score": 0.6347909503201637,
+      "scraped_at": "2026-10-02T08:39:10.115000+00:00"
+    },
+    {
+      "id": "6abf69c00376591b85f9",
+      "url": "https://upstash.com/blog/upstash-redis-search-generally-available",
+      "title": "Upstash Redis Search, Now Generally Available | Upstash Blog",
+      "summary": "Upstash Redis Search is now generally available, adding full-text search and secondary indexing to Redis data.",
+      "tags": [
+        "redis",
+        "upstash",
+        "async python",
+        "redis search",
+        "upstash redis",
+        "redis data",
+        "full-text search"
+      ],
+      "score": 0.6320914806339104,
+      "scraped_at": "2026-10-02T08:22:23.016000+00:00"
+    },
+    {
+      "id": "6abe1cbc667872cf1eba",
+      "url": "https://www.tigerdata.com/blog/rag-complexity-bet-against-model",
+      "title": "RAG Complexity Is a Bet Against the Model | Tiger Data",
+      "summary": "A bet against the model's ability to handle complex queries, with each architectural addition increasing complexity and maintenance debt.",
+      "tags": [
+        "async python",
+        "programming",
+        "rag",
+        "rag pipeline",
+        "architectural complexity",
+        "model maintenance",
+        "tax",
+        "short-lived problem"
+      ],
+      "score": 0.5955048694842038,
+      "scraped_at": "2026-10-01T08:41:31.904000+00:00"
+    },
+    {
+      "id": "6abe2225af879378ba0e",
+      "url": "https://upstash.com/blog/vercel-auto-pipeline",
+      "title": "Cutting the v0.dev Load Time in Half with Auto-Pipelining | Upstash Blog",
+      "summary": "Upstash's Redis client now supports auto-pipelining, improving v0.dev's performance by reducing Redis requests.",
+      "tags": [
+        "async python",
+        "redis",
+        "pipeline",
+        "performance",
+        "v0.dev",
+        "vercel",
+        "auto-pipelining",
+        "upstash"
+      ],
+      "score": 0.5847608747228297,
+      "scraped_at": "2026-10-01T09:04:37.096000+00:00"
+    },
+    {
+      "id": "6ac364128fbe83f2f084",
+      "url": "https://arpitbhayani.me/blogs/theta-sketches",
+      "title": "Theta sketches: set algebra over massive streams",
+      "summary": "Theta sketches are probabilistic data structures for set algebra over massive streams.",
+      "tags": [
+        "set algebra",
+        "massive streams",
+        "probabilistic data structures",
+        "theta sketches",
+        "data structures",
+        "stream processing",
+        "set operations",
+        "union intersection difference"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-10-05T08:47:14.412000+00:00"
+    },
+    {
+      "id": "6ac36429de54a6db9dc0",
+      "url": "https://blog.cloudflare.com/how-fast-is-the-web/",
+      "title": "How fast is the web? Explore billions of real-user measurements with BEACON | Cloudflare Blog",
+      "summary": "Cloudflare has released the Cloudflare BEACON dataset, a real-world dataset of billions of real-user measurements across 10,000 of the largest websites. This dataset provides unprecedented insights into web performance, covering browsers, devices, and countries.",
+      "tags": [
+        "cloudflare",
+        "beacon",
+        "real-world measurements",
+        "web performance",
+        "browser engine",
+        "device",
+        "country",
+        "researchers"
+      ],
+      "score": 0.29915474915436924,
+      "scraped_at": "2026-10-05T08:47:37.748000+00:00"
+    },
+    {
+      "id": "6ac36791cb80d7b842bc",
+      "url": "https://upstash.com/blog/integrating-apis-with-kafka",
+      "title": "Best practices for using Kafka to process 3rd-party API data | Upstash Blog",
+      "summary": "Best practices for using Kafka to process 3rd-party API data, including design patterns for API extraction, ingestion, and integration.",
+      "tags": [
+        "kafka",
+        "api",
+        "integration",
+        "design",
+        "patterns",
+        "upstash"
+      ],
+      "score": 0.2969227444376636,
+      "scraped_at": "2026-10-05T09:02:08.952000+00:00"
+    },
+    {
+      "id": "6ac36937293c6795a930",
+      "url": "https://blog.cloudflare.com/author/samuel/",
+      "title": "Samuel Macleod - Cloudflare Blog",
+      "summary": "Samuel Macleod and Dario Piotrowicz are authors of Cloudflare blog posts.",
+      "tags": [
+        "samuel",
+        "cloudflare",
+        "author"
+      ],
+      "score": 0.2957423053808869,
+      "scraped_at": "2026-10-05T09:09:10.540000+00:00"
+    },
+    {
+      "id": "6aab9659bc18f59c5c9d",
+      "url": "https://planetscale.com/blog/author/eebbrr",
+      "title": "Posts by Eric Ridge — PlanetScale",
+      "summary": "TIN is a fast, full-featured, full-text search index for Postgres.",
+      "tags": [
+        "postgres",
+        "tin"
+      ],
+      "score": 0.08154556502761519,
+      "scraped_at": "2026-09-17T07:27:20.943000+00:00"
+    }
+  ]
+}
