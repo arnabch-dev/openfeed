@@ -1,0 +1,179 @@
+{
+  "date": "2026-10-06",
+  "generated_at": "2026-10-06T11:36:43.644067+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6ac4bc895207bfe184c1",
+      "url": "https://upstash.com/blog/indexing-wikipedia",
+      "title": "Indexing Millions of Wikipedia Articles With Upstash Vector | Upstash Blog",
+      "summary": "Upstash Vector enables scalable similarity searches across millions of vectors, including Wikipedia embeddings, with features like namespaces and metadata filtering.",
+      "tags": [
+        "async python",
+        "wikipedia",
+        "vector database",
+        "similarity searches",
+        "namespaces",
+        "metadata filtering",
+        "embedding models",
+        "wikipedia semantic search"
+      ],
+      "score": 0.7875000000000001,
+      "scraped_at": "2026-10-06T09:16:57.181000+00:00"
+    },
+    {
+      "id": "6ac4b75620df9cfab430",
+      "url": "https://upstash.com/blog/kafka-emqx",
+      "title": "Connecting Millions of Cars using EMQX MQTT and Upstash Kafka | Upstash Blog",
+      "summary": "Connecting millions of cars to IoT systems using EMQX MQTT and Upstash Kafka",
+      "tags": [
+        "async python",
+        "kafka",
+        "emqx",
+        "iot",
+        "connected cars",
+        "mqtt",
+        "upstash"
+      ],
+      "score": 0.7812390741540969,
+      "scraped_at": "2026-10-06T08:54:45.978000+00:00"
+    },
+    {
+      "id": "6ac4b9ea24948248eaf9",
+      "url": "https://upstash.com/blog/announcing-ratelimit-python",
+      "title": "Announcing Python Serverless Redis and Ratelimiting SDKs | Upstash Blog",
+      "summary": "Upstash announces the release of official Python SDK for Redis, simplifying serverless development for Python developers.",
+      "tags": [
+        "async python",
+        "redis",
+        "ratelimit",
+        "upstash",
+        "python",
+        "serverless",
+        "sdk"
+      ],
+      "score": 0.7776259227447583,
+      "scraped_at": "2026-10-06T09:05:45.987000+00:00"
+    },
+    {
+      "id": "6ac0b9368d0c87875238",
+      "url": "https://upstash.com/blog/scheduled-transcriber",
+      "title": "Scheduling Audio Transcriptions with QStash | Upstash Blog",
+      "summary": "Scheduling audio transcriptions with Upstash QStash and Fireworks AI",
+      "tags": [
+        "async python",
+        "qstash",
+        "fireworks ai",
+        "upstash",
+        "cloudflare r2",
+        "cloudflare",
+        "fireworks",
+        "transcription"
+      ],
+      "score": 0.6346913016509133,
+      "scraped_at": "2026-10-03T08:13:42.118000+00:00"
+    },
+    {
+      "id": "6ac0b548b272ad14c30c",
+      "url": "https://upstash.com/blog/build-serverless-ai-interview-assistant",
+      "title": "Quick Apply: Building a Serverless AI Interview Assistant | Upstash Blog",
+      "summary": "Upstash Quick Apply is a serverless AI interview assistant that transforms the traditional hiring process by automating the initial screening conversation with candidates.",
+      "tags": [
+        "async python",
+        "programming",
+        "serverless",
+        "ai",
+        "interview assistant",
+        "upstash",
+        "job interviews"
+      ],
+      "score": 0.6307471630313195,
+      "scraped_at": "2026-10-03T07:56:56.446000+00:00"
+    },
+    {
+      "id": "6abf679fd6d1e30ef4eb",
+      "url": "https://planetscale.com/blog/author/dbussink",
+      "title": "Posts by Dirkjan Bussink — PlanetScale",
+      "summary": "Sharded Postgres by Vitess team",
+      "tags": [
+        "vitess",
+        "sharded postgres",
+        "database",
+        "tech"
+      ],
+      "score": 0.4055168054783199,
+      "scraped_at": "2026-10-02T08:13:18.985000+00:00"
+    },
+    {
+      "id": "6ac4b6e364f58561e697",
+      "url": "https://dev.37signals.com/hot-cell-1-0/",
+      "title": "37signals Dev — Hot Cell v1.0: Securing Active Storage in the age of AI",
+      "summary": "Hot Cell v1.0 secures Active Storage in the age of AI",
+      "tags": [
+        "hot cell",
+        "active storage",
+        "rails",
+        "ai",
+        "security",
+        "containerization",
+        "hotcell"
+      ],
+      "score": 0.30170985879179085,
+      "scraped_at": "2026-10-06T08:52:50.669000+00:00"
+    },
+    {
+      "id": "6ac4b89ebb2f1a89264f",
+      "url": "https://upstash.com/blog/web3-preferences",
+      "title": "Preference Storage for DApps using Metamask with Next.js | Upstash Blog",
+      "summary": "A preference storage system using Next.js for DApps",
+      "tags": [
+        "dapp",
+        "nextjs",
+        "metamask",
+        "upstash",
+        "web3",
+        "preferences",
+        "storage",
+        "api"
+      ],
+      "score": 0.2987013991219942,
+      "scraped_at": "2026-10-06T09:00:13.876000+00:00"
+    },
+    {
+      "id": "6ac4b88b472a49947b4d",
+      "url": "https://blog.cloudflare.com/author/dimitri-mitropoulos/",
+      "title": "Dimitri Mitropoulos - Cloudflare Blog",
+      "summary": "Cloudflare introduces cf, a unified CLI and Local Explorer for developers and AI agents.",
+      "tags": [
+        "cloudflare",
+        "cf",
+        "cli",
+        "local explorer",
+        "unified",
+        "consistency",
+        "api",
+        "operations"
+      ],
+      "score": 0.29755765901824643,
+      "scraped_at": "2026-10-06T08:59:55.121000+00:00"
+    },
+    {
+      "id": "6abf6905d827034cb964",
+      "url": "https://planetscale.com/blog/designing-neki-for-performance",
+      "title": "Designing Neki for performance — PlanetScale",
+      "summary": "Neki improves performance by reducing work in certain cases.",
+      "tags": [
+        "neki",
+        "performance",
+        "postgresql",
+        "sidecar",
+        "protobuf",
+        "router",
+        "shards",
+        "row projection"
+      ],
+      "score": 0.22747385160169886,
+      "scraped_at": "2026-10-02T08:19:17.280000+00:00"
+    }
+  ]
+}
