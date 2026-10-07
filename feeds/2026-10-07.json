@@ -1,0 +1,178 @@
+{
+  "date": "2026-10-07",
+  "generated_at": "2026-10-07T11:26:07.707275+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6ac604d21a30b092d77b",
+      "url": "https://planetscale.com/blog/introducing-postgres-dedicated-read-replicas",
+      "title": "Introducing Dedicated Read Replicas for Postgres — PlanetScale",
+      "summary": "Dedicated read replicas for Postgres available on PlanetScale, enabling full control over creation, sizing, and connection.",
+      "tags": [
+        "postgres",
+        "dedicated read replicas",
+        "planetscale",
+        "async python",
+        "database scaling",
+        "read replicas",
+        "cloud database"
+      ],
+      "score": 0.7775923646437817,
+      "scraped_at": "2026-10-07T08:37:36.486000+00:00"
+    },
+    {
+      "id": "6ac20e2fc9b11adbc3dc",
+      "url": "https://upstash.com/blog/how-upstash-redis-search-works",
+      "title": "How Upstash Redis Search Works? | Upstash Blog",
+      "summary": "Upstash Redis Search uses Redis to store and serve data quickly, but querying has been a limitation. This solution adds full-text search, query operators, and indexing to Redis.",
+      "tags": [
+        "async python",
+        "redis search",
+        "upstash",
+        "redis",
+        "database",
+        "query",
+        "full-text search"
+      ],
+      "score": 0.6265948083976941,
+      "scraped_at": "2026-10-04T08:28:31.005000+00:00"
+    },
+    {
+      "id": "6ac0b7db4ec7f9492df9",
+      "url": "https://upstash.com/blog/qstash-reminder",
+      "title": "Building Reminders for WhatsApp (GPT Online) using QStash | Upstash Blog",
+      "summary": "QStash triggers API at specified time to send reminder message to user",
+      "tags": [
+        "qstash",
+        "reminder",
+        "upstash",
+        "whatsapp",
+        "async python",
+        "programming",
+        "serverless",
+        "redis"
+      ],
+      "score": 0.5894573970577819,
+      "scraped_at": "2026-10-03T08:07:55.194000+00:00"
+    },
+    {
+      "id": "6ac601cd02656c45bacb",
+      "url": "https://tailscale.com/blog/codex-cloud-tailscale",
+      "title": "Codex Cloud shipped with Tailscale support. Nobody told us.",
+      "summary": "Codex Cloud integrates with Tailscale, allowing users to access internal APIs and resources",
+      "tags": [
+        "codex cloud",
+        "tailscale",
+        "integration",
+        "api",
+        "cloud"
+      ],
+      "score": 0.5418400793942257,
+      "scraped_at": "2026-10-07T08:24:44.330000+00:00"
+    },
+    {
+      "id": "6abb737a8255418c1cab",
+      "url": "https://upstash.com/blog/sse-streaming-llm-responses",
+      "title": "Using Server-Sent Events (SSE) to stream LLM responses in Next.js | Upstash Blog",
+      "summary": "Leveraging Server-Sent Events (SSE) to stream LLM responses in Next.js with LangChain and OpenAI's language models. Caching streaming responses with Upstash.",
+      "tags": [
+        "async python",
+        "nextjs",
+        "sse",
+        "llm",
+        "langchain",
+        "openai",
+        "upstash",
+        "server-sent-events"
+      ],
+      "score": 0.448478877383479,
+      "scraped_at": "2026-09-29T08:14:50.166000+00:00"
+    },
+    {
+      "id": "6ac6058f859252766b3e",
+      "url": "https://upstash.com/blog/upstash-redis-vs-valkey",
+      "title": "Redis vs Valkey: Features, Performance & Pricing in 2026 | Upstash Blog",
+      "summary": "Valkey is a fork of Redis (7.2) under the Linux Foundation, offering ~90% command compatibility and a near-drop-in replacement. It prioritizes engine performance over built-in modules.",
+      "tags": [
+        "redis",
+        "valkey",
+        "engine",
+        "performance",
+        "fork",
+        "linux foundation",
+        "command compatibility",
+        "near-drop-in replacement"
+      ],
+      "score": 0.3003579982452973,
+      "scraped_at": "2026-10-07T08:40:47.226000+00:00"
+    },
+    {
+      "id": "6ac603fd05b9c63d50cc",
+      "url": "https://arpitbhayani.me/blogs/curse-of-dimensionality",
+      "title": "The Curse of Dimensionality",
+      "summary": "The Curse of Dimensionality is a concept that describes the challenges of high-dimensional spaces in machine learning.",
+      "tags": [
+        "dimensionality",
+        "curse",
+        "machine learning",
+        "algorithmic challenges",
+        "dimensionality reduction",
+        "manifold methods",
+        "pca",
+        "johnson-lindenstrauss lemma"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-10-07T08:34:04.429000+00:00"
+    },
+    {
+      "id": "6ac604108caed038b8f4",
+      "url": "https://blog.cloudflare.com/author/matt-tk-taylor/",
+      "title": "Matt “TK” Taylor - Cloudflare Blog",
+      "summary": "Cloudflare announces cf, a new command-line tool for programmatic API access and Forge, an internal SDK generator.",
+      "tags": [
+        "cloudflare",
+        "cf",
+        "api",
+        "programmatic",
+        "typescript",
+        "forge",
+        "life-at-cloudflare"
+      ],
+      "score": 0.2978303967306321,
+      "scraped_at": "2026-10-07T08:34:24.066000+00:00"
+    },
+    {
+      "id": "6ac606bc736ccced44d4",
+      "url": "https://blog.cloudflare.com/voidzero-update/",
+      "title": "Four months of VoidZero at Cloudflare: making the open-source JavaScript toolchain faster for all humans and agents | Cloudflare Blog",
+      "summary": "VoidZero's mission is to make JavaScript developers more productive. The company plans to ship features in the next few months, including improvements to Oxc's parser and a re-designed chunking algorithm.",
+      "tags": [
+        "javascript",
+        "voidzero",
+        "cloudflare",
+        "open-source",
+        "javascript-toolchain",
+        "javascript-optimization",
+        "javascript-performance"
+      ],
+      "score": 0.2971388141505455,
+      "scraped_at": "2026-10-07T08:45:47.853000+00:00"
+    },
+    {
+      "id": "6ab0e5b7165630b4c920",
+      "url": "https://blog.cloudflare.com/author/diogo-carneiro/",
+      "title": "Diogo Carneiro - Cloudflare Blog",
+      "summary": "Cloudflare Blog migration to EmDash for massive scale performance testing.",
+      "tags": [
+        "cloudflare",
+        "migration",
+        "performance",
+        "emdash",
+        "massive scale",
+        "cloudflare blog"
+      ],
+      "score": 0.09768037812102585,
+      "scraped_at": "2026-09-21T08:07:18.183000+00:00"
+    }
+  ]
+}
