@@ -1,0 +1,180 @@
+{
+  "date": "2026-10-10",
+  "generated_at": "2026-10-10T10:53:14.518310+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6ac9f7201fcd0e33c00c",
+      "url": "https://vercel.com/customers/how-rillet-ships-3-faster-with-ai-agents-on-vercel",
+      "title": "How Rillet ships 3× faster with AI agents on Vercel | Customers | Vercel",
+      "summary": "Rillet ships 3× faster with AI agents on Vercel, tripling shipping rate in 3 months.",
+      "tags": [
+        "async python",
+        "vercel",
+        "ai agents",
+        "erp",
+        "erp platform",
+        "zero day close",
+        "accounting work",
+        "real-time general ledger"
+      ],
+      "score": 0.7864959066842905,
+      "scraped_at": "2026-10-10T08:28:15.933000+00:00"
+    },
+    {
+      "id": "6ac4b75620df9cfab430",
+      "url": "https://upstash.com/blog/kafka-emqx",
+      "title": "Connecting Millions of Cars using EMQX MQTT and Upstash Kafka | Upstash Blog",
+      "summary": "Connecting millions of cars to IoT systems using EMQX MQTT and Upstash Kafka",
+      "tags": [
+        "async python",
+        "kafka",
+        "emqx",
+        "iot",
+        "connected cars",
+        "mqtt",
+        "upstash"
+      ],
+      "score": 0.5921352999310777,
+      "scraped_at": "2026-10-06T08:54:45.978000+00:00"
+    },
+    {
+      "id": "6ac4b9ea24948248eaf9",
+      "url": "https://upstash.com/blog/announcing-ratelimit-python",
+      "title": "Announcing Python Serverless Redis and Ratelimiting SDKs | Upstash Blog",
+      "summary": "Upstash announces the release of official Python SDK for Redis, simplifying serverless development for Python developers.",
+      "tags": [
+        "async python",
+        "redis",
+        "ratelimit",
+        "upstash",
+        "python",
+        "serverless",
+        "sdk"
+      ],
+      "score": 0.5894509725985906,
+      "scraped_at": "2026-10-06T09:05:45.987000+00:00"
+    },
+    {
+      "id": "6ac9f6280209b4b66a7f",
+      "url": "https://upstash.com/blog/using-upstash-redis-for-laravel-sessions",
+      "title": "Using Upstash Redis for Laravel Sessions | Upstash Blog",
+      "summary": "Laravel uses Upstash Redis as the session driver to boost performance and scalability.",
+      "tags": [
+        "laravel",
+        "redis",
+        "session driver",
+        "upstash",
+        "database",
+        "performance",
+        "scalability"
+      ],
+      "score": 0.5244529956876737,
+      "scraped_at": "2026-10-10T08:24:07.815000+00:00"
+    },
+    {
+      "id": "6ac604d21a30b092d77b",
+      "url": "https://planetscale.com/blog/introducing-postgres-dedicated-read-replicas",
+      "title": "Introducing Dedicated Read Replicas for Postgres — PlanetScale",
+      "summary": "Dedicated read replicas for Postgres available on PlanetScale, enabling full control over creation, sizing, and connection.",
+      "tags": [
+        "postgres",
+        "dedicated read replicas",
+        "planetscale",
+        "async python",
+        "database scaling",
+        "read replicas",
+        "cloud database"
+      ],
+      "score": 0.4211541260553997,
+      "scraped_at": "2026-10-07T08:37:36.486000+00:00"
+    },
+    {
+      "id": "6abe1cbc667872cf1eba",
+      "url": "https://www.tigerdata.com/blog/rag-complexity-bet-against-model",
+      "title": "RAG Complexity Is a Bet Against the Model | Tiger Data",
+      "summary": "A bet against the model's ability to handle complex queries, with each architectural addition increasing complexity and maintenance debt.",
+      "tags": [
+        "async python",
+        "programming",
+        "rag",
+        "rag pipeline",
+        "architectural complexity",
+        "model maintenance",
+        "tax",
+        "short-lived problem"
+      ],
+      "score": 0.42110734466516575,
+      "scraped_at": "2026-10-01T08:41:31.904000+00:00"
+    },
+    {
+      "id": "6ac9fa6f4445a33a8fc5",
+      "url": "https://blog.cloudflare.com/author/goldbe/",
+      "title": "Sharon Goldberg - Cloudflare Blog",
+      "summary": "Cloudflare One supports post-quantum encryption via IETF drafts.",
+      "tags": [
+        "cloudflare",
+        "post-quantum",
+        "encryption",
+        "cloudflare one",
+        "post-quantum encryption",
+        "ietf drafts",
+        "hybrid ml-kem"
+      ],
+      "score": 0.2985680617291813,
+      "scraped_at": "2026-10-10T08:42:22.191000+00:00"
+    },
+    {
+      "id": "6ac9fa260eb436a7aaf3",
+      "url": "https://upstash.com/blog",
+      "title": "Blog | Upstash",
+      "summary": "Upstash is a cloud-based product development platform that helps teams build and deploy scalable applications.",
+      "tags": [
+        "cloud",
+        "product",
+        "development",
+        "scalable",
+        "application",
+        "teams",
+        "build",
+        "deploy"
+      ],
+      "score": 0.29848577154652467,
+      "scraped_at": "2026-10-10T08:41:08.355000+00:00"
+    },
+    {
+      "id": "6ac9f6f688a19eaf1b33",
+      "url": "https://www.tigerdata.com/blog/measuring-how-fast-iiot-queries-degrading",
+      "title": "Measuring How Fast Your IIoT Queries Are Degrading | Tiger Data",
+      "summary": "A degradation coefficient in milliseconds per million rows measures how quickly IIoT queries are degrading over time.",
+      "tags": [
+        "iiot",
+        "postgresql",
+        "performance",
+        "degradation",
+        "ms per million rows",
+        "ms"
+      ],
+      "score": 0.2919777586060388,
+      "scraped_at": "2026-10-10T08:27:33.923000+00:00"
+    },
+    {
+      "id": "6ac8aabd35bf8b029ca7",
+      "url": "https://arpitbhayani.me/applied-ai",
+      "title": "The Applied AI Masterclass | Arpit Bhayani",
+      "summary": "The Applied AI Masterclass by Arpit Bhayani provides a comprehensive and practical guide to designing and implementing AI-powered systems in production environments.",
+      "tags": [
+        "applied ai",
+        "masterclass",
+        "design",
+        "implementation",
+        "production",
+        "ai systems",
+        "system design",
+        "distributed systems"
+      ],
+      "score": 0.27952178299045777,
+      "scraped_at": "2026-10-09T08:50:04.448000+00:00"
+    }
+  ]
+}
