@@ -1,0 +1,178 @@
+{
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T11:06:26.035918+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6acb4d95b0baeb666e8b",
+      "url": "https://upstash.com/blog/chalice-event-reminder-slackbot",
+      "title": "Serverless Birthday Slackbot with AWS Chalice and Upstash Redis | Upstash Blog",
+      "summary": "A serverless birthday Slackbot built with AWS Chalice and Upstash Redis, using Python and async Python.",
+      "tags": [
+        "async python",
+        "serverless",
+        "slackbot",
+        "aws chalice",
+        "upstash redis",
+        "python",
+        "serverless python"
+      ],
+      "score": 0.7814501753674681,
+      "scraped_at": "2026-10-11T08:49:24.751000+00:00"
+    },
+    {
+      "id": "6ac20e2fc9b11adbc3dc",
+      "url": "https://upstash.com/blog/how-upstash-redis-search-works",
+      "title": "How Upstash Redis Search Works? | Upstash Blog",
+      "summary": "Upstash Redis Search uses Redis to store and serve data quickly, but querying has been a limitation. This solution adds full-text search, query operators, and indexing to Redis.",
+      "tags": [
+        "async python",
+        "redis search",
+        "upstash",
+        "redis",
+        "database",
+        "query",
+        "full-text search"
+      ],
+      "score": 0.4748700657888968,
+      "scraped_at": "2026-10-04T08:28:31.005000+00:00"
+    },
+    {
+      "id": "6ac0b9368d0c87875238",
+      "url": "https://upstash.com/blog/scheduled-transcriber",
+      "title": "Scheduling Audio Transcriptions with QStash | Upstash Blog",
+      "summary": "Scheduling audio transcriptions with Upstash QStash and Fireworks AI",
+      "tags": [
+        "async python",
+        "qstash",
+        "fireworks ai",
+        "upstash",
+        "cloudflare r2",
+        "cloudflare",
+        "fireworks",
+        "transcription"
+      ],
+      "score": 0.44879452335747727,
+      "scraped_at": "2026-10-03T08:13:42.118000+00:00"
+    },
+    {
+      "id": "6ac0b548b272ad14c30c",
+      "url": "https://upstash.com/blog/build-serverless-ai-interview-assistant",
+      "title": "Quick Apply: Building a Serverless AI Interview Assistant | Upstash Blog",
+      "summary": "Upstash Quick Apply is a serverless AI interview assistant that transforms the traditional hiring process by automating the initial screening conversation with candidates.",
+      "tags": [
+        "async python",
+        "programming",
+        "serverless",
+        "ai",
+        "interview assistant",
+        "upstash",
+        "job interviews"
+      ],
+      "score": 0.4460055961936228,
+      "scraped_at": "2026-10-03T07:56:56.446000+00:00"
+    },
+    {
+      "id": "6ac4bc895207bfe184c1",
+      "url": "https://upstash.com/blog/indexing-wikipedia",
+      "title": "Indexing Millions of Wikipedia Articles With Upstash Vector | Upstash Blog",
+      "summary": "Upstash Vector enables scalable similarity searches across millions of vectors, including Wikipedia embeddings, with features like namespaces and metadata filtering.",
+      "tags": [
+        "async python",
+        "wikipedia",
+        "vector database",
+        "similarity searches",
+        "namespaces",
+        "metadata filtering",
+        "embedding models",
+        "wikipedia semantic search"
+      ],
+      "score": 0.3712310601229375,
+      "scraped_at": "2026-10-06T09:16:57.181000+00:00"
+    },
+    {
+      "id": "6acb4dca3244f6434f98",
+      "url": "https://blog.cloudflare.com/author/andrew-depke/",
+      "title": "Andrew Depke - Cloudflare Blog",
+      "summary": "Cloudflare has added PQ encryption to HTTP Analytics, Log Explorer, and Logpush.",
+      "tags": [
+        "cloudflare",
+        "pq encryption",
+        "tls 1.3",
+        "post-quantum",
+        "encryption",
+        "tls",
+        "analytics",
+        "log explorer"
+      ],
+      "score": 0.29916082482427225,
+      "scraped_at": "2026-10-11T08:50:17.376000+00:00"
+    },
+    {
+      "id": "6acb4b06e4d9c168f4a8",
+      "url": "https://upstash.com/blog/managed-redis-compared-features-of-every-major-provider-in-2026",
+      "title": "Managed Redis Hosting Providers in 2026: A Product Comparison | Upstash Blog",
+      "summary": "A product comparison of major managed Redis providers in 2026, including Upstash, AWS ElastiCache, AWS MemoryDB, Redis Cloud, Google Memorystore, Azure Cache for Redis, DigitalOcean, Aiven, Railway.",
+      "tags": [
+        "managed redis",
+        "comparison",
+        "upstash",
+        "aws elasti cache",
+        "aws memorydb",
+        "redis cloud",
+        "google memorystore",
+        "azure cache for redis"
+      ],
+      "score": 0.2979891211802734,
+      "scraped_at": "2026-10-11T08:38:29.350000+00:00"
+    },
+    {
+      "id": "6ac9f92b07c160d9b611",
+      "url": "https://blog.cloudflare.com/author/mari/",
+      "title": "Mari Galicer - Cloudflare Blog",
+      "summary": "Cloudflare blog post shares latest new features and capabilities.",
+      "tags": [
+        "cloudflare",
+        "new features",
+        "cloudflare roundup",
+        "cloudflare blog",
+        "latest news",
+        "cloudflare products",
+        "cloudflare solutions"
+      ],
+      "score": 0.2788550918955082,
+      "scraped_at": "2026-10-10T08:36:57.899000+00:00"
+    },
+    {
+      "id": "6ac6038242167c3d1ec8",
+      "url": "https://planetscale.com/blog/author/nickholden",
+      "title": "Posts by Nick Holden — PlanetScale",
+      "summary": "Dedicated read replicas for Postgres introduced",
+      "tags": [
+        "postgres",
+        "dedicated read replicas",
+        "read replicas"
+      ],
+      "score": 0.2206848087731549,
+      "scraped_at": "2026-10-07T08:32:01.524000+00:00"
+    },
+    {
+      "id": "6abf6905d827034cb964",
+      "url": "https://planetscale.com/blog/designing-neki-for-performance",
+      "title": "Designing Neki for performance — PlanetScale",
+      "summary": "Neki improves performance by reducing work in certain cases.",
+      "tags": [
+        "neki",
+        "performance",
+        "postgresql",
+        "sidecar",
+        "protobuf",
+        "router",
+        "shards",
+        "row projection"
+      ],
+      "score": 0.16084830301018366,
+      "scraped_at": "2026-10-02T08:19:17.280000+00:00"
+    }
+  ]
+}
