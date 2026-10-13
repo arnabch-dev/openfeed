@@ -1,0 +1,182 @@
+{
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T12:20:37.471863+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6acca5a989bd33b2ec6b",
+      "url": "https://upstash.com/blog/serverless-database-connections",
+      "title": "Challenge of Serverless: Database Connections | Upstash Blog",
+      "summary": "Designing a database for serverless, we built an infrastructure that supports per-request pricing in a profitable way. We believe Upstash has achieved this. After launching the product, we saw that there was another major challenge: database connections. We use serverless-mysql for database connections.",
+      "tags": [
+        "async python",
+        "database",
+        "serverless",
+        "database connections",
+        "graphql api",
+        "redis protocol",
+        "upstash",
+        "serverless mysql"
+      ],
+      "score": 0.7227884307590777,
+      "scraped_at": "2026-10-12T09:17:29.369000+00:00"
+    },
+    {
+      "id": "6ac9f7201fcd0e33c00c",
+      "url": "https://vercel.com/customers/how-rillet-ships-3-faster-with-ai-agents-on-vercel",
+      "title": "How Rillet ships 3× faster with AI agents on Vercel | Customers | Vercel",
+      "summary": "Rillet ships 3× faster with AI agents on Vercel, tripling shipping rate in 3 months.",
+      "tags": [
+        "async python",
+        "vercel",
+        "ai agents",
+        "erp",
+        "erp platform",
+        "zero day close",
+        "accounting work",
+        "real-time general ledger"
+      ],
+      "score": 0.6388538409980038,
+      "scraped_at": "2026-10-10T08:28:15.933000+00:00"
+    },
+    {
+      "id": "6ac8aab03e8898a963ef",
+      "url": "https://upstash.com/blog/react-server-components",
+      "title": "Working with React Server Components | Upstash Blog",
+      "summary": "React Server Components are used when rendering React components on the server-side, especially in Next.js applications.",
+      "tags": [
+        "react server components",
+        "next.js",
+        "server-side rendering",
+        "jsx",
+        "javascript",
+        "react",
+        "programming",
+        "async python"
+      ],
+      "score": 0.5938719358757106,
+      "scraped_at": "2026-10-09T08:49:51.429000+00:00"
+    },
+    {
+      "id": "6ac8aa311ce61723433b",
+      "url": "https://planetscale.com/blog/tin-v106",
+      "title": "TIN v1.0.6: 2-3x faster, with support for stemming — PlanetScale",
+      "summary": "TIN v1.0.6: 2-3x faster, with support for stemming, released for all customers.",
+      "tags": [
+        "async python",
+        "tin",
+        "stemming",
+        "postgres",
+        "full-text search",
+        "tin v1.0.6",
+        "tin v1.0.4",
+        "tin full-score"
+      ],
+      "score": 0.5927268682388056,
+      "scraped_at": "2026-10-09T08:47:44.237000+00:00"
+    },
+    {
+      "id": "6ac604d21a30b092d77b",
+      "url": "https://planetscale.com/blog/introducing-postgres-dedicated-read-replicas",
+      "title": "Introducing Dedicated Read Replicas for Postgres — PlanetScale",
+      "summary": "Dedicated read replicas for Postgres available on PlanetScale, enabling full control over creation, sizing, and connection.",
+      "tags": [
+        "postgres",
+        "dedicated read replicas",
+        "planetscale",
+        "async python",
+        "database scaling",
+        "read replicas",
+        "cloud database"
+      ],
+      "score": 0.5129983442814953,
+      "scraped_at": "2026-10-07T08:37:36.486000+00:00"
+    },
+    {
+      "id": "6ac9f6280209b4b66a7f",
+      "url": "https://upstash.com/blog/using-upstash-redis-for-laravel-sessions",
+      "title": "Using Upstash Redis for Laravel Sessions | Upstash Blog",
+      "summary": "Laravel uses Upstash Redis as the session driver to boost performance and scalability.",
+      "tags": [
+        "laravel",
+        "redis",
+        "session driver",
+        "upstash",
+        "database",
+        "performance",
+        "scalability"
+      ],
+      "score": 0.4253940888085384,
+      "scraped_at": "2026-10-10T08:24:07.815000+00:00"
+    },
+    {
+      "id": "6acdf6d5a1474365e1ab",
+      "url": "https://planetscale.com/blog/what-gets-toasted-in-postgres",
+      "title": "What gets TOASTed in Postgres — PlanetScale",
+      "summary": "Postgres 19 changes how TOAST compresses values, switching from pglz to LZ4",
+      "tags": [
+        "postgres",
+        "19",
+        "beta",
+        "toastr",
+        "compression",
+        "algorithm",
+        "pglz",
+        "lz4"
+      ],
+      "score": 0.29901000135896927,
+      "scraped_at": "2026-10-13T09:16:04.762000+00:00"
+    },
+    {
+      "id": "6acdfcc3bd4acfd2e06c",
+      "url": "https://blog.cloudflare.com/author/ankit-shah/",
+      "title": "Ankit Shah - Cloudflare Blog",
+      "summary": "Cloudflare blog: Resources, Solutions, Products, Life at Cloudflare, Pricing, Cloudflare Registrar API, Radar",
+      "tags": [
+        "cloudflare",
+        "radar",
+        "cloudflare-radar",
+        "cloudflare registrar api",
+        "products",
+        "solutions",
+        "resources"
+      ],
+      "score": 0.298862253973785,
+      "scraped_at": "2026-10-13T09:41:22.889000+00:00"
+    },
+    {
+      "id": "6acca59bbd419f842355",
+      "url": "https://blog.cloudflare.com/ipsec-downgrade-protection/",
+      "title": "Preventing quantum downgrade attacks against IPsec | Cloudflare Blog",
+      "summary": "Cloudflare helps prevent quantum downgrade attacks against IPsec by implementing a mitigation against downgrade attacks on IPsec, a central component of Cloudflare products.",
+      "tags": [
+        "ipsec",
+        "quantum downgrades",
+        "cloudflare",
+        "ipsec downgrade protection",
+        "post-quantum cryptography",
+        "quantum security",
+        "quantum downgrades attacks",
+        "cloudflare blog"
+      ],
+      "score": 0.27912125053594433,
+      "scraped_at": "2026-10-12T09:17:15.363000+00:00"
+    },
+    {
+      "id": "6ac9f6f688a19eaf1b33",
+      "url": "https://www.tigerdata.com/blog/measuring-how-fast-iiot-queries-degrading",
+      "title": "Measuring How Fast Your IIoT Queries Are Degrading | Tiger Data",
+      "summary": "A degradation coefficient in milliseconds per million rows measures how quickly IIoT queries are degrading over time.",
+      "tags": [
+        "iiot",
+        "postgresql",
+        "performance",
+        "degradation",
+        "ms per million rows",
+        "ms"
+      ],
+      "score": 0.23911979718136556,
+      "scraped_at": "2026-10-10T08:27:33.923000+00:00"
+    }
+  ]
+}
