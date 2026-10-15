@@ -1,0 +1,173 @@
+{
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T09:31:37.112633+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6ad0837e7de5bed48824",
+      "url": "https://upstash.com/blog/next-chatapp-with-kafka",
+      "title": "Building a Chat Application using Upstash Kafka, Redis and Next.js | Upstash Blog",
+      "summary": "Building a chat application using Upstash Kafka, Redis and Next.js",
+      "tags": [
+        "async python",
+        "kafka",
+        "redis",
+        "next.js",
+        "chat application",
+        "upstash"
+      ],
+      "score": 0.7768641203797583,
+      "scraped_at": "2026-10-15T07:40:46.359000+00:00"
+    },
+    {
+      "id": "6ad07f24bc308319d574",
+      "url": "https://vercel.com/blog/findings-from-the-1-million-dollar-vercel-sandbox-challenge",
+      "title": "Findings from the $1M Vercel Sandbox challenge - Vercel",
+      "summary": "Vercel Sandbox challenge: hacker finds $1M bug in production sandboxes, but no customer data accessed.",
+      "tags": [
+        "vercel",
+        "sandbox",
+        "challenge",
+        "hacker",
+        "bug",
+        "production",
+        "linux"
+      ],
+      "score": 0.5429544218106035,
+      "scraped_at": "2026-10-15T07:22:11.871000+00:00"
+    },
+    {
+      "id": "6ac601cd02656c45bacb",
+      "url": "https://tailscale.com/blog/codex-cloud-tailscale",
+      "title": "Codex Cloud shipped with Tailscale support. Nobody told us.",
+      "summary": "Codex Cloud integrates with Tailscale, allowing users to access internal APIs and resources",
+      "tags": [
+        "codex cloud",
+        "tailscale",
+        "integration",
+        "api",
+        "cloud"
+      ],
+      "score": 0.3118354460390958,
+      "scraped_at": "2026-10-07T08:24:44.330000+00:00"
+    },
+    {
+      "id": "6ac60235c093e03ed913",
+      "url": "https://planetscale.com/blog/author/sinjo",
+      "title": "Posts by Chris Sinjakli — PlanetScale",
+      "summary": "Postgres 18 is now available on PlanetScale",
+      "tags": [
+        "postgres",
+        "planetscale",
+        "software",
+        "database",
+        "tech"
+      ],
+      "score": 0.3026498097530356,
+      "scraped_at": "2026-10-07T08:26:29.138000+00:00"
+    },
+    {
+      "id": "6ad0822e132e1d1337dd",
+      "url": "https://upstash.com/blog/upgradable-rwlock-for-go",
+      "title": "Upgradable Read Write Lock for Go | Upstash Blog",
+      "summary": "An upgradable read-write lock is implemented in Go, allowing multiple readers and a single writer to access shared resources concurrently.",
+      "tags": [
+        "upgradable read-write lock",
+        "go",
+        "concurrent access",
+        "shared resource",
+        "upgradable",
+        "read-write",
+        "lock",
+        "sync.rwmutex"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-10-15T07:35:09.439000+00:00"
+    },
+    {
+      "id": "6ad07dc07ab1cdec8e9e",
+      "url": "https://incident.io/blog/we-gave-cloud-agents-a-phone-to-qa",
+      "title": "We gave cloud agents a phone to QA | Blog | incident.io",
+      "summary": "Cloud agents were given a phone to QA mobile changes, allowing them to test and verify changes before review.",
+      "tags": [
+        "mobile qa",
+        "cloud agents",
+        "qa",
+        "mobile testing",
+        "agent device",
+        "callstack",
+        "mobile pr",
+        "proof of concept"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-10-15T07:16:15.673000+00:00"
+    },
+    {
+      "id": "6ad07f9c017dea01690e",
+      "url": "https://upstash.com/blog/ollama-rag",
+      "title": "Running a RAG Chatbot with Ollama on Fly.io | Upstash Blog",
+      "summary": "Deploy Ollama on Fly.io and build a RAG chatbot using 7B model and Upstash Vector",
+      "tags": [
+        "ollama",
+        "flyio",
+        "chatbot",
+        "rag",
+        "mistral ai",
+        "ollamaembeddings",
+        "upstashvector",
+        "langchain community"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-10-15T07:24:11.819000+00:00"
+    },
+    {
+      "id": "6abe1cbc667872cf1eba",
+      "url": "https://www.tigerdata.com/blog/rag-complexity-bet-against-model",
+      "title": "RAG Complexity Is a Bet Against the Model | Tiger Data",
+      "summary": "A bet against the model's ability to handle complex queries, with each architectural addition increasing complexity and maintenance debt.",
+      "tags": [
+        "async python",
+        "programming",
+        "rag",
+        "rag pipeline",
+        "architectural complexity",
+        "model maintenance",
+        "tax",
+        "short-lived problem"
+      ],
+      "score": 0.2977678590201994,
+      "scraped_at": "2026-10-01T08:41:31.904000+00:00"
+    },
+    {
+      "id": "6ac75afac2a0445fc55f",
+      "url": "https://blog.cloudflare.com/author/daniele/",
+      "title": "Daniele Molteni - Cloudflare Blog",
+      "summary": "Daniele Molteni is a Cloudflare blog author.",
+      "tags": [
+        "cloudflare",
+        "author",
+        "daniele molteni"
+      ],
+      "score": 0.1819149240051513,
+      "scraped_at": "2026-10-08T08:57:29.957000+00:00"
+    },
+    {
+      "id": "6abf6905d827034cb964",
+      "url": "https://planetscale.com/blog/designing-neki-for-performance",
+      "title": "Designing Neki for performance — PlanetScale",
+      "summary": "Neki improves performance by reducing work in certain cases.",
+      "tags": [
+        "neki",
+        "performance",
+        "postgresql",
+        "sidecar",
+        "protobuf",
+        "router",
+        "shards",
+        "row projection"
+      ],
+      "score": 0.12057163826681787,
+      "scraped_at": "2026-10-02T08:19:17.280000+00:00"
+    }
+  ]
+}
