@@ -1,0 +1,180 @@
+{
+  "date": "2026-10-16",
+  "generated_at": "2026-10-16T09:24:22.637655+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6acca5a989bd33b2ec6b",
+      "url": "https://upstash.com/blog/serverless-database-connections",
+      "title": "Challenge of Serverless: Database Connections | Upstash Blog",
+      "summary": "Designing a database for serverless, we built an infrastructure that supports per-request pricing in a profitable way. We believe Upstash has achieved this. After launching the product, we saw that there was another major challenge: database connections. We use serverless-mysql for database connections.",
+      "tags": [
+        "async python",
+        "database",
+        "serverless",
+        "database connections",
+        "graphql api",
+        "redis protocol",
+        "upstash",
+        "serverless mysql"
+      ],
+      "score": 0.39145726576249923,
+      "scraped_at": "2026-10-12T09:17:29.369000+00:00"
+    },
+    {
+      "id": "6ac4b75620df9cfab430",
+      "url": "https://upstash.com/blog/kafka-emqx",
+      "title": "Connecting Millions of Cars using EMQX MQTT and Upstash Kafka | Upstash Blog",
+      "summary": "Connecting millions of cars to IoT systems using EMQX MQTT and Upstash Kafka",
+      "tags": [
+        "async python",
+        "kafka",
+        "emqx",
+        "iot",
+        "connected cars",
+        "mqtt",
+        "upstash"
+      ],
+      "score": 0.39066360625346874,
+      "scraped_at": "2026-10-06T08:54:45.978000+00:00"
+    },
+    {
+      "id": "6ac9f7201fcd0e33c00c",
+      "url": "https://vercel.com/customers/how-rillet-ships-3-faster-with-ai-agents-on-vercel",
+      "title": "How Rillet ships 3× faster with AI agents on Vercel | Customers | Vercel",
+      "summary": "Rillet ships 3× faster with AI agents on Vercel, tripling shipping rate in 3 months.",
+      "tags": [
+        "async python",
+        "vercel",
+        "ai agents",
+        "erp",
+        "erp platform",
+        "zero day close",
+        "accounting work",
+        "real-time general ledger"
+      ],
+      "score": 0.3459291902201404,
+      "scraped_at": "2026-10-10T08:28:15.933000+00:00"
+    },
+    {
+      "id": "6ac8aab03e8898a963ef",
+      "url": "https://upstash.com/blog/react-server-components",
+      "title": "Working with React Server Components | Upstash Blog",
+      "summary": "React Server Components are used when rendering React components on the server-side, especially in Next.js applications.",
+      "tags": [
+        "react server components",
+        "next.js",
+        "server-side rendering",
+        "jsx",
+        "javascript",
+        "react",
+        "programming",
+        "async python"
+      ],
+      "score": 0.32162015243563574,
+      "scraped_at": "2026-10-09T08:49:51.429000+00:00"
+    },
+    {
+      "id": "6ac8aa311ce61723433b",
+      "url": "https://planetscale.com/blog/tin-v106",
+      "title": "TIN v1.0.6: 2-3x faster, with support for stemming — PlanetScale",
+      "summary": "TIN v1.0.6: 2-3x faster, with support for stemming, released for all customers.",
+      "tags": [
+        "async python",
+        "tin",
+        "stemming",
+        "postgres",
+        "full-text search",
+        "tin v1.0.6",
+        "tin v1.0.4",
+        "tin full-score"
+      ],
+      "score": 0.32101471429765904,
+      "scraped_at": "2026-10-09T08:47:44.237000+00:00"
+    },
+    {
+      "id": "6ad1d21aea7ed7b9aa59",
+      "url": "https://vercel.com/blog/ai-gateway-production-index-october-2026",
+      "title": "Open weight takes 71.5% of tokens and 23% of spend - Vercel",
+      "summary": "Open-weight models process more than seven in ten gateway tokens and account for nearly one in four dollars, driven by cheaper models.",
+      "tags": [
+        "open-weight",
+        "ai-gateway",
+        "production",
+        "october-2026",
+        "vercel",
+        "gateway",
+        "tokens"
+      ],
+      "score": 0.3008993254024798,
+      "scraped_at": "2026-10-16T07:28:26.737000+00:00"
+    },
+    {
+      "id": "6ad1cee8b67dae33bbc7",
+      "url": "https://upstash.com/blog/upstash-box-vs-daytona",
+      "title": "Upstash Box vs Daytona: A Comparison of AI Agent Sandboxes | Upstash Blog",
+      "summary": "Upstash Box and Daytona are two AI agent sandbox options. Box puts the agent in a box, while Daytona gives you a machine and integration primitives.",
+      "tags": [
+        "upstash box",
+        "daytona",
+        "ai agent sandbox",
+        "sandbox",
+        "containerization",
+        "machine learning",
+        "cloud computing",
+        "python"
+      ],
+      "score": 0.2995098191111017,
+      "scraped_at": "2026-10-16T07:14:48.576000+00:00"
+    },
+    {
+      "id": "6ad1d13c83ecde68631a",
+      "url": "https://blog.cloudflare.com/author/nevi/",
+      "title": "Nevi Shah - Cloudflare Blog",
+      "summary": "Cloudflare Pages introduces several build experience improvements including build times, logging and configuration.",
+      "tags": [
+        "cloudflare",
+        "build experience",
+        "improvements",
+        "build times",
+        "logging",
+        "configuration",
+        "cloudflare pages"
+      ],
+      "score": 0.2985680617291813,
+      "scraped_at": "2026-10-16T07:24:43.938000+00:00"
+    },
+    {
+      "id": "6acf34628cd86f2d8e89",
+      "url": "https://upstash.com/blog/edge-guard",
+      "title": "Implement IP Allow/Deny List at Edge with Cloudflare Workers and Upstash Redis | Upstash Blog",
+      "summary": "Implement IP Allow/Deny List at Edge with Cloudflare Workers and Upstash Redis",
+      "tags": [
+        "cloudflare workers",
+        "upstash redis",
+        "ip allow/deny",
+        "edge computing",
+        "redis",
+        "workers"
+      ],
+      "score": 0.2555209522985284,
+      "scraped_at": "2026-10-14T07:50:58.420000+00:00"
+    },
+    {
+      "id": "6ac9f6f688a19eaf1b33",
+      "url": "https://www.tigerdata.com/blog/measuring-how-fast-iiot-queries-degrading",
+      "title": "Measuring How Fast Your IIoT Queries Are Degrading | Tiger Data",
+      "summary": "A degradation coefficient in milliseconds per million rows measures how quickly IIoT queries are degrading over time.",
+      "tags": [
+        "iiot",
+        "postgresql",
+        "performance",
+        "degradation",
+        "ms per million rows",
+        "ms"
+      ],
+      "score": 0.12842232075013557,
+      "scraped_at": "2026-10-10T08:27:33.923000+00:00"
+    }
+  ]
+}
