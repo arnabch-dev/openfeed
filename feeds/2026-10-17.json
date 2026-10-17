@@ -1,0 +1,180 @@
+{
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17T08:56:26.995534+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6ad31cc8e80a63568d44",
+      "url": "https://upstash.com/blog/context7-quality-and-safety",
+      "title": "Quality and Safety in Context7 | Upstash Blog",
+      "summary": "Context7 delivers high-quality retrieval while prioritizing safety in the retrieval process.",
+      "tags": [
+        "async python",
+        "programming",
+        "quality",
+        "safety",
+        "context7",
+        "upstash",
+        "quality and safety"
+      ],
+      "score": 0.7802530748710228,
+      "scraped_at": "2026-10-17T06:59:20.118000+00:00"
+    },
+    {
+      "id": "6ad31f7256f438e8b825",
+      "url": "https://upstash.com/blog/nuxt-redis",
+      "title": "Getting started with Nuxt 3 and Serverless Redis | Upstash Blog",
+      "summary": "Upstash provides its own HTTP/REST based Redis client and offers several npm packages to interact with Redis database. This article discusses Upstash, Redis database, and the recent beta release of Vue SSR framework, Nuxt 3.",
+      "tags": [
+        "async python",
+        "nuxt",
+        "redis",
+        "upstash",
+        "serverless",
+        "vue",
+        "ssr"
+      ],
+      "score": 0.7777852213566169,
+      "scraped_at": "2026-10-17T07:10:42.162000+00:00"
+    },
+    {
+      "id": "6ad321f154f7518a3ff6",
+      "url": "https://upstash.com/blog/author/ibrahim",
+      "title": "Ibrahim Gurses's Posts | Upstash Blog",
+      "summary": "Ibrahim Gurses's blog posts discuss AI responses and Upstash's vector technology.",
+      "tags": [
+        "ibrahim gurses",
+        "upstash blog",
+        "ai responses",
+        "upstash vector",
+        "peaka",
+        "rag pipeline",
+        "docs",
+        "customers"
+      ],
+      "score": 0.5444659915968357,
+      "scraped_at": "2026-10-17T07:21:20.450000+00:00"
+    },
+    {
+      "id": "6ad31b334a3f629b82bf",
+      "url": "https://tailscale.com/blog/self-hosted-rss-reader-freshrss",
+      "title": "It's time to make your own RSS reader",
+      "summary": "Self-hosting an RSS reader like FreshRSS allows for a personalized and information-dense reading experience.",
+      "tags": [
+        "self-hosted",
+        "rss",
+        "reader",
+        "freshrss",
+        "tailscale",
+        "eff",
+        "algorithm",
+        "rss aggregator"
+      ],
+      "score": 0.5433677339333591,
+      "scraped_at": "2026-10-17T06:52:34.848000+00:00"
+    },
+    {
+      "id": "6ad31b18e17777676a12",
+      "url": "https://www.tigerdata.com/blog/building-ingest-safety-monitor-iiot-pipeline-sql",
+      "title": "Building an Ingest Safety Monitor for Your IIoT Pipeline in SQL | Tiger Data",
+      "summary": "An industrial internet of things (IIoT) ingest pipeline can run for months without an error and then fall behind within hours of a load increase. Ingest safety is the distance between current write load and a ceiling measured by WAL volume, replica replay, dead rows, and forced checkpoints. Measure that distance every minute to get an alert.",
+      "tags": [
+        "iiot",
+        "ingest",
+        "safety",
+        "pipeline",
+        "sql",
+        "tigerdata",
+        "database",
+        "alerting"
+      ],
+      "score": 0.5418595660864447,
+      "scraped_at": "2026-10-17T06:52:08.681000+00:00"
+    },
+    {
+      "id": "6ad320ca1da2d9a7eec3",
+      "url": "https://upstash.com/blog/mcp-oauth-implementation",
+      "title": "Implementing MCP OAuth: A Technical Deep-Dive | Upstash Blog",
+      "summary": "Implementing MCP OAuth at Context7: A technical deep dive into the idealized three-party flow and its implementation.",
+      "tags": [
+        "mcp oauth",
+        "oauth",
+        "implementation",
+        "architecture",
+        "context7",
+        "clerk",
+        "oauth 2.1",
+        "resource server"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-10-17T07:16:25.917000+00:00"
+    },
+    {
+      "id": "6ad31e9d2b8b636b85af",
+      "url": "https://blog.cloudflare.com/ai-model-overuse-user-insights/",
+      "title": "Identify AI model overuse with User Insights | Cloudflare Blog",
+      "summary": "Cloudflare's AI Gateway User Insights provides user-level data on AI model usage, helping teams identify where AI models are overkill.",
+      "tags": [
+        "ai model overuse",
+        "user insights",
+        "cloudflare",
+        "ai gateway",
+        "user-level data",
+        "ai model usage",
+        "team management",
+        "overkill detection"
+      ],
+      "score": 0.2988536613370146,
+      "scraped_at": "2026-10-17T07:07:08.934000+00:00"
+    },
+    {
+      "id": "6ad31c052cc3718ecc3e",
+      "url": "https://blog.cloudflare.com/faster-agent-sandboxes/",
+      "title": "Cloudflare Containers, rebuilt to scale agent sandboxes | Cloudflare Blog",
+      "summary": "Cloudflare Containers rebuilt to scale agent sandboxes, with a new scheduling policy and redesigned runtime.",
+      "tags": [
+        "cloudflare containers",
+        "agent sandboxes",
+        "scheduling policy",
+        "runtime",
+        "containers",
+        "cloudflare",
+        "durable object",
+        "application code control"
+      ],
+      "score": 0.2988536613370146,
+      "scraped_at": "2026-10-17T06:56:04.708000+00:00"
+    },
+    {
+      "id": "6ad31f95d03d67af52a1",
+      "url": "https://vercel.com/blog/vercel-and-shopify-make-agents-first-class-shoppers",
+      "title": "Vercel and Shopify make agents first-class shoppers - Vercel",
+      "summary": "Vercel Shop is a Next.js and Shopify-based platform for building custom ecommerce experiences for agents.",
+      "tags": [
+        "vercel shop",
+        "shopify",
+        "agent commerce",
+        "nextjs",
+        "vercel",
+        "shopify shopify"
+      ],
+      "score": 0.2979665593359565,
+      "scraped_at": "2026-10-17T07:11:17.633000+00:00"
+    },
+    {
+      "id": "6ad07fec9d2653121cd1",
+      "url": "https://planetscale.com/blog/neki-volatile-expressions",
+      "title": "Sequences and other volatiles in Neki — PlanetScale",
+      "summary": "Neki's architecture discusses implementing Postgres sequences in sharded Postgres. The focus is on pathological cases where centralized control is required.",
+      "tags": [
+        "neki",
+        "sequences",
+        "postgres",
+        "sharded",
+        "architecture"
+      ],
+      "score": 0.2572448491856286,
+      "scraped_at": "2026-10-15T07:25:31.813000+00:00"
+    }
+  ]
+}
