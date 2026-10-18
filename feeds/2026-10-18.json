@@ -1,0 +1,178 @@
+{
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18T09:14:14.377263+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6acf31d77dd306a5b005",
+      "url": "https://upstash.com/blog/nestjs-redis-url-shortener",
+      "title": "Let's build our own URL Shortener with NestJS and Redis | Upstash Blog",
+      "summary": "A tutorial on building a URL shortener using NestJS and Redis to streamline URL sharing.",
+      "tags": [
+        "url shortener",
+        "nestjs",
+        "redis",
+        "upstash",
+        "tinyurl",
+        "url shortening",
+        "nosejs",
+        "async python"
+      ],
+      "score": 0.5931363380962127,
+      "scraped_at": "2026-10-14T07:40:06.898000+00:00"
+    },
+    {
+      "id": "6ad4749a3e7929076e66",
+      "url": "https://blog.cloudflare.com/cloudflare-basin/",
+      "title": "Introducing Cloudflare Basin: an open, serverless data platform, now generally available | Cloudflare Blog",
+      "summary": "Cloudflare Basin, a serverless data platform, is now generally available. Basin is a suite of products that ingest, store, and query analytical data.",
+      "tags": [
+        "cloudflare",
+        "basin",
+        "data platform",
+        "serverless",
+        "analytics",
+        "database",
+        "sql",
+        "iceberg"
+      ],
+      "score": 0.5385203857002854,
+      "scraped_at": "2026-10-18T07:26:17.441000+00:00"
+    },
+    {
+      "id": "6acb4d95b0baeb666e8b",
+      "url": "https://upstash.com/blog/chalice-event-reminder-slackbot",
+      "title": "Serverless Birthday Slackbot with AWS Chalice and Upstash Redis | Upstash Blog",
+      "summary": "A serverless birthday Slackbot built with AWS Chalice and Upstash Redis, using Python and async Python.",
+      "tags": [
+        "async python",
+        "serverless",
+        "slackbot",
+        "aws chalice",
+        "upstash redis",
+        "python",
+        "serverless python"
+      ],
+      "score": 0.48109070507650087,
+      "scraped_at": "2026-10-11T08:49:24.751000+00:00"
+    },
+    {
+      "id": "6ac4bc895207bfe184c1",
+      "url": "https://upstash.com/blog/indexing-wikipedia",
+      "title": "Indexing Millions of Wikipedia Articles With Upstash Vector | Upstash Blog",
+      "summary": "Upstash Vector enables scalable similarity searches across millions of vectors, including Wikipedia embeddings, with features like namespaces and metadata filtering.",
+      "tags": [
+        "async python",
+        "wikipedia",
+        "vector database",
+        "similarity searches",
+        "namespaces",
+        "metadata filtering",
+        "embedding models",
+        "wikipedia semantic search"
+      ],
+      "score": 0.36738174041761795,
+      "scraped_at": "2026-10-06T09:16:57.181000+00:00"
+    },
+    {
+      "id": "6ac604d21a30b092d77b",
+      "url": "https://planetscale.com/blog/introducing-postgres-dedicated-read-replicas",
+      "title": "Introducing Dedicated Read Replicas for Postgres — PlanetScale",
+      "summary": "Dedicated read replicas for Postgres available on PlanetScale, enabling full control over creation, sizing, and connection.",
+      "tags": [
+        "postgres",
+        "dedicated read replicas",
+        "planetscale",
+        "async python",
+        "database scaling",
+        "read replicas",
+        "cloud database"
+      ],
+      "score": 0.36283428885003866,
+      "scraped_at": "2026-10-07T08:37:36.486000+00:00"
+    },
+    {
+      "id": "6ad472200bc065779867",
+      "url": "https://upstash.com/blog/groq-llama3-vercel-ai",
+      "title": "Trying Llama3 on Groq with Vercel AI | Upstash Blog",
+      "summary": "Trying Llama3 on Groq with Vercel AI to see if Groq is really as fast as advertised.",
+      "tags": [
+        "groq",
+        "vercel ai",
+        "llama3",
+        "ai",
+        "chat",
+        "application"
+      ],
+      "score": 0.30070806953282087,
+      "scraped_at": "2026-10-18T07:15:43.888000+00:00"
+    },
+    {
+      "id": "6ad475f588d6dfeecb0d",
+      "url": "https://upstash.com/blog/aws-msk-confluent-serverless",
+      "title": "AWS MSK and Confluent. Are they really Serverless? | Upstash Blog",
+      "summary": "AWS MSK (Serverless) is a managed Kafka service provided by AWS, with a pricing model that scales to zero. Confluent's Serverless service has a similar pricing model, but with a lower cluster-per-hour cost.",
+      "tags": [
+        "aws msk",
+        "confluent",
+        "serverless",
+        "kafka",
+        "aws",
+        "msk"
+      ],
+      "score": 0.297349570190317,
+      "scraped_at": "2026-10-18T07:32:05.369000+00:00"
+    },
+    {
+      "id": "6ad07f24bc308319d574",
+      "url": "https://vercel.com/blog/findings-from-the-1-million-dollar-vercel-sandbox-challenge",
+      "title": "Findings from the $1M Vercel Sandbox challenge - Vercel",
+      "summary": "Vercel Sandbox challenge: hacker finds $1M bug in production sandboxes, but no customer data accessed.",
+      "tags": [
+        "vercel",
+        "sandbox",
+        "challenge",
+        "hacker",
+        "bug",
+        "production",
+        "linux"
+      ],
+      "score": 0.29401068681858467,
+      "scraped_at": "2026-10-15T07:22:11.871000+00:00"
+    },
+    {
+      "id": "6ad31d06b52c0a7779d9",
+      "url": "https://vercel.com/blog/backends-on-vercel-python-containers-and-daemons",
+      "title": "Backends on Vercel: Python, containers, and Daemons - Vercel",
+      "summary": "Vercel now supports Python backend workloads, expanding existing applications. Python on Vercel is available.",
+      "tags": [
+        "python",
+        "backend",
+        "vercel",
+        "vercel blog",
+        "python on vercel",
+        "vercel daemons",
+        "vercel container runtime",
+        "vercel services"
+      ],
+      "score": 0.28088283375884565,
+      "scraped_at": "2026-10-17T07:00:22.547000+00:00"
+    },
+    {
+      "id": "6ac9f6f688a19eaf1b33",
+      "url": "https://www.tigerdata.com/blog/measuring-how-fast-iiot-queries-degrading",
+      "title": "Measuring How Fast Your IIoT Queries Are Degrading | Tiger Data",
+      "summary": "A degradation coefficient in milliseconds per million rows measures how quickly IIoT queries are degrading over time.",
+      "tags": [
+        "iiot",
+        "postgresql",
+        "performance",
+        "degradation",
+        "ms per million rows",
+        "ms"
+      ],
+      "score": 0.05589906183441302,
+      "scraped_at": "2026-10-10T08:27:33.923000+00:00"
+    }
+  ]
+}
