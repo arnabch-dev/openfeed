@@ -1,0 +1,175 @@
+{
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T10:24:24.336238+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6ad0837e7de5bed48824",
+      "url": "https://upstash.com/blog/next-chatapp-with-kafka",
+      "title": "Building a Chat Application using Upstash Kafka, Redis and Next.js | Upstash Blog",
+      "summary": "Building a chat application using Upstash Kafka, Redis and Next.js",
+      "tags": [
+        "async python",
+        "kafka",
+        "redis",
+        "next.js",
+        "chat application",
+        "upstash"
+      ],
+      "score": 0.5887529085935639,
+      "scraped_at": "2026-10-15T07:40:46.359000+00:00"
+    },
+    {
+      "id": "6acca5a989bd33b2ec6b",
+      "url": "https://upstash.com/blog/serverless-database-connections",
+      "title": "Challenge of Serverless: Database Connections | Upstash Blog",
+      "summary": "Designing a database for serverless, we built an infrastructure that supports per-request pricing in a profitable way. We believe Upstash has achieved this. After launching the product, we saw that there was another major challenge: database connections. We use serverless-mysql for database connections.",
+      "tags": [
+        "async python",
+        "database",
+        "serverless",
+        "database connections",
+        "graphql api",
+        "redis protocol",
+        "upstash",
+        "serverless mysql"
+      ],
+      "score": 0.4769431532799748,
+      "scraped_at": "2026-10-12T09:17:29.369000+00:00"
+    },
+    {
+      "id": "6ad31cc8e80a63568d44",
+      "url": "https://upstash.com/blog/context7-quality-and-safety",
+      "title": "Quality and Safety in Context7 | Upstash Blog",
+      "summary": "Context7 delivers high-quality retrieval while prioritizing safety in the retrieval process.",
+      "tags": [
+        "async python",
+        "programming",
+        "quality",
+        "safety",
+        "context7",
+        "upstash",
+        "quality and safety"
+      ],
+      "score": 0.45283316922833455,
+      "scraped_at": "2026-10-17T06:59:20.118000+00:00"
+    },
+    {
+      "id": "6ac9f7201fcd0e33c00c",
+      "url": "https://vercel.com/customers/how-rillet-ships-3-faster-with-ai-agents-on-vercel",
+      "title": "How Rillet ships 3× faster with AI agents on Vercel | Customers | Vercel",
+      "summary": "Rillet ships 3× faster with AI agents on Vercel, tripling shipping rate in 3 months.",
+      "tags": [
+        "async python",
+        "vercel",
+        "ai agents",
+        "erp",
+        "erp platform",
+        "zero day close",
+        "accounting work",
+        "real-time general ledger"
+      ],
+      "score": 0.4214727205888216,
+      "scraped_at": "2026-10-10T08:28:15.933000+00:00"
+    },
+    {
+      "id": "6ac8aa311ce61723433b",
+      "url": "https://planetscale.com/blog/tin-v106",
+      "title": "TIN v1.0.6: 2-3x faster, with support for stemming — PlanetScale",
+      "summary": "TIN v1.0.6: 2-3x faster, with support for stemming, released for all customers.",
+      "tags": [
+        "async python",
+        "tin",
+        "stemming",
+        "postgres",
+        "full-text search",
+        "tin v1.0.6",
+        "tin v1.0.4",
+        "tin full-score"
+      ],
+      "score": 0.3911174564308288,
+      "scraped_at": "2026-10-09T08:47:44.237000+00:00"
+    },
+    {
+      "id": "6ad5cc25d4010ff6856e",
+      "url": "https://upstash.com/blog/how-to-self-host-redis-in-2026",
+      "title": "How to Self-Host Redis in 2026: Install, Secure, and Keep It Running | Upstash Blog",
+      "summary": "Self-hosting Redis on a small VPS, with a focus on security and ease of use. Installing, securing, and running Redis 8 on your own server.",
+      "tags": [
+        "self-hosting",
+        "redis",
+        "security",
+        "easy",
+        "small",
+        "vps",
+        "apt",
+        "redis.conf"
+      ],
+      "score": 0.29892494089688704,
+      "scraped_at": "2026-10-19T07:52:05.475000+00:00"
+    },
+    {
+      "id": "6ad5c93555352815a80a",
+      "url": "https://blog.cloudflare.com/author/smrithi-ramesh/",
+      "title": "Smrithi Ramesh - Cloudflare Blog",
+      "summary": "Cloudflare celebrates United Nations Micro, Small, and Medium Sized Enterprises Day with success stories of small businesses on its platform.",
+      "tags": [
+        "micro enterprises",
+        "small businesses",
+        "cloudflare",
+        "united nations",
+        "micro small medium sized enterprises day"
+      ],
+      "score": 0.29765414298411486,
+      "scraped_at": "2026-10-19T07:39:32.680000+00:00"
+    },
+    {
+      "id": "6ad5ca9955975046c5e5",
+      "url": "https://blog.cloudflare.com/cloudflare-k2-streams/",
+      "title": "Announcing Cloudflare K2: serverless event streams | Cloudflare Blog",
+      "summary": "Cloudflare K2 is a serverless event streaming primitive on the Developer Platform, allowing for durable and scalable event storage and consumption.",
+      "tags": [
+        "cloudflare",
+        "k2",
+        "event streaming",
+        "serverless",
+        "event streams",
+        "cloudflare blog",
+        "developer platform"
+      ],
+      "score": 0.2961840370460053,
+      "scraped_at": "2026-10-19T07:45:28.600000+00:00"
+    },
+    {
+      "id": "6ad475be1dcb2d2ce381",
+      "url": "https://blog.cloudflare.com/author/carly/",
+      "title": "Carly Ramsey - Cloudflare Blog",
+      "summary": "Carly Ramsey is the author of Cloudflare blog.",
+      "tags": [
+        "cloudflare",
+        "carly ramsey",
+        "author"
+      ],
+      "score": 0.2757314640100879,
+      "scraped_at": "2026-10-18T07:31:09.914000+00:00"
+    },
+    {
+      "id": "6abf6905d827034cb964",
+      "url": "https://planetscale.com/blog/designing-neki-for-performance",
+      "title": "Designing Neki for performance — PlanetScale",
+      "summary": "Neki improves performance by reducing work in certain cases.",
+      "tags": [
+        "neki",
+        "performance",
+        "postgresql",
+        "sidecar",
+        "protobuf",
+        "router",
+        "shards",
+        "row projection"
+      ],
+      "score": 0.09137621478615747,
+      "scraped_at": "2026-10-02T08:19:17.280000+00:00"
+    }
+  ]
+}
