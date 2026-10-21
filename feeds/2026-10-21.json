@@ -1,0 +1,177 @@
+{
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T09:45:13.897869+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6ad86b1fb8ffd6c397ee",
+      "url": "https://www.tigerdata.com/blog/introducing-searchgres-js-composable-search-postgresql",
+      "title": "Introducing searchgres.js: Composable Search in PostgreSQL | Tiger Data",
+      "summary": "searchgres.js is a composable search solution for PostgreSQL, providing a simple and efficient way to manage search queries.",
+      "tags": [
+        "postgresql",
+        "searchgres",
+        "timescale",
+        "tigerdata",
+        "data",
+        "searchengine",
+        "database"
+      ],
+      "score": 0.5384383660316585,
+      "scraped_at": "2026-10-21T07:34:55.522000+00:00"
+    },
+    {
+      "id": "6acf31d77dd306a5b005",
+      "url": "https://upstash.com/blog/nestjs-redis-url-shortener",
+      "title": "Let's build our own URL Shortener with NestJS and Redis | Upstash Blog",
+      "summary": "A tutorial on building a URL shortener using NestJS and Redis to streamline URL sharing.",
+      "tags": [
+        "url shortener",
+        "nestjs",
+        "redis",
+        "upstash",
+        "tinyurl",
+        "url shortening",
+        "nosejs",
+        "async python"
+      ],
+      "score": 0.48177641198461113,
+      "scraped_at": "2026-10-14T07:40:06.898000+00:00"
+    },
+    {
+      "id": "6ad31b334a3f629b82bf",
+      "url": "https://tailscale.com/blog/self-hosted-rss-reader-freshrss",
+      "title": "It's time to make your own RSS reader",
+      "summary": "Self-hosting an RSS reader like FreshRSS allows for a personalized and information-dense reading experience.",
+      "tags": [
+        "self-hosted",
+        "rss",
+        "reader",
+        "freshrss",
+        "tailscale",
+        "eff",
+        "algorithm",
+        "rss aggregator"
+      ],
+      "score": 0.4117957380150033,
+      "scraped_at": "2026-10-17T06:52:34.848000+00:00"
+    },
+    {
+      "id": "6acb4d95b0baeb666e8b",
+      "url": "https://upstash.com/blog/chalice-event-reminder-slackbot",
+      "title": "Serverless Birthday Slackbot with AWS Chalice and Upstash Redis | Upstash Blog",
+      "summary": "A serverless birthday Slackbot built with AWS Chalice and Upstash Redis, using Python and async Python.",
+      "tags": [
+        "async python",
+        "serverless",
+        "slackbot",
+        "aws chalice",
+        "upstash redis",
+        "python",
+        "serverless python"
+      ],
+      "score": 0.3907670780630988,
+      "scraped_at": "2026-10-11T08:49:24.751000+00:00"
+    },
+    {
+      "id": "6ac8aab03e8898a963ef",
+      "url": "https://upstash.com/blog/react-server-components",
+      "title": "Working with React Server Components | Upstash Blog",
+      "summary": "React Server Components are used when rendering React components on the server-side, especially in Next.js applications.",
+      "tags": [
+        "react server components",
+        "next.js",
+        "server-side rendering",
+        "jsx",
+        "javascript",
+        "react",
+        "programming",
+        "async python"
+      ],
+      "score": 0.3411296861302337,
+      "scraped_at": "2026-10-09T08:49:51.429000+00:00"
+    },
+    {
+      "id": "6ad86a0481d0bbb86671",
+      "url": "https://vercel.com/blog/making-every-harness-durable",
+      "title": "Making every harness durable - Vercel",
+      "summary": "Make your own durable harness for Vercel",
+      "tags": [
+        "vercel",
+        "harness",
+        "durable",
+        "local",
+        "workflow",
+        "make",
+        "your"
+      ],
+      "score": 0.3008993254024798,
+      "scraped_at": "2026-10-21T07:30:12.362000+00:00"
+    },
+    {
+      "id": "6ad86a93a80a6ba1fa5d",
+      "url": "https://upstash.com/blog/ship-full-stack-app-stripe-projects",
+      "title": "From Prompt to Production: Build a Full-Stack App With Stripe Projects | Upstash Blog",
+      "summary": "Stripe projects is a tool for building full-stack apps with Stripe services.",
+      "tags": [
+        "stripe",
+        "projects",
+        "full-stack",
+        "app",
+        "init"
+      ],
+      "score": 0.29924454996372835,
+      "scraped_at": "2026-10-21T07:32:35.530000+00:00"
+    },
+    {
+      "id": "6ad86822aa621f1e26cb",
+      "url": "https://www.tigerdata.com/blog/author/john",
+      "title": "John Pruitt - Blog | Tiger Data",
+      "summary": "John Pruitt discusses blog posts on Tiger Data, including documentation, privacy policy, and company updates.",
+      "tags": [
+        "tiger data",
+        "john pruitt",
+        "docs",
+        "timescaledb updates"
+      ],
+      "score": 0.2984857715465246,
+      "scraped_at": "2026-10-21T07:22:10.546000+00:00"
+    },
+    {
+      "id": "6ad8690eb079d65df4bc",
+      "url": "https://blog.cloudflare.com/author/alex-reneau/",
+      "title": "Alex Reneau - Cloudflare Blog",
+      "summary": "Cloudflare invests in AI with new team members.",
+      "tags": [
+        "cloudflare",
+        "ai",
+        "investment",
+        "team members",
+        "ensemble ai",
+        "machine learning",
+        "infrastructure",
+        "efficiency"
+      ],
+      "score": 0.29794531238641464,
+      "scraped_at": "2026-10-21T07:26:06.568000+00:00"
+    },
+    {
+      "id": "6ad8687522c4798ecc71",
+      "url": "https://planetscale.com/blog/neki-updates-and-preparing-for-production",
+      "title": "Neki update: $50 Metal, read-only replicas, Azure, and more — PlanetScale",
+      "summary": "Neki now supports read-only replicas and smaller Metal instances at $50/month, starting with Postgres shards.",
+      "tags": [
+        "neki",
+        "read-only replicas",
+        "metal",
+        "postgres",
+        "planetscale",
+        "azure",
+        "aws",
+        "google cloud"
+      ],
+      "score": 0.2969541581658139,
+      "scraped_at": "2026-10-21T07:23:32.998000+00:00"
+    }
+  ]
+}
