@@ -1,0 +1,176 @@
+{
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T09:44:30.239032+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6ad86e6a4ac86300f8f4",
+      "url": "https://upstash.com/blog/redis-database-for-agents",
+      "title": "Free Redis databases for AI agents, in one HTTP request | Upstash Blog",
+      "summary": "Easy Redis database for AI agents",
+      "tags": [
+        "redis",
+        "ai",
+        "upstash",
+        "http request",
+        "agent",
+        "database",
+        "ai agent",
+        "redis database"
+      ],
+      "score": 0.5008050864142669,
+      "scraped_at": "2026-10-21T07:48:57.627000+00:00"
+    },
+    {
+      "id": "6ad719dc9c48fe4fa9b9",
+      "url": "https://upstash.com/blog/kafka-tinybird-vercel-edge",
+      "title": "Serverless Realtime Analytics for Next.js with Vercel Edge, Upstash Kafka and Tinybird | Upstash Blog",
+      "summary": "Upstash Kafka is a serverless Kafka offering that can be accessed from Edge functions (Vercel Edge, Cloudflare Workers, Fastly) via its built-in REST API. Vercel Edge intercepts requests to Next.js application, sending traffic events to Upstash Kafka for real-time analytics.",
+      "tags": [
+        "async python",
+        "kafka",
+        "tinybird",
+        "vercel edge",
+        "upstash kafka",
+        "next.js",
+        "real-time analytics",
+        "serverless"
+      ],
+      "score": 0.4558283875458022,
+      "scraped_at": "2026-10-20T07:35:56.449000+00:00"
+    },
+    {
+      "id": "6ad4749a3e7929076e66",
+      "url": "https://blog.cloudflare.com/cloudflare-basin/",
+      "title": "Introducing Cloudflare Basin: an open, serverless data platform, now generally available | Cloudflare Blog",
+      "summary": "Cloudflare Basin, a serverless data platform, is now generally available. Basin is a suite of products that ingest, store, and query analytical data.",
+      "tags": [
+        "cloudflare",
+        "basin",
+        "data platform",
+        "serverless",
+        "analytics",
+        "database",
+        "sql",
+        "iceberg"
+      ],
+      "score": 0.40812213500474587,
+      "scraped_at": "2026-10-18T07:26:17.441000+00:00"
+    },
+    {
+      "id": "6ad31cc8e80a63568d44",
+      "url": "https://upstash.com/blog/context7-quality-and-safety",
+      "title": "Quality and Safety in Context7 | Upstash Blog",
+      "summary": "Context7 delivers high-quality retrieval while prioritizing safety in the retrieval process.",
+      "tags": [
+        "async python",
+        "programming",
+        "quality",
+        "safety",
+        "context7",
+        "upstash",
+        "quality and safety"
+      ],
+      "score": 0.3678148268553035,
+      "scraped_at": "2026-10-17T06:59:20.118000+00:00"
+    },
+    {
+      "id": "6ad31f7256f438e8b825",
+      "url": "https://upstash.com/blog/nuxt-redis",
+      "title": "Getting started with Nuxt 3 and Serverless Redis | Upstash Blog",
+      "summary": "Upstash provides its own HTTP/REST based Redis client and offers several npm packages to interact with Redis database. This article discusses Upstash, Redis database, and the recent beta release of Vue SSR framework, Nuxt 3.",
+      "tags": [
+        "async python",
+        "nuxt",
+        "redis",
+        "upstash",
+        "serverless",
+        "vue",
+        "ssr"
+      ],
+      "score": 0.3666514695519625,
+      "scraped_at": "2026-10-17T07:10:42.162000+00:00"
+    },
+    {
+      "id": "6ad8699ed9c2112ae714",
+      "url": "https://shopify.engineering/open-model-task-experts",
+      "title": "How Shopify turns open models into task experts (2026) - Shopify",
+      "summary": "Shopify's AI commerce assistant uses open models to automate tasks, handing off work to subagents that specialize in specific tasks.",
+      "tags": [
+        "shopify",
+        "ai",
+        "commerce",
+        "open models",
+        "task experts",
+        "subagents",
+        "nvidia nemotron",
+        "lightning"
+      ],
+      "score": 0.27961573745081486,
+      "scraped_at": "2026-10-21T07:28:30.580000+00:00"
+    },
+    {
+      "id": "6ad86e3f29d84191c653",
+      "url": "https://blog.cloudflare.com/author/thibault/",
+      "title": "Thibault Meunier - Cloudflare Blog",
+      "summary": "Cloudflare explains Web3 in the context of web evolution and how it might support it.",
+      "tags": [
+        "web3",
+        "cloudflare",
+        "life-at-cloudflare",
+        "web-evolution"
+      ],
+      "score": 0.27697500867365377,
+      "scraped_at": "2026-10-21T07:48:14.486000+00:00"
+    },
+    {
+      "id": "6ad7188f5f56809fb087",
+      "url": "https://upstash.com/blog/dify-ai-assistant",
+      "title": "Build an AI Assistant with Dify and Upstash | Upstash Blog",
+      "summary": "Build an AI assistant with Dify and Upstash",
+      "tags": [
+        "dify ai",
+        "upstash",
+        "ai assistant",
+        "chatbot",
+        "visual ai",
+        "open-source",
+        "business logic",
+        "file contents"
+      ],
+      "score": 0.2591804995791266,
+      "scraped_at": "2026-10-20T07:30:23.217000+00:00"
+    },
+    {
+      "id": "6ad07fec9d2653121cd1",
+      "url": "https://planetscale.com/blog/neki-volatile-expressions",
+      "title": "Sequences and other volatiles in Neki — PlanetScale",
+      "summary": "Neki's architecture discusses implementing Postgres sequences in sharded Postgres. The focus is on pathological cases where centralized control is required.",
+      "tags": [
+        "neki",
+        "sequences",
+        "postgres",
+        "sharded",
+        "architecture"
+      ],
+      "score": 0.1818995772844687,
+      "scraped_at": "2026-10-15T07:25:31.813000+00:00"
+    },
+    {
+      "id": "6ac9f6f688a19eaf1b33",
+      "url": "https://www.tigerdata.com/blog/measuring-how-fast-iiot-queries-degrading",
+      "title": "Measuring How Fast Your IIoT Queries Are Degrading | Tiger Data",
+      "summary": "A degradation coefficient in milliseconds per million rows measures how quickly IIoT queries are degrading over time.",
+      "tags": [
+        "iiot",
+        "postgresql",
+        "performance",
+        "degradation",
+        "ms per million rows",
+        "ms"
+      ],
+      "score": 0.1270907011122134,
+      "scraped_at": "2026-10-10T08:27:33.923000+00:00"
+    }
+  ]
+}
