@@ -1,0 +1,180 @@
+{
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T09:40:46.615243+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6ad0837e7de5bed48824",
+      "url": "https://upstash.com/blog/next-chatapp-with-kafka",
+      "title": "Building a Chat Application using Upstash Kafka, Redis and Next.js | Upstash Blog",
+      "summary": "Building a chat application using Upstash Kafka, Redis and Next.js",
+      "tags": [
+        "async python",
+        "kafka",
+        "redis",
+        "next.js",
+        "chat application",
+        "upstash"
+      ],
+      "score": 0.4461912685682234,
+      "scraped_at": "2026-10-15T07:40:46.359000+00:00"
+    },
+    {
+      "id": "6acca5a989bd33b2ec6b",
+      "url": "https://upstash.com/blog/serverless-database-connections",
+      "title": "Challenge of Serverless: Database Connections | Upstash Blog",
+      "summary": "Designing a database for serverless, we built an infrastructure that supports per-request pricing in a profitable way. We believe Upstash has achieved this. After launching the product, we saw that there was another major challenge: database connections. We use serverless-mysql for database connections.",
+      "tags": [
+        "async python",
+        "database",
+        "serverless",
+        "database connections",
+        "graphql api",
+        "redis protocol",
+        "upstash",
+        "serverless mysql"
+      ],
+      "score": 0.3614553193550829,
+      "scraped_at": "2026-10-12T09:17:29.369000+00:00"
+    },
+    {
+      "id": "6ac9f7201fcd0e33c00c",
+      "url": "https://vercel.com/customers/how-rillet-ships-3-faster-with-ai-agents-on-vercel",
+      "title": "How Rillet ships 3× faster with AI agents on Vercel | Customers | Vercel",
+      "summary": "Rillet ships 3× faster with AI agents on Vercel, tripling shipping rate in 3 months.",
+      "tags": [
+        "async python",
+        "vercel",
+        "ai agents",
+        "erp",
+        "erp platform",
+        "zero day close",
+        "accounting work",
+        "real-time general ledger"
+      ],
+      "score": 0.31941659246434256,
+      "scraped_at": "2026-10-10T08:28:15.933000+00:00"
+    },
+    {
+      "id": "6ac8aa311ce61723433b",
+      "url": "https://planetscale.com/blog/tin-v106",
+      "title": "TIN v1.0.6: 2-3x faster, with support for stemming — PlanetScale",
+      "summary": "TIN v1.0.6: 2-3x faster, with support for stemming, released for all customers.",
+      "tags": [
+        "async python",
+        "tin",
+        "stemming",
+        "postgres",
+        "full-text search",
+        "tin v1.0.6",
+        "tin v1.0.4",
+        "tin full-score"
+      ],
+      "score": 0.29641160408180806,
+      "scraped_at": "2026-10-09T08:47:44.237000+00:00"
+    },
+    {
+      "id": "6ad717f6114ffc16a63b",
+      "url": "https://tailscale.com/blog/magicroute-beta",
+      "title": "MagicRoute beta: A smarter way to route traffic to overlapping connectors",
+      "summary": "MagicRoute is a new way to select the best available backend for multiple Tailscale connections, using signals like location to find the best subnet routers and app connectors.",
+      "tags": [
+        "magicroute",
+        "tailscale",
+        "backend",
+        "routing",
+        "subnet",
+        "routers",
+        "connectors",
+        "optimization"
+      ],
+      "score": 0.29428548613810235,
+      "scraped_at": "2026-10-20T07:27:49.903000+00:00"
+    },
+    {
+      "id": "6ad8691babe8ecee7d47",
+      "url": "https://upstash.com/blog/tanstack-ai-and-upstash",
+      "title": "TanStack AI Powered by Upstash | Upstash Blog",
+      "summary": "TanStack AI and Upstash integration for building real-world features",
+      "tags": [
+        "tanstack ai",
+        "upstash",
+        "ai",
+        "integration",
+        "features",
+        "building",
+        "real-world",
+        "knowledge base"
+      ],
+      "score": 0.25938064194016874,
+      "scraped_at": "2026-10-21T07:26:19.514000+00:00"
+    },
+    {
+      "id": "6ad718af4e18e9b18fe0",
+      "url": "https://blog.cloudflare.com/workers-kv-instant/",
+      "title": "Introducing Workers KV Instant — powered by Quicksilver | Cloudflare Blog",
+      "summary": "Workers KV Instant is a new mode for Workers KV that pushes changes globally for instant availability without cold read penalties.",
+      "tags": [
+        "workers kv instant",
+        "cloudflare",
+        "kv",
+        "instant",
+        "availability",
+        "cold read",
+        "read-heavy",
+        "small data workloads"
+      ],
+      "score": 0.24185254016184946,
+      "scraped_at": "2026-10-20T07:30:54.841000+00:00"
+    },
+    {
+      "id": "6ad7176f4fcc78bede53",
+      "url": "https://shopify.engineering/overexposed",
+      "title": "Building Overexposed: understanding application exposure (2026) - Shopify",
+      "summary": "Discovering and assessing internet exposure of applications requires a structured approach.",
+      "tags": [
+        "application",
+        "exposure",
+        "internet",
+        "security",
+        "programming",
+        "development",
+        "tools",
+        "api"
+      ],
+      "score": 0.24179239164519492,
+      "scraped_at": "2026-10-20T07:25:34.488000+00:00"
+    },
+    {
+      "id": "6ad5cc25d4010ff6856e",
+      "url": "https://upstash.com/blog/how-to-self-host-redis-in-2026",
+      "title": "How to Self-Host Redis in 2026: Install, Secure, and Keep It Running | Upstash Blog",
+      "summary": "Self-hosting Redis on a small VPS, with a focus on security and ease of use. Installing, securing, and running Redis 8 on your own server.",
+      "tags": [
+        "self-hosting",
+        "redis",
+        "security",
+        "easy",
+        "small",
+        "vps",
+        "apt",
+        "redis.conf"
+      ],
+      "score": 0.22654274253027665,
+      "scraped_at": "2026-10-19T07:52:05.475000+00:00"
+    },
+    {
+      "id": "6ad475be1dcb2d2ce381",
+      "url": "https://blog.cloudflare.com/author/carly/",
+      "title": "Carly Ramsey - Cloudflare Blog",
+      "summary": "Carly Ramsey is the author of Cloudflare blog.",
+      "tags": [
+        "cloudflare",
+        "carly ramsey",
+        "author"
+      ],
+      "score": 0.20896537395412795,
+      "scraped_at": "2026-10-18T07:31:09.914000+00:00"
+    }
+  ]
+}
