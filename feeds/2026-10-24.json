@@ -1,0 +1,183 @@
+{
+  "date": "2026-10-24",
+  "generated_at": "2026-10-24T09:13:10.865117+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6ad321f154f7518a3ff6",
+      "url": "https://upstash.com/blog/author/ibrahim",
+      "title": "Ibrahim Gurses's Posts | Upstash Blog",
+      "summary": "Ibrahim Gurses's blog posts discuss AI responses and Upstash's vector technology.",
+      "tags": [
+        "ibrahim gurses",
+        "upstash blog",
+        "ai responses",
+        "upstash vector",
+        "peaka",
+        "rag pipeline",
+        "docs",
+        "customers"
+      ],
+      "score": 0.33515813190537225,
+      "scraped_at": "2026-10-17T07:21:20.450000+00:00"
+    },
+    {
+      "id": "6ad31b18e17777676a12",
+      "url": "https://www.tigerdata.com/blog/building-ingest-safety-monitor-iiot-pipeline-sql",
+      "title": "Building an Ingest Safety Monitor for Your IIoT Pipeline in SQL | Tiger Data",
+      "summary": "An industrial internet of things (IIoT) ingest pipeline can run for months without an error and then fall behind within hours of a load increase. Ingest safety is the distance between current write load and a ceiling measured by WAL volume, replica replay, dead rows, and forced checkpoints. Measure that distance every minute to get an alert.",
+      "tags": [
+        "iiot",
+        "ingest",
+        "safety",
+        "pipeline",
+        "sql",
+        "tigerdata",
+        "database",
+        "alerting"
+      ],
+      "score": 0.33355368880241343,
+      "scraped_at": "2026-10-17T06:52:08.681000+00:00"
+    },
+    {
+      "id": "6ad07f24bc308319d574",
+      "url": "https://vercel.com/blog/findings-from-the-1-million-dollar-vercel-sandbox-challenge",
+      "title": "Findings from the $1M Vercel Sandbox challenge - Vercel",
+      "summary": "Vercel Sandbox challenge: hacker finds $1M bug in production sandboxes, but no customer data accessed.",
+      "tags": [
+        "vercel",
+        "sandbox",
+        "challenge",
+        "hacker",
+        "bug",
+        "production",
+        "linux"
+      ],
+      "score": 0.29096207033167076,
+      "scraped_at": "2026-10-15T07:22:11.871000+00:00"
+    },
+    {
+      "id": "6acf31d77dd306a5b005",
+      "url": "https://upstash.com/blog/nestjs-redis-url-shortener",
+      "title": "Let's build our own URL Shortener with NestJS and Redis | Upstash Blog",
+      "summary": "A tutorial on building a URL shortener using NestJS and Redis to streamline URL sharing.",
+      "tags": [
+        "url shortener",
+        "nestjs",
+        "redis",
+        "upstash",
+        "tinyurl",
+        "url shortening",
+        "nosejs",
+        "async python"
+      ],
+      "score": 0.26088269676160625,
+      "scraped_at": "2026-10-14T07:40:06.898000+00:00"
+    },
+    {
+      "id": "6ac4bc895207bfe184c1",
+      "url": "https://upstash.com/blog/indexing-wikipedia",
+      "title": "Indexing Millions of Wikipedia Articles With Upstash Vector | Upstash Blog",
+      "summary": "Upstash Vector enables scalable similarity searches across millions of vectors, including Wikipedia embeddings, with features like namespaces and metadata filtering.",
+      "tags": [
+        "async python",
+        "wikipedia",
+        "vector database",
+        "similarity searches",
+        "namespaces",
+        "metadata filtering",
+        "embedding models",
+        "wikipedia semantic search"
+      ],
+      "score": 0.24238155637728043,
+      "scraped_at": "2026-10-06T09:16:57.181000+00:00"
+    },
+    {
+      "id": "6ad86bd9cb551640ca20",
+      "url": "https://upstash.com/blog/sveltekit-qstash",
+      "title": "Refresh stale data in a SvelteKit app with QStash | Upstash Blog",
+      "summary": "QStash can be used to refresh stale data in a SvelteKit app by publishing a JSON message to a QStash endpoint.",
+      "tags": [
+        "sveltekit",
+        "qstash",
+        "refresh",
+        "cache",
+        "message delivery",
+        "serverless",
+        "edge",
+        "upstash"
+      ],
+      "score": 0.23883796744099522,
+      "scraped_at": "2026-10-21T07:38:01.667000+00:00"
+    },
+    {
+      "id": "6ad71db93b796ba66099",
+      "url": "https://upstash.com/blog/nitpick-pr-reviews-arena",
+      "title": "I Built 5 AI Agents to Review My PRs | Upstash Blog",
+      "summary": "I built a Nitpick PR review bot that runs a full PR review arena from the terminal, fitting into my workflow.",
+      "tags": [
+        "nitpick",
+        "pr review",
+        "bot",
+        "review bot",
+        "nitpick bot",
+        "upstash box",
+        "cloud computer",
+        "backend"
+      ],
+      "score": 0.2273574849765597,
+      "scraped_at": "2026-10-20T07:52:24.360000+00:00"
+    },
+    {
+      "id": "6ad71778caf24d4e51e0",
+      "url": "https://dev.37signals.com/parsing-json-docker-logs-with-opentelemetry-collector/",
+      "title": "37signals Dev — Parsing JSON-structured Docker logs with the OpenTelemetry Collector",
+      "summary": "The OpenTelemetry Collector uses a filelog receiver to parse JSON-structured Docker logs from containers.",
+      "tags": [
+        "docker",
+        "json",
+        "collector",
+        "oteltec",
+        "docker logs",
+        "json logs",
+        "docker receiver",
+        "filelog receiver"
+      ],
+      "score": 0.2273574849765597,
+      "scraped_at": "2026-10-20T07:25:43.917000+00:00"
+    },
+    {
+      "id": "6ad5ca9955975046c5e5",
+      "url": "https://blog.cloudflare.com/cloudflare-k2-streams/",
+      "title": "Announcing Cloudflare K2: serverless event streams | Cloudflare Blog",
+      "summary": "Cloudflare K2 is a serverless event streaming primitive on the Developer Platform, allowing for durable and scalable event storage and consumption.",
+      "tags": [
+        "cloudflare",
+        "k2",
+        "event streaming",
+        "serverless",
+        "event streams",
+        "cloudflare blog",
+        "developer platform"
+      ],
+      "score": 0.209433741074438,
+      "scraped_at": "2026-10-19T07:45:28.600000+00:00"
+    },
+    {
+      "id": "6acf2fac6d3822502d71",
+      "url": "https://planetscale.com/blog/author/joe",
+      "title": "Posts by Joe Miller — PlanetScale",
+      "summary": "PlanetScale is now available on Azure",
+      "tags": [
+        "azure",
+        "planetscale",
+        "migrate",
+        "postgres",
+        "neki",
+        "microsoft"
+      ],
+      "score": 0.14731595969181926,
+      "scraped_at": "2026-10-14T07:30:51.604000+00:00"
+    }
+  ]
+}
