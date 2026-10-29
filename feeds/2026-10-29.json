@@ -1,0 +1,177 @@
+{
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T11:11:32.959041+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6ad31f7256f438e8b825",
+      "url": "https://upstash.com/blog/nuxt-redis",
+      "title": "Getting started with Nuxt 3 and Serverless Redis | Upstash Blog",
+      "summary": "Upstash provides its own HTTP/REST based Redis client and offers several npm packages to interact with Redis database. This article discusses Upstash, Redis database, and the recent beta release of Vue SSR framework, Nuxt 3.",
+      "tags": [
+        "async python",
+        "nuxt",
+        "redis",
+        "upstash",
+        "serverless",
+        "vue",
+        "ssr"
+      ],
+      "score": 0.3384813425395588,
+      "scraped_at": "2026-10-17T07:10:42.162000+00:00"
+    },
+    {
+      "id": "6ad717f6114ffc16a63b",
+      "url": "https://tailscale.com/blog/magicroute-beta",
+      "title": "MagicRoute beta: A smarter way to route traffic to overlapping connectors",
+      "summary": "MagicRoute is a new way to select the best available backend for multiple Tailscale connections, using signals like location to find the best subnet routers and app connectors.",
+      "tags": [
+        "magicroute",
+        "tailscale",
+        "backend",
+        "routing",
+        "subnet",
+        "routers",
+        "connectors",
+        "optimization"
+      ],
+      "score": 0.29061144753174645,
+      "scraped_at": "2026-10-20T07:27:49.903000+00:00"
+    },
+    {
+      "id": "6ad31b18e17777676a12",
+      "url": "https://www.tigerdata.com/blog/building-ingest-safety-monitor-iiot-pipeline-sql",
+      "title": "Building an Ingest Safety Monitor for Your IIoT Pipeline in SQL | Tiger Data",
+      "summary": "An industrial internet of things (IIoT) ingest pipeline can run for months without an error and then fall behind within hours of a load increase. Ingest safety is the distance between current write load and a ceiling measured by WAL volume, replica replay, dead rows, and forced checkpoints. Measure that distance every minute to get an alert.",
+      "tags": [
+        "iiot",
+        "ingest",
+        "safety",
+        "pipeline",
+        "sql",
+        "tigerdata",
+        "database",
+        "alerting"
+      ],
+      "score": 0.23586353470326663,
+      "scraped_at": "2026-10-17T06:52:08.681000+00:00"
+    },
+    {
+      "id": "6ac9f7201fcd0e33c00c",
+      "url": "https://vercel.com/customers/how-rillet-ships-3-faster-with-ai-agents-on-vercel",
+      "title": "How Rillet ships 3× faster with AI agents on Vercel | Customers | Vercel",
+      "summary": "Rillet ships 3× faster with AI agents on Vercel, tripling shipping rate in 3 months.",
+      "tags": [
+        "async python",
+        "vercel",
+        "ai agents",
+        "erp",
+        "erp platform",
+        "zero day close",
+        "accounting work",
+        "real-time general ledger"
+      ],
+      "score": 0.21073095515210288,
+      "scraped_at": "2026-10-10T08:28:15.933000+00:00"
+    },
+    {
+      "id": "6ac8aab03e8898a963ef",
+      "url": "https://upstash.com/blog/react-server-components",
+      "title": "Working with React Server Components | Upstash Blog",
+      "summary": "React Server Components are used when rendering React components on the server-side, especially in Next.js applications.",
+      "tags": [
+        "react server components",
+        "next.js",
+        "server-side rendering",
+        "jsx",
+        "javascript",
+        "react",
+        "programming",
+        "async python"
+      ],
+      "score": 0.19590852002895143,
+      "scraped_at": "2026-10-09T08:49:51.429000+00:00"
+    },
+    {
+      "id": "6ad8699ed9c2112ae714",
+      "url": "https://shopify.engineering/open-model-task-experts",
+      "title": "How Shopify turns open models into task experts (2026) - Shopify",
+      "summary": "Shopify's AI commerce assistant uses open models to automate tasks, handing off work to subagents that specialize in specific tasks.",
+      "tags": [
+        "shopify",
+        "ai",
+        "commerce",
+        "open models",
+        "task experts",
+        "subagents",
+        "nvidia nemotron",
+        "lightning"
+      ],
+      "score": 0.172575190527164,
+      "scraped_at": "2026-10-21T07:28:30.580000+00:00"
+    },
+    {
+      "id": "6ad8691babe8ecee7d47",
+      "url": "https://upstash.com/blog/tanstack-ai-and-upstash",
+      "title": "TanStack AI Powered by Upstash | Upstash Blog",
+      "summary": "TanStack AI and Upstash integration for building real-world features",
+      "tags": [
+        "tanstack ai",
+        "upstash",
+        "ai",
+        "integration",
+        "features",
+        "building",
+        "real-world",
+        "knowledge base"
+      ],
+      "score": 0.17155890290337375,
+      "scraped_at": "2026-10-21T07:26:19.514000+00:00"
+    },
+    {
+      "id": "6ad71a14f2cebe4c15e0",
+      "url": "https://blog.cloudflare.com/author/petra/",
+      "title": "Petra Arts - Cloudflare Blog",
+      "summary": "Petra Arts is a blog about art and design.",
+      "tags": [
+        "petra arts",
+        "cloudflare blog",
+        "art",
+        "design",
+        "life at cloudflare",
+        "solutions",
+        "resources"
+      ],
+      "score": 0.16076601938044396,
+      "scraped_at": "2026-10-20T07:36:51.975000+00:00"
+    },
+    {
+      "id": "6ad475be1dcb2d2ce381",
+      "url": "https://blog.cloudflare.com/author/carly/",
+      "title": "Carly Ramsey - Cloudflare Blog",
+      "summary": "Carly Ramsey is the author of Cloudflare blog.",
+      "tags": [
+        "cloudflare",
+        "carly ramsey",
+        "author"
+      ],
+      "score": 0.13797779959628037,
+      "scraped_at": "2026-10-18T07:31:09.914000+00:00"
+    },
+    {
+      "id": "6ad07fec9d2653121cd1",
+      "url": "https://planetscale.com/blog/neki-volatile-expressions",
+      "title": "Sequences and other volatiles in Neki — PlanetScale",
+      "summary": "Neki's architecture discusses implementing Postgres sequences in sharded Postgres. The focus is on pathological cases where centralized control is required.",
+      "tags": [
+        "neki",
+        "sequences",
+        "postgres",
+        "sharded",
+        "architecture"
+      ],
+      "score": 0.1125132602166572,
+      "scraped_at": "2026-10-15T07:25:31.813000+00:00"
+    }
+  ]
+}
