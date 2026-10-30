@@ -1,0 +1,179 @@
+{
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T11:06:16.736749+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6ad0837e7de5bed48824",
+      "url": "https://upstash.com/blog/next-chatapp-with-kafka",
+      "title": "Building a Chat Application using Upstash Kafka, Redis and Next.js | Upstash Blog",
+      "summary": "Building a chat application using Upstash Kafka, Redis and Next.js",
+      "tags": [
+        "async python",
+        "kafka",
+        "redis",
+        "next.js",
+        "chat application",
+        "upstash"
+      ],
+      "score": 0.2746169926280746,
+      "scraped_at": "2026-10-15T07:40:46.359000+00:00"
+    },
+    {
+      "id": "6ad4749a3e7929076e66",
+      "url": "https://blog.cloudflare.com/cloudflare-basin/",
+      "title": "Introducing Cloudflare Basin: an open, serverless data platform, now generally available | Cloudflare Blog",
+      "summary": "Cloudflare Basin, a serverless data platform, is now generally available. Basin is a suite of products that ingest, store, and query analytical data.",
+      "tags": [
+        "cloudflare",
+        "basin",
+        "data platform",
+        "serverless",
+        "analytics",
+        "database",
+        "sql",
+        "iceberg"
+      ],
+      "score": 0.23438087127503046,
+      "scraped_at": "2026-10-18T07:26:17.441000+00:00"
+    },
+    {
+      "id": "6ad321f154f7518a3ff6",
+      "url": "https://upstash.com/blog/author/ibrahim",
+      "title": "Ibrahim Gurses's Posts | Upstash Blog",
+      "summary": "Ibrahim Gurses's blog posts discuss AI responses and Upstash's vector technology.",
+      "tags": [
+        "ibrahim gurses",
+        "upstash blog",
+        "ai responses",
+        "upstash vector",
+        "peaka",
+        "rag pipeline",
+        "docs",
+        "customers"
+      ],
+      "score": 0.22065827398538332,
+      "scraped_at": "2026-10-17T07:21:20.450000+00:00"
+    },
+    {
+      "id": "6acb4d95b0baeb666e8b",
+      "url": "https://upstash.com/blog/chalice-event-reminder-slackbot",
+      "title": "Serverless Birthday Slackbot with AWS Chalice and Upstash Redis | Upstash Blog",
+      "summary": "A serverless birthday Slackbot built with AWS Chalice and Upstash Redis, using Python and async Python.",
+      "tags": [
+        "async python",
+        "serverless",
+        "slackbot",
+        "aws chalice",
+        "upstash redis",
+        "python",
+        "serverless python"
+      ],
+      "score": 0.20938439006329618,
+      "scraped_at": "2026-10-11T08:49:24.751000+00:00"
+    },
+    {
+      "id": "6ad07f24bc308319d574",
+      "url": "https://vercel.com/blog/findings-from-the-1-million-dollar-vercel-sandbox-challenge",
+      "title": "Findings from the $1M Vercel Sandbox challenge - Vercel",
+      "summary": "Vercel Sandbox challenge: hacker finds $1M bug in production sandboxes, but no customer data accessed.",
+      "tags": [
+        "vercel",
+        "sandbox",
+        "challenge",
+        "hacker",
+        "bug",
+        "production",
+        "linux"
+      ],
+      "score": 0.19155536934219017,
+      "scraped_at": "2026-10-15T07:22:11.871000+00:00"
+    },
+    {
+      "id": "6ad71db93b796ba66099",
+      "url": "https://upstash.com/blog/nitpick-pr-reviews-arena",
+      "title": "I Built 5 AI Agents to Review My PRs | Upstash Blog",
+      "summary": "I built a Nitpick PR review bot that runs a full PR review arena from the terminal, fitting into my workflow.",
+      "tags": [
+        "nitpick",
+        "pr review",
+        "bot",
+        "review bot",
+        "nitpick bot",
+        "upstash box",
+        "cloud computer",
+        "backend"
+      ],
+      "score": 0.15,
+      "scraped_at": "2026-10-20T07:52:24.360000+00:00"
+    },
+    {
+      "id": "6ad71778caf24d4e51e0",
+      "url": "https://dev.37signals.com/parsing-json-docker-logs-with-opentelemetry-collector/",
+      "title": "37signals Dev — Parsing JSON-structured Docker logs with the OpenTelemetry Collector",
+      "summary": "The OpenTelemetry Collector uses a filelog receiver to parse JSON-structured Docker logs from containers.",
+      "tags": [
+        "docker",
+        "json",
+        "collector",
+        "oteltec",
+        "docker logs",
+        "json logs",
+        "docker receiver",
+        "filelog receiver"
+      ],
+      "score": 0.15,
+      "scraped_at": "2026-10-20T07:25:43.917000+00:00"
+    },
+    {
+      "id": "6ad7176f4fcc78bede53",
+      "url": "https://shopify.engineering/overexposed",
+      "title": "Building Overexposed: understanding application exposure (2026) - Shopify",
+      "summary": "Discovering and assessing internet exposure of applications requires a structured approach.",
+      "tags": [
+        "application",
+        "exposure",
+        "internet",
+        "security",
+        "programming",
+        "development",
+        "tools",
+        "api"
+      ],
+      "score": 0.14908190471184468,
+      "scraped_at": "2026-10-20T07:25:34.488000+00:00"
+    },
+    {
+      "id": "6acf2fac6d3822502d71",
+      "url": "https://planetscale.com/blog/author/joe",
+      "title": "Posts by Joe Miller — PlanetScale",
+      "summary": "PlanetScale is now available on Azure",
+      "tags": [
+        "azure",
+        "planetscale",
+        "migrate",
+        "postgres",
+        "neki",
+        "microsoft"
+      ],
+      "score": 0.09765746780335921,
+      "scraped_at": "2026-10-14T07:30:51.604000+00:00"
+    },
+    {
+      "id": "6ac9f6f688a19eaf1b33",
+      "url": "https://www.tigerdata.com/blog/measuring-how-fast-iiot-queries-degrading",
+      "title": "Measuring How Fast Your IIoT Queries Are Degrading | Tiger Data",
+      "summary": "A degradation coefficient in milliseconds per million rows measures how quickly IIoT queries are degrading over time.",
+      "tags": [
+        "iiot",
+        "postgresql",
+        "performance",
+        "degradation",
+        "ms per million rows",
+        "ms"
+      ],
+      "score": 0.07378764377311897,
+      "scraped_at": "2026-10-10T08:27:33.923000+00:00"
+    }
+  ]
+}
