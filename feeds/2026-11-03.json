@@ -1,0 +1,176 @@
+{
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03T12:30:28.105333+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6ad719dc9c48fe4fa9b9",
+      "url": "https://upstash.com/blog/kafka-tinybird-vercel-edge",
+      "title": "Serverless Realtime Analytics for Next.js with Vercel Edge, Upstash Kafka and Tinybird | Upstash Blog",
+      "summary": "Upstash Kafka is a serverless Kafka offering that can be accessed from Edge functions (Vercel Edge, Cloudflare Workers, Fastly) via its built-in REST API. Vercel Edge intercepts requests to Next.js application, sending traffic events to Upstash Kafka for real-time analytics.",
+      "tags": [
+        "async python",
+        "kafka",
+        "tinybird",
+        "vercel edge",
+        "upstash kafka",
+        "next.js",
+        "real-time analytics",
+        "serverless"
+      ],
+      "score": 0.2975971597733872,
+      "scraped_at": "2026-10-20T07:35:56.449000+00:00"
+    },
+    {
+      "id": "6ad86b1fb8ffd6c397ee",
+      "url": "https://www.tigerdata.com/blog/introducing-searchgres-js-composable-search-postgresql",
+      "title": "Introducing searchgres.js: Composable Search in PostgreSQL | Tiger Data",
+      "summary": "searchgres.js is a composable search solution for PostgreSQL, providing a simple and efficient way to manage search queries.",
+      "tags": [
+        "postgresql",
+        "searchgres",
+        "timescale",
+        "tigerdata",
+        "data",
+        "searchengine",
+        "database"
+      ],
+      "score": 0.21851400450403768,
+      "scraped_at": "2026-10-21T07:34:55.522000+00:00"
+    },
+    {
+      "id": "6acf31d77dd306a5b005",
+      "url": "https://upstash.com/blog/nestjs-redis-url-shortener",
+      "title": "Let's build our own URL Shortener with NestJS and Redis | Upstash Blog",
+      "summary": "A tutorial on building a URL shortener using NestJS and Redis to streamline URL sharing.",
+      "tags": [
+        "url shortener",
+        "nestjs",
+        "redis",
+        "upstash",
+        "tinyurl",
+        "url shortening",
+        "nosejs",
+        "async python"
+      ],
+      "score": 0.19563273620709176,
+      "scraped_at": "2026-10-14T07:40:06.898000+00:00"
+    },
+    {
+      "id": "6ac8aa311ce61723433b",
+      "url": "https://planetscale.com/blog/tin-v106",
+      "title": "TIN v1.0.6: 2-3x faster, with support for stemming — PlanetScale",
+      "summary": "TIN v1.0.6: 2-3x faster, with support for stemming, released for all customers.",
+      "tags": [
+        "async python",
+        "tin",
+        "stemming",
+        "postgres",
+        "full-text search",
+        "tin v1.0.6",
+        "tin v1.0.4",
+        "tin full-score"
+      ],
+      "score": 0.138258430759274,
+      "scraped_at": "2026-10-09T08:47:44.237000+00:00"
+    },
+    {
+      "id": "6ad717f6114ffc16a63b",
+      "url": "https://tailscale.com/blog/magicroute-beta",
+      "title": "MagicRoute beta: A smarter way to route traffic to overlapping connectors",
+      "summary": "MagicRoute is a new way to select the best available backend for multiple Tailscale connections, using signals like location to find the best subnet routers and app connectors.",
+      "tags": [
+        "magicroute",
+        "tailscale",
+        "backend",
+        "routing",
+        "subnet",
+        "routers",
+        "connectors",
+        "optimization"
+      ],
+      "score": 0.1371095359955006,
+      "scraped_at": "2026-10-20T07:27:49.903000+00:00"
+    },
+    {
+      "id": "6ad86a0481d0bbb86671",
+      "url": "https://vercel.com/blog/making-every-harness-durable",
+      "title": "Making every harness durable - Vercel",
+      "summary": "Make your own durable harness for Vercel",
+      "tags": [
+        "vercel",
+        "harness",
+        "durable",
+        "local",
+        "workflow",
+        "make",
+        "your"
+      ],
+      "score": 0.12221220853039566,
+      "scraped_at": "2026-10-21T07:30:12.362000+00:00"
+    },
+    {
+      "id": "6ad71778caf24d4e51e0",
+      "url": "https://dev.37signals.com/parsing-json-docker-logs-with-opentelemetry-collector/",
+      "title": "37signals Dev — Parsing JSON-structured Docker logs with the OpenTelemetry Collector",
+      "summary": "The OpenTelemetry Collector uses a filelog receiver to parse JSON-structured Docker logs from containers.",
+      "tags": [
+        "docker",
+        "json",
+        "collector",
+        "oteltec",
+        "docker logs",
+        "json logs",
+        "docker receiver",
+        "filelog receiver"
+      ],
+      "score": 0.11367874248827986,
+      "scraped_at": "2026-10-20T07:25:43.917000+00:00"
+    },
+    {
+      "id": "6ad472200bc065779867",
+      "url": "https://upstash.com/blog/groq-llama3-vercel-ai",
+      "title": "Trying Llama3 on Groq with Vercel AI | Upstash Blog",
+      "summary": "Trying Llama3 on Groq with Vercel AI to see if Groq is really as fast as advertised.",
+      "tags": [
+        "groq",
+        "vercel ai",
+        "llama3",
+        "ai",
+        "chat",
+        "application"
+      ],
+      "score": 0.09920566623377201,
+      "scraped_at": "2026-10-18T07:15:43.888000+00:00"
+    },
+    {
+      "id": "6ad475be1dcb2d2ce381",
+      "url": "https://blog.cloudflare.com/author/carly/",
+      "title": "Carly Ramsey - Cloudflare Blog",
+      "summary": "Carly Ramsey is the author of Cloudflare blog.",
+      "tags": [
+        "cloudflare",
+        "carly ramsey",
+        "author"
+      ],
+      "score": 0.09755857787507334,
+      "scraped_at": "2026-10-18T07:31:09.914000+00:00"
+    },
+    {
+      "id": "6ad31f95d03d67af52a1",
+      "url": "https://vercel.com/blog/vercel-and-shopify-make-agents-first-class-shoppers",
+      "title": "Vercel and Shopify make agents first-class shoppers - Vercel",
+      "summary": "Vercel Shop is a Next.js and Shopify-based platform for building custom ecommerce experiences for agents.",
+      "tags": [
+        "vercel shop",
+        "shopify",
+        "agent commerce",
+        "nextjs",
+        "vercel",
+        "shopify shopify"
+      ],
+      "score": 0.09171837309822742,
+      "scraped_at": "2026-10-17T07:11:17.633000+00:00"
+    }
+  ]
+}
