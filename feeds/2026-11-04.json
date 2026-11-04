@@ -1,0 +1,180 @@
+{
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T12:41:00.395494+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6ad31cc8e80a63568d44",
+      "url": "https://upstash.com/blog/context7-quality-and-safety",
+      "title": "Quality and Safety in Context7 | Upstash Blog",
+      "summary": "Context7 delivers high-quality retrieval while prioritizing safety in the retrieval process.",
+      "tags": [
+        "async python",
+        "programming",
+        "quality",
+        "safety",
+        "context7",
+        "upstash",
+        "quality and safety"
+      ],
+      "score": 0.2240309900482153,
+      "scraped_at": "2026-10-17T06:59:20.118000+00:00"
+    },
+    {
+      "id": "6ad31f7256f438e8b825",
+      "url": "https://upstash.com/blog/nuxt-redis",
+      "title": "Getting started with Nuxt 3 and Serverless Redis | Upstash Blog",
+      "summary": "Upstash provides its own HTTP/REST based Redis client and offers several npm packages to interact with Redis database. This article discusses Upstash, Redis database, and the recent beta release of Vue SSR framework, Nuxt 3.",
+      "tags": [
+        "async python",
+        "nuxt",
+        "redis",
+        "upstash",
+        "serverless",
+        "vue",
+        "ssr"
+      ],
+      "score": 0.22330517412248052,
+      "scraped_at": "2026-10-17T07:10:42.162000+00:00"
+    },
+    {
+      "id": "6ad321f154f7518a3ff6",
+      "url": "https://upstash.com/blog/author/ibrahim",
+      "title": "Ibrahim Gurses's Posts | Upstash Blog",
+      "summary": "Ibrahim Gurses's blog posts discuss AI responses and Upstash's vector technology.",
+      "tags": [
+        "ibrahim gurses",
+        "upstash blog",
+        "ai responses",
+        "upstash vector",
+        "peaka",
+        "rag pipeline",
+        "docs",
+        "customers"
+      ],
+      "score": 0.15614544341286132,
+      "scraped_at": "2026-10-17T07:21:20.450000+00:00"
+    },
+    {
+      "id": "6ad31b18e17777676a12",
+      "url": "https://www.tigerdata.com/blog/building-ingest-safety-monitor-iiot-pipeline-sql",
+      "title": "Building an Ingest Safety Monitor for Your IIoT Pipeline in SQL | Tiger Data",
+      "summary": "An industrial internet of things (IIoT) ingest pipeline can run for months without an error and then fall behind within hours of a load increase. Ingest safety is the distance between current write load and a ceiling measured by WAL volume, replica replay, dead rows, and forced checkpoints. Measure that distance every minute to get an alert.",
+      "tags": [
+        "iiot",
+        "ingest",
+        "safety",
+        "pipeline",
+        "sql",
+        "tigerdata",
+        "database",
+        "alerting"
+      ],
+      "score": 0.15549542481392956,
+      "scraped_at": "2026-10-17T06:52:08.681000+00:00"
+    },
+    {
+      "id": "6ac9f7201fcd0e33c00c",
+      "url": "https://vercel.com/customers/how-rillet-ships-3-faster-with-ai-agents-on-vercel",
+      "title": "How Rillet ships 3× faster with AI agents on Vercel | Customers | Vercel",
+      "summary": "Rillet ships 3× faster with AI agents on Vercel, tripling shipping rate in 3 months.",
+      "tags": [
+        "async python",
+        "vercel",
+        "ai agents",
+        "erp",
+        "erp platform",
+        "zero day close",
+        "accounting work",
+        "real-time general ledger"
+      ],
+      "score": 0.13903864278617617,
+      "scraped_at": "2026-10-10T08:28:15.933000+00:00"
+    },
+    {
+      "id": "6ad8699ed9c2112ae714",
+      "url": "https://shopify.engineering/open-model-task-experts",
+      "title": "How Shopify turns open models into task experts (2026) - Shopify",
+      "summary": "Shopify's AI commerce assistant uses open models to automate tasks, handing off work to subagents that specialize in specific tasks.",
+      "tags": [
+        "shopify",
+        "ai",
+        "commerce",
+        "open models",
+        "task experts",
+        "subagents",
+        "nvidia nemotron",
+        "lightning"
+      ],
+      "score": 0.11355397458259323,
+      "scraped_at": "2026-10-21T07:28:30.580000+00:00"
+    },
+    {
+      "id": "6ad86a93a80a6ba1fa5d",
+      "url": "https://upstash.com/blog/ship-full-stack-app-stripe-projects",
+      "title": "From Prompt to Production: Build a Full-Stack App With Stripe Projects | Upstash Blog",
+      "summary": "Stripe projects is a tool for building full-stack apps with Stripe services.",
+      "tags": [
+        "stripe",
+        "projects",
+        "full-stack",
+        "app",
+        "init"
+      ],
+      "score": 0.11338584417070485,
+      "scraped_at": "2026-10-21T07:32:35.530000+00:00"
+    },
+    {
+      "id": "6ad8691babe8ecee7d47",
+      "url": "https://upstash.com/blog/tanstack-ai-and-upstash",
+      "title": "TanStack AI Powered by Upstash | Upstash Blog",
+      "summary": "TanStack AI and Upstash integration for building real-world features",
+      "tags": [
+        "tanstack ai",
+        "upstash",
+        "ai",
+        "integration",
+        "features",
+        "building",
+        "real-world",
+        "knowledge base"
+      ],
+      "score": 0.11288081031037121,
+      "scraped_at": "2026-10-21T07:26:19.514000+00:00"
+    },
+    {
+      "id": "6ad8690eb079d65df4bc",
+      "url": "https://blog.cloudflare.com/author/alex-reneau/",
+      "title": "Alex Reneau - Cloudflare Blog",
+      "summary": "Cloudflare invests in AI with new team members.",
+      "tags": [
+        "cloudflare",
+        "ai",
+        "investment",
+        "team members",
+        "ensemble ai",
+        "machine learning",
+        "infrastructure",
+        "efficiency"
+      ],
+      "score": 0.11287894585585213,
+      "scraped_at": "2026-10-21T07:26:06.568000+00:00"
+    },
+    {
+      "id": "6acf2fac6d3822502d71",
+      "url": "https://planetscale.com/blog/author/joe",
+      "title": "Posts by Joe Miller — PlanetScale",
+      "summary": "PlanetScale is now available on Azure",
+      "tags": [
+        "azure",
+        "planetscale",
+        "migrate",
+        "postgres",
+        "neki",
+        "microsoft"
+      ],
+      "score": 0.06904764973002185,
+      "scraped_at": "2026-10-14T07:30:51.604000+00:00"
+    }
+  ]
+}
