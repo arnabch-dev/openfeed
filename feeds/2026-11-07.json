@@ -1,0 +1,182 @@
+{
+  "date": "2026-11-07",
+  "generated_at": "2026-11-07T11:24:40.641914+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6acf31d77dd306a5b005",
+      "url": "https://upstash.com/blog/nestjs-redis-url-shortener",
+      "title": "Let's build our own URL Shortener with NestJS and Redis | Upstash Blog",
+      "summary": "A tutorial on building a URL shortener using NestJS and Redis to streamline URL sharing.",
+      "tags": [
+        "url shortener",
+        "nestjs",
+        "redis",
+        "upstash",
+        "tinyurl",
+        "url shortening",
+        "nosejs",
+        "async python"
+      ],
+      "score": 0.14826561606037064,
+      "scraped_at": "2026-10-14T07:40:06.898000+00:00"
+    },
+    {
+      "id": "6ad4749a3e7929076e66",
+      "url": "https://blog.cloudflare.com/cloudflare-basin/",
+      "title": "Introducing Cloudflare Basin: an open, serverless data platform, now generally available | Cloudflare Blog",
+      "summary": "Cloudflare Basin, a serverless data platform, is now generally available. Basin is a suite of products that ingest, store, and query analytical data.",
+      "tags": [
+        "cloudflare",
+        "basin",
+        "data platform",
+        "serverless",
+        "analytics",
+        "database",
+        "sql",
+        "iceberg"
+      ],
+      "score": 0.13461646063819965,
+      "scraped_at": "2026-10-18T07:26:17.441000+00:00"
+    },
+    {
+      "id": "6ac8aab03e8898a963ef",
+      "url": "https://upstash.com/blog/react-server-components",
+      "title": "Working with React Server Components | Upstash Blog",
+      "summary": "React Server Components are used when rendering React components on the server-side, especially in Next.js applications.",
+      "tags": [
+        "react server components",
+        "next.js",
+        "server-side rendering",
+        "jsx",
+        "javascript",
+        "react",
+        "programming",
+        "async python"
+      ],
+      "score": 0.104984776425895,
+      "scraped_at": "2026-10-09T08:49:51.429000+00:00"
+    },
+    {
+      "id": "6ad8687522c4798ecc71",
+      "url": "https://planetscale.com/blog/neki-updates-and-preparing-for-production",
+      "title": "Neki update: $50 Metal, read-only replicas, Azure, and more — PlanetScale",
+      "summary": "Neki now supports read-only replicas and smaller Metal instances at $50/month, starting with Postgres shards.",
+      "tags": [
+        "neki",
+        "read-only replicas",
+        "metal",
+        "postgres",
+        "planetscale",
+        "azure",
+        "aws",
+        "google cloud"
+      ],
+      "score": 0.09184675187486373,
+      "scraped_at": "2026-10-21T07:23:32.998000+00:00"
+    },
+    {
+      "id": "6ad71a14f2cebe4c15e0",
+      "url": "https://blog.cloudflare.com/author/petra/",
+      "title": "Petra Arts - Cloudflare Blog",
+      "summary": "Petra Arts is a blog about art and design.",
+      "tags": [
+        "petra arts",
+        "cloudflare blog",
+        "art",
+        "design",
+        "life at cloudflare",
+        "solutions",
+        "resources"
+      ],
+      "score": 0.08615237662477761,
+      "scraped_at": "2026-10-20T07:36:51.975000+00:00"
+    },
+    {
+      "id": "6ad71778caf24d4e51e0",
+      "url": "https://dev.37signals.com/parsing-json-docker-logs-with-opentelemetry-collector/",
+      "title": "37signals Dev — Parsing JSON-structured Docker logs with the OpenTelemetry Collector",
+      "summary": "The OpenTelemetry Collector uses a filelog receiver to parse JSON-structured Docker logs from containers.",
+      "tags": [
+        "docker",
+        "json",
+        "collector",
+        "oteltec",
+        "docker logs",
+        "json logs",
+        "docker receiver",
+        "filelog receiver"
+      ],
+      "score": 0.08615237662477761,
+      "scraped_at": "2026-10-20T07:25:43.917000+00:00"
+    },
+    {
+      "id": "6ad321f154f7518a3ff6",
+      "url": "https://upstash.com/blog/author/ibrahim",
+      "title": "Ibrahim Gurses's Posts | Upstash Blog",
+      "summary": "Ibrahim Gurses's blog posts discuss AI responses and Upstash's vector technology.",
+      "tags": [
+        "ibrahim gurses",
+        "upstash blog",
+        "ai responses",
+        "upstash vector",
+        "peaka",
+        "rag pipeline",
+        "docs",
+        "customers"
+      ],
+      "score": 0.08448993211449828,
+      "scraped_at": "2026-10-17T07:21:20.450000+00:00"
+    },
+    {
+      "id": "6ad472200bc065779867",
+      "url": "https://upstash.com/blog/groq-llama3-vercel-ai",
+      "title": "Trying Llama3 on Groq with Vercel AI | Upstash Blog",
+      "summary": "Trying Llama3 on Groq with Vercel AI to see if Groq is really as fast as advertised.",
+      "tags": [
+        "groq",
+        "vercel ai",
+        "llama3",
+        "ai",
+        "chat",
+        "application"
+      ],
+      "score": 0.07537869012556206,
+      "scraped_at": "2026-10-18T07:15:43.888000+00:00"
+    },
+    {
+      "id": "6ad31f95d03d67af52a1",
+      "url": "https://vercel.com/blog/vercel-and-shopify-make-agents-first-class-shoppers",
+      "title": "Vercel and Shopify make agents first-class shoppers - Vercel",
+      "summary": "Vercel Shop is a Next.js and Shopify-based platform for building custom ecommerce experiences for agents.",
+      "tags": [
+        "vercel shop",
+        "shopify",
+        "agent commerce",
+        "nextjs",
+        "vercel",
+        "shopify shopify"
+      ],
+      "score": 0.0696784774312883,
+      "scraped_at": "2026-10-17T07:11:17.633000+00:00"
+    },
+    {
+      "id": "6ad717f6114ffc16a63b",
+      "url": "https://tailscale.com/blog/magicroute-beta",
+      "title": "MagicRoute beta: A smarter way to route traffic to overlapping connectors",
+      "summary": "MagicRoute is a new way to select the best available backend for multiple Tailscale connections, using signals like location to find the best subnet routers and app connectors.",
+      "tags": [
+        "magicroute",
+        "tailscale",
+        "backend",
+        "routing",
+        "subnet",
+        "routers",
+        "connectors",
+        "optimization"
+      ],
+      "score": 0.051911606228964007,
+      "scraped_at": "2026-10-20T07:27:49.903000+00:00"
+    }
+  ]
+}
