@@ -1,0 +1,181 @@
+{
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T13:27:51.774667+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6ad719dc9c48fe4fa9b9",
+      "url": "https://upstash.com/blog/kafka-tinybird-vercel-edge",
+      "title": "Serverless Realtime Analytics for Next.js with Vercel Edge, Upstash Kafka and Tinybird | Upstash Blog",
+      "summary": "Upstash Kafka is a serverless Kafka offering that can be accessed from Edge functions (Vercel Edge, Cloudflare Workers, Fastly) via its built-in REST API. Vercel Edge intercepts requests to Next.js application, sending traffic events to Upstash Kafka for real-time analytics.",
+      "tags": [
+        "async python",
+        "kafka",
+        "tinybird",
+        "vercel edge",
+        "upstash kafka",
+        "next.js",
+        "real-time analytics",
+        "serverless"
+      ],
+      "score": 0.10631891279042989,
+      "scraped_at": "2026-10-20T07:35:56.449000+00:00"
+    },
+    {
+      "id": "6ad31cc8e80a63568d44",
+      "url": "https://upstash.com/blog/context7-quality-and-safety",
+      "title": "Quality and Safety in Context7 | Upstash Blog",
+      "summary": "Context7 delivers high-quality retrieval while prioritizing safety in the retrieval process.",
+      "tags": [
+        "async python",
+        "programming",
+        "quality",
+        "safety",
+        "context7",
+        "upstash",
+        "quality and safety"
+      ],
+      "score": 0.08578134324558068,
+      "scraped_at": "2026-10-17T06:59:20.118000+00:00"
+    },
+    {
+      "id": "6ad86e6a4ac86300f8f4",
+      "url": "https://upstash.com/blog/redis-database-for-agents",
+      "title": "Free Redis databases for AI agents, in one HTTP request | Upstash Blog",
+      "summary": "Easy Redis database for AI agents",
+      "tags": [
+        "redis",
+        "ai",
+        "upstash",
+        "http request",
+        "agent",
+        "database",
+        "ai agent",
+        "redis database"
+      ],
+      "score": 0.07781022310978063,
+      "scraped_at": "2026-10-21T07:48:57.627000+00:00"
+    },
+    {
+      "id": "6ad717f6114ffc16a63b",
+      "url": "https://tailscale.com/blog/magicroute-beta",
+      "title": "MagicRoute beta: A smarter way to route traffic to overlapping connectors",
+      "summary": "MagicRoute is a new way to select the best available backend for multiple Tailscale connections, using signals like location to find the best subnet routers and app connectors.",
+      "tags": [
+        "magicroute",
+        "tailscale",
+        "backend",
+        "routing",
+        "subnet",
+        "routers",
+        "connectors",
+        "optimization"
+      ],
+      "score": 0.07347518107032111,
+      "scraped_at": "2026-10-20T07:27:49.903000+00:00"
+    },
+    {
+      "id": "6ad86e3f29d84191c653",
+      "url": "https://blog.cloudflare.com/author/thibault/",
+      "title": "Thibault Meunier - Cloudflare Blog",
+      "summary": "Cloudflare explains Web3 in the context of web evolution and how it might support it.",
+      "tags": [
+        "web3",
+        "cloudflare",
+        "life-at-cloudflare",
+        "web-evolution"
+      ],
+      "score": 0.0646617281198785,
+      "scraped_at": "2026-10-21T07:48:14.486000+00:00"
+    },
+    {
+      "id": "6ad1d21aea7ed7b9aa59",
+      "url": "https://vercel.com/blog/ai-gateway-production-index-october-2026",
+      "title": "Open weight takes 71.5% of tokens and 23% of spend - Vercel",
+      "summary": "Open-weight models process more than seven in ten gateway tokens and account for nearly one in four dollars, driven by cheaper models.",
+      "tags": [
+        "open-weight",
+        "ai-gateway",
+        "production",
+        "october-2026",
+        "vercel",
+        "gateway",
+        "tokens"
+      ],
+      "score": 0.04630976727483602,
+      "scraped_at": "2026-10-16T07:28:26.737000+00:00"
+    },
+    {
+      "id": "6ad1cee8b67dae33bbc7",
+      "url": "https://upstash.com/blog/upstash-box-vs-daytona",
+      "title": "Upstash Box vs Daytona: A Comparison of AI Agent Sandboxes | Upstash Blog",
+      "summary": "Upstash Box and Daytona are two AI agent sandbox options. Box puts the agent in a box, while Daytona gives you a machine and integration primitives.",
+      "tags": [
+        "upstash box",
+        "daytona",
+        "ai agent sandbox",
+        "sandbox",
+        "containerization",
+        "machine learning",
+        "cloud computing",
+        "python"
+      ],
+      "score": 0.046105837145653715,
+      "scraped_at": "2026-10-16T07:14:48.576000+00:00"
+    },
+    {
+      "id": "6ad8687522c4798ecc71",
+      "url": "https://planetscale.com/blog/neki-updates-and-preparing-for-production",
+      "title": "Neki update: $50 Metal, read-only replicas, Azure, and more — PlanetScale",
+      "summary": "Neki now supports read-only replicas and smaller Metal instances at $50/month, starting with Postgres shards.",
+      "tags": [
+        "neki",
+        "read-only replicas",
+        "metal",
+        "postgres",
+        "planetscale",
+        "azure",
+        "aws",
+        "google cloud"
+      ],
+      "score": 0.04329422959411746,
+      "scraped_at": "2026-10-21T07:23:32.998000+00:00"
+    },
+    {
+      "id": "6ad0822e132e1d1337dd",
+      "url": "https://upstash.com/blog/upgradable-rwlock-for-go",
+      "title": "Upgradable Read Write Lock for Go | Upstash Blog",
+      "summary": "An upgradable read-write lock is implemented in Go, allowing multiple readers and a single writer to access shared resources concurrently.",
+      "tags": [
+        "upgradable read-write lock",
+        "go",
+        "concurrent access",
+        "shared resource",
+        "upgradable",
+        "read-write",
+        "lock",
+        "sync.rwmutex"
+      ],
+      "score": 0.04307618831238882,
+      "scraped_at": "2026-10-15T07:35:09.439000+00:00"
+    },
+    {
+      "id": "6ad321f154f7518a3ff6",
+      "url": "https://upstash.com/blog/author/ibrahim",
+      "title": "Ibrahim Gurses's Posts | Upstash Blog",
+      "summary": "Ibrahim Gurses's blog posts discuss AI responses and Upstash's vector technology.",
+      "tags": [
+        "ibrahim gurses",
+        "upstash blog",
+        "ai responses",
+        "upstash vector",
+        "peaka",
+        "rag pipeline",
+        "docs",
+        "customers"
+      ],
+      "score": 0.029894002331439407,
+      "scraped_at": "2026-10-17T07:21:20.450000+00:00"
+    }
+  ]
+}
