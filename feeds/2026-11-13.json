@@ -1,0 +1,173 @@
+{
+  "date": "2026-11-13",
+  "generated_at": "2026-11-13T12:43:45.300476+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6ad0837e7de5bed48824",
+      "url": "https://upstash.com/blog/next-chatapp-with-kafka",
+      "title": "Building a Chat Application using Upstash Kafka, Redis and Next.js | Upstash Blog",
+      "summary": "Building a chat application using Upstash Kafka, Redis and Next.js",
+      "tags": [
+        "async python",
+        "kafka",
+        "redis",
+        "next.js",
+        "chat application",
+        "upstash"
+      ],
+      "score": 0.10405686796220621,
+      "scraped_at": "2026-10-15T07:40:46.359000+00:00"
+    },
+    {
+      "id": "6ad31b18e17777676a12",
+      "url": "https://www.tigerdata.com/blog/building-ingest-safety-monitor-iiot-pipeline-sql",
+      "title": "Building an Ingest Safety Monitor for Your IIoT Pipeline in SQL | Tiger Data",
+      "summary": "An industrial internet of things (IIoT) ingest pipeline can run for months without an error and then fall behind within hours of a load increase. Ingest safety is the distance between current write load and a ceiling measured by WAL volume, replica replay, dead rows, and forced checkpoints. Measure that distance every minute to get an alert.",
+      "tags": [
+        "iiot",
+        "ingest",
+        "safety",
+        "pipeline",
+        "sql",
+        "tigerdata",
+        "database",
+        "alerting"
+      ],
+      "score": 0.08332793493068856,
+      "scraped_at": "2026-10-17T06:52:08.681000+00:00"
+    },
+    {
+      "id": "6ad71db93b796ba66099",
+      "url": "https://upstash.com/blog/nitpick-pr-reviews-arena",
+      "title": "I Built 5 AI Agents to Review My PRs | Upstash Blog",
+      "summary": "I built a Nitpick PR review bot that runs a full PR review arena from the terminal, fitting into my workflow.",
+      "tags": [
+        "nitpick",
+        "pr review",
+        "bot",
+        "review bot",
+        "nitpick bot",
+        "upstash box",
+        "cloud computer",
+        "backend"
+      ],
+      "score": 0.05683937124413993,
+      "scraped_at": "2026-10-20T07:52:24.360000+00:00"
+    },
+    {
+      "id": "6ad7176f4fcc78bede53",
+      "url": "https://shopify.engineering/overexposed",
+      "title": "Building Overexposed: understanding application exposure (2026) - Shopify",
+      "summary": "Discovering and assessing internet exposure of applications requires a structured approach.",
+      "tags": [
+        "application",
+        "exposure",
+        "internet",
+        "security",
+        "programming",
+        "development",
+        "tools",
+        "api"
+      ],
+      "score": 0.05648926366891755,
+      "scraped_at": "2026-10-20T07:25:34.488000+00:00"
+    },
+    {
+      "id": "6ad31b334a3f629b82bf",
+      "url": "https://tailscale.com/blog/self-hosted-rss-reader-freshrss",
+      "title": "It's time to make your own RSS reader",
+      "summary": "Self-hosting an RSS reader like FreshRSS allows for a personalized and information-dense reading experience.",
+      "tags": [
+        "self-hosted",
+        "rss",
+        "reader",
+        "freshrss",
+        "tailscale",
+        "eff",
+        "algorithm",
+        "rss aggregator"
+      ],
+      "score": 0.055668784224760993,
+      "scraped_at": "2026-10-17T06:52:34.848000+00:00"
+    },
+    {
+      "id": "6ad475be1dcb2d2ce381",
+      "url": "https://blog.cloudflare.com/author/carly/",
+      "title": "Carly Ramsey - Cloudflare Blog",
+      "summary": "Carly Ramsey is the author of Cloudflare blog.",
+      "tags": [
+        "cloudflare",
+        "carly ramsey",
+        "author"
+      ],
+      "score": 0.04877928893753667,
+      "scraped_at": "2026-10-18T07:31:09.914000+00:00"
+    },
+    {
+      "id": "6ad07f24bc308319d574",
+      "url": "https://vercel.com/blog/findings-from-the-1-million-dollar-vercel-sandbox-challenge",
+      "title": "Findings from the $1M Vercel Sandbox challenge - Vercel",
+      "summary": "Vercel Sandbox challenge: hacker finds $1M bug in production sandboxes, but no customer data accessed.",
+      "tags": [
+        "vercel",
+        "sandbox",
+        "challenge",
+        "hacker",
+        "bug",
+        "production",
+        "linux"
+      ],
+      "score": 0.048431364292237516,
+      "scraped_at": "2026-10-15T07:22:11.871000+00:00"
+    },
+    {
+      "id": "6ad86a93a80a6ba1fa5d",
+      "url": "https://upstash.com/blog/ship-full-stack-app-stripe-projects",
+      "title": "From Prompt to Production: Build a Full-Stack App With Stripe Projects | Upstash Blog",
+      "summary": "Stripe projects is a tool for building full-stack apps with Stripe services.",
+      "tags": [
+        "stripe",
+        "projects",
+        "full-stack",
+        "app",
+        "init"
+      ],
+      "score": 0.04050797960314564,
+      "scraped_at": "2026-10-21T07:32:35.530000+00:00"
+    },
+    {
+      "id": "6ad07fec9d2653121cd1",
+      "url": "https://planetscale.com/blog/neki-volatile-expressions",
+      "title": "Sequences and other volatiles in Neki — PlanetScale",
+      "summary": "Neki's architecture discusses implementing Postgres sequences in sharded Postgres. The focus is on pathological cases where centralized control is required.",
+      "tags": [
+        "neki",
+        "sequences",
+        "postgres",
+        "sharded",
+        "architecture"
+      ],
+      "score": 0.03977611901246194,
+      "scraped_at": "2026-10-15T07:25:31.813000+00:00"
+    },
+    {
+      "id": "6ad321f154f7518a3ff6",
+      "url": "https://upstash.com/blog/author/ibrahim",
+      "title": "Ibrahim Gurses's Posts | Upstash Blog",
+      "summary": "Ibrahim Gurses's blog posts discuss AI responses and Upstash's vector technology.",
+      "tags": [
+        "ibrahim gurses",
+        "upstash blog",
+        "ai responses",
+        "upstash vector",
+        "peaka",
+        "rag pipeline",
+        "docs",
+        "customers"
+      ],
+      "score": 0.01255144069094004,
+      "scraped_at": "2026-10-17T07:21:20.450000+00:00"
+    }
+  ]
+}
