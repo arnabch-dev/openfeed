@@ -1,0 +1,176 @@
+{
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T13:34:47.457038+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6ad86b1fb8ffd6c397ee",
+      "url": "https://www.tigerdata.com/blog/introducing-searchgres-js-composable-search-postgresql",
+      "title": "Introducing searchgres.js: Composable Search in PostgreSQL | Tiger Data",
+      "summary": "searchgres.js is a composable search solution for PostgreSQL, providing a simple and efficient way to manage search queries.",
+      "tags": [
+        "postgresql",
+        "searchgres",
+        "timescale",
+        "tigerdata",
+        "data",
+        "searchengine",
+        "database"
+      ],
+      "score": 0.051504244789677626,
+      "scraped_at": "2026-10-21T07:34:55.522000+00:00"
+    },
+    {
+      "id": "6ad8699ed9c2112ae714",
+      "url": "https://shopify.engineering/open-model-task-experts",
+      "title": "How Shopify turns open models into task experts (2026) - Shopify",
+      "summary": "Shopify's AI commerce assistant uses open models to automate tasks, handing off work to subagents that specialize in specific tasks.",
+      "tags": [
+        "shopify",
+        "ai",
+        "commerce",
+        "open models",
+        "task experts",
+        "subagents",
+        "nvidia nemotron",
+        "lightning"
+      ],
+      "score": 0.0430289101169843,
+      "scraped_at": "2026-10-21T07:28:30.580000+00:00"
+    },
+    {
+      "id": "6ad8690eb079d65df4bc",
+      "url": "https://blog.cloudflare.com/author/alex-reneau/",
+      "title": "Alex Reneau - Cloudflare Blog",
+      "summary": "Cloudflare invests in AI with new team members.",
+      "tags": [
+        "cloudflare",
+        "ai",
+        "investment",
+        "team members",
+        "ensemble ai",
+        "machine learning",
+        "infrastructure",
+        "efficiency"
+      ],
+      "score": 0.04277312206098633,
+      "scraped_at": "2026-10-21T07:26:06.568000+00:00"
+    },
+    {
+      "id": "6ad718af4e18e9b18fe0",
+      "url": "https://blog.cloudflare.com/workers-kv-instant/",
+      "title": "Introducing Workers KV Instant — powered by Quicksilver | Cloudflare Blog",
+      "summary": "Workers KV Instant is a new mode for Workers KV that pushes changes globally for instant availability without cold read penalties.",
+      "tags": [
+        "workers kv instant",
+        "cloudflare",
+        "kv",
+        "instant",
+        "availability",
+        "cold read",
+        "read-heavy",
+        "small data workloads"
+      ],
+      "score": 0.039927577273061794,
+      "scraped_at": "2026-10-20T07:30:54.841000+00:00"
+    },
+    {
+      "id": "6ad71b32bf01e9d0eaae",
+      "url": "https://upstash.com/blog/how-to-build-search-on-redis",
+      "title": "How to Build (Extremely Fast) Full-Text Search with Redis in 2026 | Upstash Blog",
+      "summary": "Building fast full-text search with Redis",
+      "tags": [
+        "full-text search",
+        "redis",
+        "upstash",
+        "self-hosted",
+        "redis open source",
+        "redis query engine"
+      ],
+      "score": 0.03945739777523002,
+      "scraped_at": "2026-10-20T07:41:38.598000+00:00"
+    },
+    {
+      "id": "6ad86a93a80a6ba1fa5d",
+      "url": "https://upstash.com/blog/ship-full-stack-app-stripe-projects",
+      "title": "From Prompt to Production: Build a Full-Stack App With Stripe Projects | Upstash Blog",
+      "summary": "Stripe projects is a tool for building full-stack apps with Stripe services.",
+      "tags": [
+        "stripe",
+        "projects",
+        "full-stack",
+        "app",
+        "init"
+      ],
+      "score": 0.02864346706955063,
+      "scraped_at": "2026-10-21T07:32:35.530000+00:00"
+    },
+    {
+      "id": "6ad86822aa621f1e26cb",
+      "url": "https://www.tigerdata.com/blog/author/john",
+      "title": "John Pruitt - Blog | Tiger Data",
+      "summary": "John Pruitt discusses blog posts on Tiger Data, including documentation, privacy policy, and company updates.",
+      "tags": [
+        "tiger data",
+        "john pruitt",
+        "docs",
+        "timescaledb updates"
+      ],
+      "score": 0.028594186685478945,
+      "scraped_at": "2026-10-21T07:22:10.546000+00:00"
+    },
+    {
+      "id": "6ad71a14f2cebe4c15e0",
+      "url": "https://blog.cloudflare.com/author/petra/",
+      "title": "Petra Arts - Cloudflare Blog",
+      "summary": "Petra Arts is a blog about art and design.",
+      "tags": [
+        "petra arts",
+        "cloudflare blog",
+        "art",
+        "design",
+        "life at cloudflare",
+        "solutions",
+        "resources"
+      ],
+      "score": 0.026794336563407326,
+      "scraped_at": "2026-10-20T07:36:51.975000+00:00"
+    },
+    {
+      "id": "6ad719dc9c48fe4fa9b9",
+      "url": "https://upstash.com/blog/kafka-tinybird-vercel-edge",
+      "title": "Serverless Realtime Analytics for Next.js with Vercel Edge, Upstash Kafka and Tinybird | Upstash Blog",
+      "summary": "Upstash Kafka is a serverless Kafka offering that can be accessed from Edge functions (Vercel Edge, Cloudflare Workers, Fastly) via its built-in REST API. Vercel Edge intercepts requests to Next.js application, sending traffic events to Upstash Kafka for real-time analytics.",
+      "tags": [
+        "async python",
+        "kafka",
+        "tinybird",
+        "vercel edge",
+        "upstash kafka",
+        "next.js",
+        "real-time analytics",
+        "serverless"
+      ],
+      "score": 0.01578247273032139,
+      "scraped_at": "2026-10-20T07:35:56.449000+00:00"
+    },
+    {
+      "id": "6ad717f6114ffc16a63b",
+      "url": "https://tailscale.com/blog/magicroute-beta",
+      "title": "MagicRoute beta: A smarter way to route traffic to overlapping connectors",
+      "summary": "MagicRoute is a new way to select the best available backend for multiple Tailscale connections, using signals like location to find the best subnet routers and app connectors.",
+      "tags": [
+        "magicroute",
+        "tailscale",
+        "backend",
+        "routing",
+        "subnet",
+        "routers",
+        "connectors",
+        "optimization"
+      ],
+      "score": 0.010906996800122944,
+      "scraped_at": "2026-10-20T07:27:49.903000+00:00"
+    }
+  ]
+}
