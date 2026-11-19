@@ -1,179 +1,172 @@
 {
   "date": "2026-11-19",
-  "generated_at": "2026-11-19T07:13:47.575218+00:00",
+  "generated_at": "2026-11-19T14:00:48.244022+00:00",
   "count": 10,
   "items": [
     {
-      "id": "6ad7188f5f56809fb087",
-      "url": "https://upstash.com/blog/dify-ai-assistant",
-      "title": "Build an AI Assistant with Dify and Upstash | Upstash Blog",
-      "summary": "Build an AI assistant with Dify and Upstash",
+      "id": "6afecadb1257a14a67e2",
+      "url": "https://www.tigerdata.com/blog/we-built-three-memory-systems-most-expressive-wasnt-most-useful",
+      "title": "We built three memory systems. The most expressive one wasn’t the most useful. | Tiger Data",
+      "summary": "We built three memory systems for agents, but the most expressive one wasn't useful.",
       "tags": [
-        "dify ai",
-        "upstash",
-        "ai assistant",
-        "chatbot",
-        "visual ai",
-        "open-source",
-        "business logic",
-        "file contents"
+        "memory",
+        "agents",
+        "memory systems",
+        "expressiveness",
+        "usefulness",
+        "agent memory",
+        "tiger data",
+        "async python"
       ],
-      "score": 0.03988607801309827,
-      "scraped_at": "2026-10-20T07:30:23.217000+00:00"
+      "score": 0.7863752257888459,
+      "scraped_at": "2026-11-19T10:09:30.252000+00:00"
     },
     {
-      "id": "6ad86e6a4ac86300f8f4",
-      "url": "https://upstash.com/blog/redis-database-for-agents",
-      "title": "Free Redis databases for AI agents, in one HTTP request | Upstash Blog",
-      "summary": "Easy Redis database for AI agents",
+      "id": "6afea18a362b41b6ebdf",
+      "url": "https://planetscale.com/blog/shard-groups-the-unit-of-co-location",
+      "title": "Shard design doesn't start from your tables — PlanetScale",
+      "summary": "Shard group design starts from queries, not tables. Identify key columns and group tables with those columns.",
       "tags": [
-        "redis",
-        "ai",
-        "upstash",
-        "http request",
-        "agent",
-        "database",
-        "ai agent",
-        "redis database"
+        "shard groups",
+        "database design",
+        "query patterns",
+        "table relationships",
+        "database optimization",
+        "sql indexing",
+        "planetscale",
+        "async python"
       ],
-      "score": 0.02569014101306845,
-      "scraped_at": "2026-10-21T07:48:57.627000+00:00"
+      "score": 0.7857572863236368,
+      "scraped_at": "2026-11-19T07:13:13.432000+00:00"
     },
     {
-      "id": "6ad719dc9c48fe4fa9b9",
-      "url": "https://upstash.com/blog/kafka-tinybird-vercel-edge",
-      "title": "Serverless Realtime Analytics for Next.js with Vercel Edge, Upstash Kafka and Tinybird | Upstash Blog",
-      "summary": "Upstash Kafka is a serverless Kafka offering that can be accessed from Edge functions (Vercel Edge, Cloudflare Workers, Fastly) via its built-in REST API. Vercel Edge intercepts requests to Next.js application, sending traffic events to Upstash Kafka for real-time analytics.",
+      "id": "6afecfbe56ddf594a03c",
+      "url": "https://vercel.com/customers/how-zapier-turns-ideas-into-working-software-in-hours-with-vercel",
+      "title": "How Zapier turns ideas into working software in hours with Vercel | Customers | Vercel",
+      "summary": "Zapier turns ideas into working software in hours with Vercel, a web experience platform.",
       "tags": [
         "async python",
-        "kafka",
-        "tinybird",
-        "vercel edge",
-        "upstash kafka",
-        "next.js",
-        "real-time analytics",
-        "serverless"
-      ],
-      "score": 0.01578348485918538,
-      "scraped_at": "2026-10-20T07:35:56.449000+00:00"
-    },
-    {
-      "id": "6ad86a0481d0bbb86671",
-      "url": "https://vercel.com/blog/making-every-harness-durable",
-      "title": "Making every harness durable - Vercel",
-      "summary": "Make your own durable harness for Vercel",
-      "tags": [
         "vercel",
-        "harness",
-        "durable",
-        "local",
-        "workflow",
-        "make",
-        "your"
+        "customers",
+        "software",
+        "zapier",
+        "web experiences",
+        "security guardrails"
       ],
-      "score": 0.014401773337897756,
-      "scraped_at": "2026-10-21T07:30:12.362000+00:00"
+      "score": 0.7845958140441529,
+      "scraped_at": "2026-11-19T10:30:21.481000+00:00"
     },
     {
-      "id": "6ad8687522c4798ecc71",
-      "url": "https://planetscale.com/blog/neki-updates-and-preparing-for-production",
-      "title": "Neki update: $50 Metal, read-only replicas, Azure, and more — PlanetScale",
-      "summary": "Neki now supports read-only replicas and smaller Metal instances at $50/month, starting with Postgres shards.",
+      "id": "6afed1688044daa527dd",
+      "url": "https://upstash.com/blog/in-app-announcement-react-native",
+      "title": "In-app Announcements with Serverless Redis and React Native | Upstash Blog",
+      "summary": "In this blog post, we will develop a mobile application to show how to send announcements to the users with serverless Redis. We will use React Native to develop a mobile application and Upstash for a serverless Redis.",
       "tags": [
-        "neki",
-        "read-only replicas",
-        "metal",
-        "postgres",
+        "async python",
+        "react native",
+        "upstash",
+        "serverless redis",
+        "mobile app",
+        "announcement",
+        "in-app announcements"
+      ],
+      "score": 0.7820944912568353,
+      "scraped_at": "2026-11-19T10:37:28.365000+00:00"
+    },
+    {
+      "id": "6afea3c625f29730638b",
+      "url": "https://upstash.com/blog/saas-subscription",
+      "title": "Build a Subscription Service for your NextJS & Prisma App with QStash | Upstash Blog",
+      "summary": "A NextJS and Prisma application provides a subscription service using Upstash Qstash, allowing users to pay a fee for a specified time interval. The application also includes features for managing user payments and CRON jobs to unsubscribe users when their subscription ends.",
+      "tags": [
+        "saas",
+        "nextjs",
+        "prisma",
+        "upstash",
+        "qstash",
+        "async python",
+        "programming"
+      ],
+      "score": 0.777959526770473,
+      "scraped_at": "2026-11-19T07:22:45.957000+00:00"
+    },
+    {
+      "id": "6afed1c170eac403685c",
+      "url": "https://planetscale.com/blog/author/shlomi",
+      "title": "Posts by Shlomi Noach — PlanetScale",
+      "summary": "Shlomi Noach's blog posts on PlanetScale",
+      "tags": [
+        "shlomi noach",
         "planetscale",
-        "azure",
-        "aws",
-        "google cloud"
+        "async python"
       ],
-      "score": 0.014212948041441657,
-      "scraped_at": "2026-10-21T07:23:32.998000+00:00"
+      "score": 0.7620194301963646,
+      "scraped_at": "2026-11-19T10:38:56.513000+00:00"
     },
     {
-      "id": "6ad86e3f29d84191c653",
-      "url": "https://blog.cloudflare.com/author/thibault/",
-      "title": "Thibault Meunier - Cloudflare Blog",
-      "summary": "Cloudflare explains Web3 in the context of web evolution and how it might support it.",
+      "id": "6afed0686c5a08263a33",
+      "url": "https://planetscale.com/blog/author/rohit",
+      "title": "Posts by Rohit Nayak — PlanetScale",
+      "summary": "Vitess team announces sharded Postgres support",
       "tags": [
-        "web3",
-        "cloudflare",
-        "life-at-cloudflare",
-        "web-evolution"
+        "vitess",
+        "sharded postgres",
+        "postgresql",
+        "database",
+        "tech news"
       ],
-      "score": 0.014208176440197024,
-      "scraped_at": "2026-10-21T07:48:14.486000+00:00"
+      "score": 0.5345803486417956,
+      "scraped_at": "2026-11-19T10:33:11.602000+00:00"
     },
     {
-      "id": "6ad71778caf24d4e51e0",
-      "url": "https://dev.37signals.com/parsing-json-docker-logs-with-opentelemetry-collector/",
-      "title": "37signals Dev — Parsing JSON-structured Docker logs with the OpenTelemetry Collector",
-      "summary": "The OpenTelemetry Collector uses a filelog receiver to parse JSON-structured Docker logs from containers.",
+      "id": "6afecb18c6348c450fef",
+      "url": "https://planetscale.com/blog/designing-a-reliable-unplanned-failover",
+      "title": "Designing a reliable unplanned failover — PlanetScale",
+      "summary": "Designing a reliable unplanned failover for PlanetScale",
       "tags": [
-        "docker",
-        "json",
-        "collector",
-        "oteltec",
-        "docker logs",
-        "json logs",
-        "docker receiver",
-        "filelog receiver"
+        "unplanned failover",
+        "planed switchover",
+        "primaryship",
+        "primary",
+        "repl",
+        "replica",
+        "switchover",
+        "minimum disruption"
       ],
-      "score": 0.013397168281703663,
-      "scraped_at": "2026-10-20T07:25:43.917000+00:00"
+      "score": 0.3,
+      "scraped_at": "2026-11-19T10:10:31.896000+00:00"
     },
     {
-      "id": "6ad7176f4fcc78bede53",
-      "url": "https://shopify.engineering/overexposed",
-      "title": "Building Overexposed: understanding application exposure (2026) - Shopify",
-      "summary": "Discovering and assessing internet exposure of applications requires a structured approach.",
+      "id": "6afec9c22131a07d9714",
+      "url": "https://blog.cloudflare.com/account-abuse-protection-dashboard/",
+      "title": "Follow the thread: a new dashboard to investigate account abuse | Cloudflare Blog",
+      "summary": "A new fraud dashboard for Account Abuse Protection is now available for Early Access customers. This dashboard brings together account overviews from activity across a website's login and signup flows, allowing fraud analysts to investigate individual accounts.",
       "tags": [
-        "application",
-        "exposure",
-        "internet",
-        "security",
-        "programming",
-        "development",
-        "tools",
-        "api"
+        "account abuse protection",
+        "fraud dashboard",
+        "cloudflare blog",
+        "early access",
+        "product launch"
       ],
-      "score": 0.01329362389752219,
-      "scraped_at": "2026-10-20T07:25:34.488000+00:00"
+      "score": 0.3,
+      "scraped_at": "2026-11-19T10:04:49.899000+00:00"
     },
     {
-      "id": "6ad717f6114ffc16a63b",
-      "url": "https://tailscale.com/blog/magicroute-beta",
-      "title": "MagicRoute beta: A smarter way to route traffic to overlapping connectors",
-      "summary": "MagicRoute is a new way to select the best available backend for multiple Tailscale connections, using signals like location to find the best subnet routers and app connectors.",
+      "id": "6afea7ec17666ddba82d",
+      "url": "https://www.tigerdata.com/blog/adaptive-integer-compression-aic-in-timescaledb",
+      "title": "Adaptive Integer Compression in TimescaleDB | Tiger Data",
+      "summary": "Adaptive Integer Compression in TimescaleDB replaces DeltaDelta compression with a new algorithm, Adaptive Integer Compression (AIC), which improves integer data compression ratio by 50% on average.",
       "tags": [
-        "magicroute",
-        "tailscale",
-        "backend",
-        "routing",
-        "subnet",
-        "routers",
-        "connectors",
-        "optimization"
+        "adaptive integer compression",
+        "timescaledb",
+        "compression",
+        "aic",
+        "timescaledb compression",
+        "timescaledb algorithms",
+        "timescaledb data"
       ],
-      "score": 0.010921275758949554,
-      "scraped_at": "2026-10-20T07:27:49.903000+00:00"
-    },
-    {
-      "id": "6ad86a93a80a6ba1fa5d",
-      "url": "https://upstash.com/blog/ship-full-stack-app-stripe-projects",
-      "title": "From Prompt to Production: Build a Full-Stack App With Stripe Projects | Upstash Blog",
-      "summary": "Stripe projects is a tool for building full-stack apps with Stripe services.",
-      "tags": [
-        "stripe",
-        "projects",
-        "full-stack",
-        "app",
-        "init"
-      ],
-      "score": 0.006445157292846803,
-      "scraped_at": "2026-10-21T07:32:35.530000+00:00"
+      "score": 0.3,
+      "scraped_at": "2026-11-19T07:40:27.875000+00:00"
     }
   ]
 }
