@@ -1,0 +1,184 @@
+{
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T13:44:06.306673+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6b001f30769ce22db500",
+      "url": "https://upstash.com/blog/symphony-on-upstash-box",
+      "title": "Running Symphony with Upstash Box in Minutes | Upstash Blog",
+      "summary": "Running Symphony with Upstash Box in Minutes",
+      "tags": [
+        "symphony",
+        "upstash box",
+        "async python",
+        "programming",
+        "elixir",
+        "linear",
+        "github",
+        "github token"
+      ],
+      "score": 0.7857733861881868,
+      "scraped_at": "2026-11-20T10:21:36.323000+00:00"
+    },
+    {
+      "id": "6b001cbe85955e940295",
+      "url": "https://upstash.com/blog/game-langchain-redis",
+      "title": "Would You Rather Game with LangChain, Redis, and the Query SDK | Upstash Blog",
+      "summary": "Create a 'Would You Rather' game using @upstash/query and Redis with LangChain",
+      "tags": [
+        "async python",
+        "programming",
+        "redis",
+        "langchain",
+        "upstash",
+        "query",
+        "game",
+        "would you rather"
+      ],
+      "score": 0.7808043310165539,
+      "scraped_at": "2026-11-20T10:11:09.916000+00:00"
+    },
+    {
+      "id": "6afecec692361f30c8ce",
+      "url": "https://upstash.com/blog/ahi",
+      "title": "Ahi: A Framework to Run Independent Agents | Upstash Blog",
+      "summary": "Ahi implements an agent server architecture, replacing traditional app servers with five primitives. It provides a framework for running independent agents in isolated containers.",
+      "tags": [
+        "agent server",
+        "architecture",
+        "framework",
+        "upstash",
+        "async python"
+      ],
+      "score": 0.7230373906867732,
+      "scraped_at": "2026-11-19T10:26:13.916000+00:00"
+    },
+    {
+      "id": "6b001e732df0930fce9f",
+      "url": "https://planetscale.com/blog/building-planetscale-with-insights-agent",
+      "title": "Building PlanetScale with Insights Agent — PlanetScale",
+      "summary": "Insights Agent helps identify problematic queries and schema issues in databases, and provides a fix by opening a pull request. It was tested and used to improve the product.",
+      "tags": [
+        "planet-scale",
+        "insights agent",
+        "database",
+        "optimization",
+        "testing",
+        "product",
+        "launch",
+        "rails api"
+      ],
+      "score": 0.5401271326894228,
+      "scraped_at": "2026-11-20T10:18:27.053000+00:00"
+    },
+    {
+      "id": "6afece132a2484d7701f",
+      "url": "https://tailscale.com/blog/what-is-tailscale-pam",
+      "title": "What's the difference between Tailscale VPN and Tailscale PAM?",
+      "summary": "Tailscale PAM enhances VPN security by providing infrastructure access management and logging capabilities.",
+      "tags": [
+        "privileged access management",
+        "security camera",
+        "identity layer",
+        "admin console",
+        "pam",
+        "vpn",
+        "tailscale",
+        "pam connector"
+      ],
+      "score": 0.5073180423688144,
+      "scraped_at": "2026-11-19T10:23:14.307000+00:00"
+    },
+    {
+      "id": "6afecc6c5e9771d3cb16",
+      "url": "https://planetscale.com/blog/what-was-the-turning-point-for-postgres",
+      "title": "What was the turning point for Postgres? — PlanetScale",
+      "summary": "Postgres' success was not guaranteed by its design, but rather by its ability to adapt and survive in the market.",
+      "tags": [
+        "postgres",
+        "database",
+        "relational",
+        "operational",
+        "success",
+        "design",
+        "adaptation",
+        "survival"
+      ],
+      "score": 0.5008879021041365,
+      "scraped_at": "2026-11-19T10:16:12.219000+00:00"
+    },
+    {
+      "id": "6b00207f7a72694c922c",
+      "url": "https://upstash.com/blog/build-your-own-mcp",
+      "title": "Model Context Protocol (MCP): Build Your Own in 5 Minutes | Upstash Blog",
+      "summary": "Model Context Protocol (MCP) is a standardized protocol for connecting AI to external APIs, live data and more. It provides a framework for building APIs for Large Language Models (LLMs).",
+      "tags": [
+        "model context protocol",
+        "mcp",
+        "ai",
+        "external api",
+        "llm",
+        "large language model",
+        "protocol",
+        "connection"
+      ],
+      "score": 0.30106156450824767,
+      "scraped_at": "2026-11-20T10:27:11.358000+00:00"
+    },
+    {
+      "id": "6b001e5d329469902c82",
+      "url": "https://blog.cloudflare.com/streamline/",
+      "title": "Streamline: custom video pipelines with Cloudflare Stream and Workers | Cloudflare Blog",
+      "summary": "Streamline: custom video pipelines with Cloudflare Stream and Workers",
+      "tags": [
+        "cloudflare stream",
+        "workers",
+        "video pipelines",
+        "custom video",
+        "streaming",
+        "video processing",
+        "media engine",
+        "containerized processing"
+      ],
+      "score": 0.3,
+      "scraped_at": "2026-11-20T10:18:04.512000+00:00"
+    },
+    {
+      "id": "6b001ef0d651ff40ab51",
+      "url": "https://www.tigerdata.com/blog/author/naveen",
+      "title": "Naveen Sukumar - Blog | Tiger Data",
+      "summary": "Tiger Cloud updates: faster queries, Postgres 18, Azure Marketplace, Tiered Storage, SQL editor",
+      "tags": [
+        "tiger cloud",
+        "tiger data",
+        "updates",
+        "fast queries",
+        "postgres 18",
+        "azure marketplace",
+        "tiered storage",
+        "sql editor"
+      ],
+      "score": 0.2998369981236128,
+      "scraped_at": "2026-11-20T10:20:32.190000+00:00"
+    },
+    {
+      "id": "6afea5b40561b7927df6",
+      "url": "https://planetscale.com/blog/planetscale-ranks-24-in-deloittes-technology-fast-500",
+      "title": "PlanetScale ranks #24 in Deloitte's Technology Fast 500 — PlanetScale",
+      "summary": "PlanetScale ranked #24 in Deloitte's Technology Fast 500, growing revenue by 3,493% from 2022 to 2025.",
+      "tags": [
+        "planetscale",
+        "tech",
+        "cloud",
+        "mysql",
+        "postgres",
+        "neki",
+        "vitess",
+        "fast-growing companies"
+      ],
+      "score": 0.2784096381595712,
+      "scraped_at": "2026-11-19T07:30:59.816000+00:00"
+    }
+  ]
+}
