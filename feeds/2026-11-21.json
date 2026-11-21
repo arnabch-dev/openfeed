@@ -1,0 +1,181 @@
+{
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T13:09:19.550840+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": "6b016677e8a51bdc204a",
+      "url": "https://vercel.com/blog/workflow-sdk-5",
+      "title": "Workflow SDK 5 is now available - Vercel",
+      "summary": "Workflow SDK 5 is now available, offering several key improvements and new features.",
+      "tags": [
+        "workflow sdk",
+        "vercel",
+        "async python",
+        "programming",
+        "workflow",
+        "vercel function",
+        "vercel world",
+        "vercel function region"
+      ],
+      "score": 0.7847947234768207,
+      "scraped_at": "2026-11-21T09:37:58.809000+00:00"
+    },
+    {
+      "id": "6b0166e07cd2acc19094",
+      "url": "https://upstash.com/blog/rag-chatbot-for-instagram-with-upstash-workflow-and-hono",
+      "title": "RAG Chatbot for Instagram with Upstash Workflow and Hono | Upstash Blog",
+      "summary": "A RAG chatbot is a type of chatbot that uses Upstash Workflow and Hono to automate Instagram messaging without waiting for a response.",
+      "tags": [
+        "async python",
+        "programming",
+        "upstash",
+        "hono",
+        "instagram",
+        "chatbot",
+        "workflow",
+        "send-ig-message"
+      ],
+      "score": 0.7826060660379177,
+      "scraped_at": "2026-11-21T09:39:43.667000+00:00"
+    },
+    {
+      "id": "6b01648dbf5bd330ce68",
+      "url": "https://tailscale.com/blog/iwo-secure-remote-access",
+      "title": "How Indigenous Women Outdoors keeps remote work secure with Tailscale",
+      "summary": "Tailscale helps Indigenous Women Outdoors Society (IWO) secure remote work with private, secure connections.",
+      "tags": [
+        "tailscale",
+        "private",
+        "secure",
+        "remote work",
+        "organization",
+        "indigenous women outdoors society",
+        "nonprofit"
+      ],
+      "score": 0.5433752001876763,
+      "scraped_at": "2026-11-21T09:29:48.895000+00:00"
+    },
+    {
+      "id": "6b016a901acbfd648ebd",
+      "url": "https://upstash.com/blog/redis-terraform",
+      "title": "Announcing Upstash Terraform Provider | Upstash Blog",
+      "summary": "upstash terraform provider now publicly available",
+      "tags": [
+        "upstash",
+        "terraform",
+        "provider",
+        "announcements",
+        "publicly available",
+        "redis",
+        "terraform provider",
+        "upstash blog"
+      ],
+      "score": 0.538760959705125,
+      "scraped_at": "2026-11-21T09:55:27.274000+00:00"
+    },
+    {
+      "id": "6b001babc1bc76458ccf",
+      "url": "https://planetscale.com/blog/migrate-from-heroku-to-planetscale",
+      "title": "How we migrate TBs from Heroku without logical replication — PlanetScale",
+      "summary": "Migrating from Heroku to PlanetScale without logical replication requires careful planning and execution. The Heroku Migrator tool provides a reliable and efficient way to transfer data and set up replication.",
+      "tags": [
+        "heroku",
+        "planetscale",
+        "migration",
+        "logical replication",
+        "database",
+        "tool"
+      ],
+      "score": 0.5014088258577386,
+      "scraped_at": "2026-11-20T10:06:35.651000+00:00"
+    },
+    {
+      "id": "6b01674004723bc2cc40",
+      "url": "https://blog.cloudflare.com/introducing-web-search-api/",
+      "title": "Introducing Web Search API via AI Gateway | Cloudflare Blog",
+      "summary": "Cloudflare's AI Gateway is now integrated with Web Search API, allowing users to access web search capabilities through AI Gateway.",
+      "tags": [
+        "web search",
+        "ai gateway",
+        "cloudflare",
+        "integrated",
+        "api",
+        "integration",
+        "web search api"
+      ],
+      "score": 0.298862253973785,
+      "scraped_at": "2026-11-21T09:41:19.174000+00:00"
+    },
+    {
+      "id": "6b01655cc3f31e9cadae",
+      "url": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
+      "title": "Announcing Cloudflare OHTTP Gateway – expanding access to Cloudflare’s privacy-preserving infrastructure | Cloudflare Blog",
+      "summary": "Cloudflare OHTTP Gateway enables customers to receive OHTTP traffic with just a few clicks, expanding access to Cloudflare's privacy-preserving infrastructure.",
+      "tags": [
+        "cloudflare",
+        "ohttp",
+        "gateway",
+        "infrastructure",
+        "access",
+        "cloudflare blog"
+      ],
+      "score": 0.29697256145146733,
+      "scraped_at": "2026-11-21T09:33:15.816000+00:00"
+    },
+    {
+      "id": "6b001ebc6da2e04238fa",
+      "url": "https://vercel.com/blog/vercel-x",
+      "title": "Introducing Vercel X - Vercel",
+      "summary": "Vercel X is a six-week AI-focused accelerator for founders at the idea and pre-seed stages.",
+      "tags": [
+        "vercel x",
+        "ai founder",
+        "accelerator",
+        "ai",
+        "founder",
+        "idea stage",
+        "pre-seed",
+        "accelerator program"
+      ],
+      "score": 0.28090037216988184,
+      "scraped_at": "2026-11-20T10:19:40.276000+00:00"
+    },
+    {
+      "id": "6b001db8acf95abbd1fe",
+      "url": "https://www.tigerdata.com/blog/tiger-lake-ga",
+      "title": "Tiger Lake GA: Sync Postgres to Apache Iceberg | Tiger Data | Tiger Data",
+      "summary": "Tiger Lake GA: Sync Postgres to Apache Iceberg | Tiger Data | Tiger Data",
+      "tags": [
+        "tiger lake",
+        "sync postgres",
+        "apache iceberg",
+        "tiger data",
+        "tiger cloud",
+        "postgres",
+        "timescaledb",
+        "hypertables"
+      ],
+      "score": 0.27898619606738395,
+      "scraped_at": "2026-11-20T10:15:20.561000+00:00"
+    },
+    {
+      "id": "6b001de5f2f871a21aa8",
+      "url": "https://upstash.com/blog/openclaw-and-hermes-on-upstash-box",
+      "title": "How to Host OpenClaw and Hermes 24/7 on Upstash Box | Upstash Blog",
+      "summary": "Hosting OpenClaw and Hermes on Upstash Box is a viable option for 24/7 operation. Hermes is installed inside a box on Upstash Box, and OpenClaw can be run on a machine that never sleeps. The cost is around $8 per month, and security is managed by Upstash Box.",
+      "tags": [
+        "openclaw",
+        "hermes",
+        "upstash box",
+        "hosting",
+        "server",
+        "serverless",
+        "cloud",
+        "server management"
+      ],
+      "score": 0.27808878432805706,
+      "scraped_at": "2026-11-20T10:16:05.281000+00:00"
+    }
+  ]
+}
